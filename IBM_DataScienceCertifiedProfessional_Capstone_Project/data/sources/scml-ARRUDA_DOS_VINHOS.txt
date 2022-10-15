@@ -1,0 +1,76 @@
+<div class="jstyling-select-t_select7">ARRUDA DOS VINHOS</div>
+<ul class="salePointSearch3">
+
+	                    		<li> 
+	                    			<span class="title">
+										CLUBE RECREATIVO E DESPORTIVO ARRUDENSE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JOÃO DE DEUS, 34 <br>
+	                      				2630 - 278 ARRUDA DOS VINHOS <br>
+	                      				Tel: 263975169<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										CASA CAVACO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.COMBATENTES DA GRANDE GUERRA,8 <br>
+	                      				2630 - 269 ARRUDA DOS VINHOS <br>
+	                      				Tel: 263975175<br>
+	                      				Fax: 263975175
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										CAFÉ CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.8 DE SETEMBRO,42 - 44 * N.SRA. AJUDA <br>
+	                      				2630 - 096 ARRANHÓ <br>
+	                      				Tel: 219694977<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										PAPELARIA CINDERELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CÂNDIDO DOS REIS,123 E 127 <br>
+	                      				2630 - 233 ARRUDA DOS VINHOS <br>
+	                      				Tel: 263975135<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										INTERMARCHE ARRUDA DOS VINHOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				ARRUDA SHOPPING - CASAL DA CRUZ, LJ-7 <br>
+	                      				2630 - 310 ARRUDA DOS VINHOS <br>
+	                      				Tel: 263974138<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										TABACARIA AMULETO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ENG.TOMÁS RIBEIRO CORREIA,6,PINGO DOCE,LJ-1 <br>
+	                      				2630 - 263 ARRUDA DOS VINHOS <br>
+	                      				Tel: 263978357<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

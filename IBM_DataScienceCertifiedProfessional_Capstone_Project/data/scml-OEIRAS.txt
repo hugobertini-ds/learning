@@ -1,0 +1,929 @@
+OEIRAS
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A PADEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AQUILINO RIBEIRO,34-I <br>
+	                      				2790 - 027 CARNAXIDE <br>
+	                      				Tel: 214172352<br>
+	                      				Fax: 214172352
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA GUI GUI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. 25 DE ABRIL, 44, LJ. 2 <br>
+	                      				2795 - 195 LINDA A VELHA <br>
+	                      				Tel: 214195915<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										ALBANO ALVES, UNIPESSOAL LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 DE ABRIL,4 (CENTRAL PARK,LJ1.30) <br>
+	                      				2795 - 241 LINDA A VELHA <br>
+	                      				Tel: 214192703<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE BELITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CARLOS WALLENSTEIN,6-B <br>
+	                      				2790 - 040 CARNAXIDE <br>
+	                      				Tel: 214172646<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										ARCADA DOS POETAS - ACT. HOTELEIRAS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CARLOS VIEIRA RAMOS, 36C/D <br>
+	                      				2780 - 216 OEIRAS <br>
+	                      				Tel: 211552585<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA LOBA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE PEDRO SILVA,4-A <br>
+	                      				2770 - 107 PAÇO DE ARCOS <br>
+	                      				Tel: 214425637<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PASTELARIA TENTAÇÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JOÃO DE ARAÚJO CORREIA, 4 - B <br>
+	                      				2730 - 246 BARCARENA <br>
+	                      				Tel: 214211208<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE PARIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. GIL VICENTE,14-A * QTA. PALMEIRAS <br>
+	                      				2780 - 115 OEIRAS <br>
+	                      				Tel: 214576457<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RISCOS E RABISCOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.TULIPAS (MIRAFLORES S.CENTER LJ-0.11) <br>
+	                      				1495 - 161 ALGÉS <br>
+	                      				Tel: 214104908<br>
+	                      				Fax: 214104908
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUEQUES DA LINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CONDE DAS ALCÁÇOVAS,14 <br>
+	                      				2770 - 032 PAÇO DE ARCOS <br>
+	                      				Tel: 214412148<br>
+	                      				Fax: 214694147
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE TRIEME
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.GEN.HUMBERTO DELGADO,1 *  LECEIA <br>
+	                      				2730 - 086 BARCARENA <br>
+	                      				Tel: 212421048<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE OCEANIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.PATRAO JOAQUIM LOPES,7 A <br>
+	                      				2770 - 134 PAÇO DE ARCOS <br>
+	                      				Tel: 214432303<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE MOLAS PARTIDAS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. BENTO DE JESUS CARAÇA,3-A <br>
+	                      				1495 - 686 CRUZ QUEBRADA-DAFUNDO <br>
+	                      				Tel: 214144616<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PARIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. EMB. AUGUSTO DE CASTRO, 18 B/C <br>
+	                      				2780 - 199 OEIRAS <br>
+	                      				Tel: 218282700<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA SIMOES
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DA TERRA GRANDE,11 <br>
+	                      				2790 - 157 CARNAXIDE <br>
+	                      				Tel: 214184393<br>
+	                      				Fax: 214184393
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SPAZIO DI CAFFÉ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FRANCISCO JOSE VITORINO,9-A <br>
+	                      				2795 - 085 LINDA A VELHA <br>
+	                      				Tel: 214027819<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NEAR THE SEA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PORTO DE RECREIO DE OEIRAS,LJ.C 7 <br>
+	                      				2780 - 322 OEIRAS <br>
+	                      				Tel: 214412157<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ELIPEDRO  COMERCIO PAPELARIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FIRMINO REBELO,16-A <br>
+	                      				2740 - 190 PORTO SALVO <br>
+	                      				Tel: 214212920<br>
+	                      				Fax: 214212920
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA MOEDAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.INFANTE D.PEDRO,3-A <br>
+	                      				2780 - 076 OEIRAS <br>
+	                      				Tel: 214435727<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EUROLOJAS PAPELARIAS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. GEN. HUMBERTO DELGADO, 19,PINGO DOCE ALGÉS <br>
+	                      				1495 - 068 ALGÉS <br>
+	                      				Tel: 214113063<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EUROLOJAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.SR. JESUS DOS NAVEGANTES,3-5, PINGO DOCE <br>
+	                      				2770 - 161 PAÇO DE ARCOS <br>
+	                      				Tel: 214416000<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PALMEIRAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.QTA.DAS PALMEIRAS,78-A <br>
+	                      				2780 - 145 OEIRAS <br>
+	                      				Tel: 214571063<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FERNANDA DELGADO,UNIPESSOAL,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DA REPUBLICA,120 LJ.2 (GAL.PINGO DOCE) <br>
+	                      				2780 - 158 OEIRAS <br>
+	                      				Tel: 214566932<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FIGUEIREDO &amp; MARTINS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.ALVES REDOL,2-A <br>
+	                      				2760 - 005 CAXIAS <br>
+	                      				Tel: 214432708<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA GONÇALVES
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. PÁTRIA NOVA, 5 <br>
+	                      				2790 - 119 CARNAXIDE <br>
+	                      				Tel: 214180279<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EXPRESSO PARK
+	                    			</span> 
+	                    			<span class="text">
+	                    				LAGOAS PARK - GALERIA COMERCIAL, LJ.7 <br>
+	                      				2740 - 265 PORTO SALVO <br>
+	                      				Tel: 214217524<br>
+	                      				Fax: 214568198
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CERVEJARIA CRUZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DUQUE DA TERCEIRA,23 <br>
+	                      				2790 - 337 QUEIJAS <br>
+	                      				Tel: 214182679<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA LITUXA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MOCAMBIQUE,8-B * FIGUEIRINHA <br>
+	                      				2780 - 027 OEIRAS <br>
+	                      				Tel: 214436356<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESS STORE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. BOMBEIROS VOLUNTÁRIOS, 70-B <br>
+	                      				1495 - 023 ALGÉS <br>
+	                      				Tel: 214105539<br>
+	                      				Fax: 214105540
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DANY
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MARQUÊS DE POMBAL, 10 <br>
+	                      				2770 - 122 PAÇO DE ARCOS <br>
+	                      				Tel: 214409491<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BRAZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA FIGUEIRINHA,5-B <br>
+	                      				2780 - 015 OEIRAS <br>
+	                      				Tel: 214435245<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOSE MARIA DA CRUZ, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. D.MANUEL I, 4, LJ-1 <br>
+	                      				1495 - 089 ALGÉS <br>
+	                      				Tel: 214112274<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LUCILA SILVA TABACARIA PAPELARIA UNIP.,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANTONIO FELICIANO CASTILHO,38-A <br>
+	                      				2790 - 307 QUEIJAS <br>
+	                      				Tel: 214170745<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LUIS ALONSO &amp; COSTA,LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				C.COM.QUINTA DAS PALMEIRAS,LJS.1 E 2 <br>
+	                      				2784 - 514 OEIRAS <br>
+	                      				Tel: 214572709<br>
+	                      				Fax: 214562032
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LÓGICA IMPARÁVEL, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JOÃO XXI, 11-A <br>
+	                      				2790 - 370 QUEIJAS <br>
+	                      				Tel: 211529129<br>
+	                      				Fax: 211529129
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M.MORGADO PUBLICIDADE,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CANDIDO DOS REIS,39-A <br>
+	                      				2780 - 213 OEIRAS <br>
+	                      				Tel: 214432272<br>
+	                      				Fax: 214432272
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE SOLATIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTERO DE QUENTAL, 13 - D <br>
+	                      				2790 - 020 CARNAXIDE <br>
+	                      				Tel: 214185950<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FEITO COM CARINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALAMEDA ANTONIO SERGIO,12 C-D <br>
+	                      				1495 - 132 ALGÉS <br>
+	                      				Tel: 214103230<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE A NITUXA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ENG. BONEVILLE FRANCO (QUIOSQUE) <br>
+	                      				2770 - 055 PAÇO DE ARCOS <br>
+	                      				Tel: 214437562<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JACKPOT
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.COMBATENTES GRANDE GUERRA,68 <br>
+	                      				1495 - 034 ALGÉS <br>
+	                      				Tel: 214116211<br>
+	                      				Fax: 214112550
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LOJA 29
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE FALCAO,29 <br>
+	                      				2780 - 334 OEIRAS <br>
+	                      				Tel: 214410475<br>
+	                      				Fax: 214430944
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE SATELITE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SACADURA CABRAL,12-LJ <br>
+	                      				2790 - 148 CARNAXIDE <br>
+	                      				Tel: 214180965<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA NEQUIM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.MANUEL ARRIAGA,35 <br>
+	                      				1495 - 088 ALGÉS <br>
+	                      				Tel: 214106438<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VIDEO CLUBE DE PORTO SALVO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.JOSE F. RODRIGUES,15-D <br>
+	                      				2740 - 050 PORTO SALVO <br>
+	                      				Tel: 214213916<br>
+	                      				Fax: 214213916
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA NOVO CICLO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.D.PEDRO V,26 LJ-5 <br>
+	                      				2795 - 150 LINDA A VELHA <br>
+	                      				Tel: 214195347<br>
+	                      				Fax: 214195347
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA NOVO RUMO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CAROLINA MICHAELIS,31-B <br>
+	                      				2795 - 053 LINDA A VELHA <br>
+	                      				Tel: 214197535<br>
+	                      				Fax: 214197535
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA URSINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				C.COM.OEIRAS PARQUE,LJ-1036 <br>
+	                      				2770 - 219 PAÇO DE ARCOS <br>
+	                      				Tel: 214419025<br>
+	                      				Fax: 214419025
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PINCEL DE ARTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. BERNARDIM RIBEIRO, 2 - B <br>
+	                      				2760 - 016 CAXIAS <br>
+	                      				Tel: 214412182<br>
+	                      				Fax: 214412182
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA PALIDISCO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.RAMALHO ORTIGAO,39-B <br>
+	                      				2790 - 407 QUEIJAS <br>
+	                      				Tel: 214186767<br>
+	                      				Fax: 214186767
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA VILA FRIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CARLOS PAIÃO,15 LJ.  J * VILA FRIA <br>
+	                      				2740 - 028 PORTO SALVO <br>
+	                      				Tel: 214218174<br>
+	                      				Fax: 214218174
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RUNO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. INF D HENRIQUE- CONTENTOR JUNTO AO Nº91 <br>
+	                      				2730 - 123 BARCARENA <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA VERDE MAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.ANTONIO PATRICIO GOUVEIA,26-H <br>
+	                      				2780 - 185 OEIRAS <br>
+	                      				Tel: 214421084<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA MILA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MINAS GERAIS,12-A <br>
+	                      				2780 - 199 OEIRAS <br>
+	                      				Tel: 214437853<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PATAMAR DE LETRAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. FERNANDO PESSOA, 8-C <br>
+	                      				2780 - 235 OEIRAS <br>
+	                      				Tel: 214439024<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAULO ALEXANDRE LOPES RODRIGUES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS DE CAMOES,72 R/C ESQ <br>
+	                      				2795 - 124 LINDA A VELHA <br>
+	                      				Tel: 214191022<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RIMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				C. C. ALEGRO, AV. DOS CAVALEIROS, 60, LJ 073 <br>
+	                      				2790 - 045 CARNAXIDE <br>
+	                      				Tel: 214101271<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PISAPAPEIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.EDMUNDO LIMA BASTOS,9-C LJ.3 <br>
+	                      				2790 - 487 CARNAXIDE <br>
+	                      				Tel: 214186716<br>
+	                      				Fax: 214186716
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESSE LINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				C. COM. OEIRAS PARQUE, LJ-1.067/68 <br>
+	                      				2770 - 219 PAÇO DE ARCOS <br>
+	                      				Tel: 214422690<br>
+	                      				Fax: 214422690
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRIOSTE &amp; GOMES, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE LEITE VASCONCELOS,59 QT.VINHA TORNEIRO <br>
+	                      				2770 - 195 PAÇO DE ARCOS <br>
+	                      				Tel: 214422929<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE LOBITO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DIREITA DO DAFUNDO,50-C * DAFUNDO <br>
+	                      				1495 - 717 CRUZ QUEBRADA-DAFUNDO <br>
+	                      				Tel: 214199477<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ACADEMICA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOAO L.MARTINS,LJ-21 * TAPADA DO MOCHO <br>
+	                      				2770 - 087 PAÇO DE ARCOS <br>
+	                      				Tel: 218063948<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RICARDO &amp; COSTA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.H.PAIVA COUCEIRO (QUIOSQUE) <br>
+	                      				2780 - 117 OEIRAS <br>
+	                      				Tel: 214426338<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ROTEIRO DAS PALAVRAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTAÇÃO DA CP DE ALGÉS - TABACARIA <br>
+	                      				1495 - 001 ALGÉS <br>
+	                      				Tel: 214114135<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M24
+	                    			</span> 
+	                    			<span class="text">
+	                    				A5 LISBOA-CASCAIS, SENTIDO LX/CASCAIS KM 9,6 <br>
+	                      				2740 - 242 PORTO SALVO <br>
+	                      				Tel: 214211795<br>
+	                      				Fax: 214216391
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M24
+	                    			</span> 
+	                    			<span class="text">
+	                    				A5 LISBOA-CASCAIS, SENTIDO CASCAIS/LX.KM 9,6 <br>
+	                      				2780 - 202 OEIRAS <br>
+	                      				Tel: 214216469<br>
+	                      				Fax: 214216391
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CANTINHO DA CATARINA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MARCELINO MESQUITA,21-B <br>
+	                      				2795 - 134 LINDA A VELHA <br>
+	                      				Tel: 214144325<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										AROMAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. MIGUEL BOMBARDA, LT.2 LJ. B <br>
+	                      				2780 - 343 OEIRAS <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA 1111
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTÓNIO SÉRGIO, 6-A <br>
+	                      				2780 - 186 OEIRAS <br>
+	                      				Tel: 214433596<br>
+	                      				Fax: 214433596
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABTAGUS
+	                    			</span> 
+	                    			<span class="text">
+	                    				NUCLEO CENTRAL TAGUS PARK,LJ-134 <br>
+	                      				2740 - 120 PORTO SALVO <br>
+	                      				Tel: 214215585<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA 202
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DESCOBERTAS (GALERIAS A.BARRA,LJ-202) <br>
+	                      				2780 - 053 OEIRAS <br>
+	                      				Tel: 214425448<br>
+	                      				Fax: 214425448
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TATEBITATE,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.JOSE CUNHA,25-C LJ.A <br>
+	                      				2780 - 167 OEIRAS <br>
+	                      				Tel: 214405952<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA TENTAÇÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.BOMBEIROS VOLUNTARIOS,38-C <br>
+	                      				1495 - 020 ALGÉS <br>
+	                      				Tel: 214103039<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TOPAZIOPÇÃO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AL. ANTONIO SERGIO,69, C.C.TORRE FLORES,LJ-7 <br>
+	                      				2795 - 024 LINDA A VELHA <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TRAQUINO RODRIGUES &amp; ALVES,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DO COMÉRCIO, 25-A <br>
+	                      				2740 - 035 PORTO SALVO <br>
+	                      				Tel: 214216426<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VITAL VIRGILIO GONCALVES
+	                    			</span> 
+	                    			<span class="text">
+	                    				QTA.DAS PALMEIRAS,73 <br>
+	                      				2780 - 152 OEIRAS <br>
+	                      				Tel: 214562642<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VITOR MANUEL ROCHA DE ABREU
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.CONSIGLIERI PEDROSO (C.COM.GLOBO,LJ-1) <br>
+	                      				2730 - 054 BARCARENA <br>
+	                      				Tel: 214352724<br>
+	                      				Fax: 214352724
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DIVERTILANDIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. D. PEDRO V, 8-A <br>
+	                      				2795 - 150 LINDA A VELHA <br>
+	                      				Tel: 214190446<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

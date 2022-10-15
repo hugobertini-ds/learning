@@ -1,0 +1,1157 @@
+CASCAIS
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA GUACHE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.F.MAGALHAES(G.VALMOR LJ-4) * MATARRAQUE <br>
+	                      				2785 - 448 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214524016<br>
+	                      				Fax: 214524016
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										POSTO REPSOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DA MATA DA TORRE (POSTO REPSOL) <br>
+	                      				2785 - 798 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214443243<br>
+	                      				Fax: 214443243
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA S.PEDRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.NUNES SANTOS,17 * S.PEDRO ESTORIL <br>
+	                      				2765 - 546 ESTORIL <br>
+	                      				Tel: 214681914<br>
+	                      				Fax: 214681914
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										ANTONIO FERNANDO MATIAS BATISTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.STA.TERESA,32-B (B.SANTANA) <br>
+	                      				2750 - 118 CASCAIS <br>
+	                      				Tel: 214868609<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE CAMILO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FLORES BAIRRO ALEM DAS VINHAS, 282 <br>
+	                      				2785 - 063 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214443481<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA LARA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MANUEL CORRÊA,52 LJ-C * OUTEIRO DA VELA <br>
+	                      				2750 - 418 CASCAIS <br>
+	                      				Tel: 218279663<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										APARA-LAPIS,PAPELARIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ARY DOS SANTOS,204-A * MADORNA <br>
+	                      				2785 - 526 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214521497<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										URBANAS TABACARIAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. BARTOLOMEU DIAS-C.C. RIVIEIRA, LJ 4-6 <br>
+	                      				2775 - 551 CARCAVELOS <br>
+	                      				Tel: 214579967<br>
+	                      				Fax: 261958156
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TORRE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOAQUIM EREIRA,2649 * TORRE <br>
+	                      				2750 - 389 CASCAIS <br>
+	                      				Tel: 214843815<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAZAR TALUDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LATINO COELHO (C.COM.PAREDE,36 LJ-18) <br>
+	                      				2775 - 225 PAREDE <br>
+	                      				Tel: 214583808<br>
+	                      				Fax: 214583806
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TALUDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.JOSÉ REGIO,4-F <br>
+	                      				2775 - 221 PAREDE <br>
+	                      				Tel: 214561028<br>
+	                      				Fax: 214561028
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BERMARETAB TABACARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MARGARIDAS, 9, C. C. BIRRE, LJ. 3 <br>
+	                      				2750 - 249 CASCAIS <br>
+	                      				Tel: 214871426<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BICESSE NEWS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PRINCIPAL,126 <br>
+	                      				2645 - 361 ALCABIDECHE <br>
+	                      				Tel: 214690927<br>
+	                      				Fax: 214690927
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE REALISTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DR.MORAIS SARMENTO,286 B-C*ALTO CASTELHANA <br>
+	                      				2755 - 286 ALCABIDECHE <br>
+	                      				Tel: 214845606<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CANENTO &amp; MARTINS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PRINCIPAL, LT-14-C, LJ. 8*ALTO DOS LOMBOS <br>
+	                      				2775 - 682 CARCAVELOS <br>
+	                      				Tel: 214570348<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAZAR CARACOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DIA MUNDIAL DA CRIANCA , 51 A <br>
+	                      				2775 - 001 PAREDE <br>
+	                      				Tel: 214522335<br>
+	                      				Fax: 214522335
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DO BÉU,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FREDERICO AROUCA,476 <br>
+	                      				2750 - 354 CASCAIS <br>
+	                      				Tel: 214834706<br>
+	                      				Fax: 214866751
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA ZITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAVESSA DA ESCOLA , 5 * ABOBODA <br>
+	                      				2785 - 024 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214440718<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE GONZALEZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOAO PIRES CORREIA,87 <br>
+	                      				2645 - 051 ALCABIDECHE <br>
+	                      				Tel: 214690133<br>
+	                      				Fax: 214600911
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COMEJA SNACK-BAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTACAO DA CP DE CASCAIS <br>
+	                      				2750 - 340 CASCAIS <br>
+	                      				Tel: 214841188<br>
+	                      				Fax: 213429652
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DIVIES MAUGI-UNIPESSOAL,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				URB.TORRES MIRAMAR,LT-1-A LJ-3 * REBELVA <br>
+	                      				2775 - 701 CARCAVELOS <br>
+	                      				Tel: 214577304<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CARACOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE CASCAIS,887-A * MALVEIRA DA SERRA <br>
+	                      				2755 - 162 ALCABIDECHE <br>
+	                      				Tel: 214870154<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL DE TERPLANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAC.PAIAO,LT-16 LJ-4 * URB.TERPLANA <br>
+	                      				2785 - 679 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214532238<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ELISA E LUIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE SASSOEIROS,4-B <br>
+	                      				2775 - 530 CARCAVELOS <br>
+	                      				Tel: 214579310<br>
+	                      				Fax: 214579310
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CANTO 7 CASTELOS CAFÉ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CIDADE VIANA DO CASTELO, 36, LJ. 5 <br>
+	                      				2785 - 783 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BELA DICHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.JOAO I, 50 A * CAPARIDE <br>
+	                      				2785 - 378 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 211600421<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA RIYADH
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.G.CORTE REAL (C.C.RIYADH,LJ-24) <br>
+	                      				2750 - 164 CASCAIS <br>
+	                      				Tel: 211946722<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ÁS DE ESPADA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ARIST.S.MENDES,79,CC AGUILHA,LJ26,ELECLERC <br>
+	                      				2785 - 071 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214455268<br>
+	                      				Fax: 214455268
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA  TABACARIA A MERENDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SAMPAIO BRUNO ,127 (C.COM.ASTÓRIA, LJ-7) <br>
+	                      				2775 - 279 PAREDE <br>
+	                      				Tel: 214573108<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ DA GRAÇA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DO ROSSIO,2-A * MANIQUE <br>
+	                      				2645 - 491 ALCABIDECHE <br>
+	                      				Tel: 218087513<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ISABEL PRECIADO - TABACARIA UNIPESSOAL, LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 DE ABRIL,8 <br>
+	                      				2750 - 511 CASCAIS <br>
+	                      				Tel: 214833514<br>
+	                      				Fax: 214833514
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										J. FIGUEIREDO - S. R. COMB. E LUBRIF., UNIP., LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CONDES DE BARCELONA, POSTO REPSOL <br>
+	                      				2765 - 195 ESTORIL <br>
+	                      				Tel: 214681229<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ALVORADA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CARLOS ANJOS,715-B * AMOREIRA <br>
+	                      				2645 - 177 ALCABIDECHE <br>
+	                      				Tel: 214685714<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TREVO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.S.JOSE,LT-A LJ-ESQ. * FONTAINHAS <br>
+	                      				2750 - 135 CASCAIS <br>
+	                      				Tel: 214867495<br>
+	                      				Fax: 214867495
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE VALEPARAISO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SILVA LOBO,LT-2 LJ-2 DT * ALAPRAIA <br>
+	                      				2765 - 053 ESTORIL <br>
+	                      				Tel: 214689196<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA CARACOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. (CASA CARACOL) * ALDEIA DE JUZO <br>
+	                      				2750 - 782 CASCAIS <br>
+	                      				Tel: 218221252<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE REAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA NORUEGA,CASA H1 * ALCOITAO <br>
+	                      				2645 - 288 ALCABIDECHE <br>
+	                      				Tel: 214691346<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA GOLFINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AREIA,1392 - AREIA <br>
+	                      				2750 - 052 CASCAIS <br>
+	                      				Tel: 214869384<br>
+	                      				Fax: 214869384
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SUDOESTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.FRANCISCA LINDOSO , 236 C <br>
+	                      				2785 - 451 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214535596<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O MIGUEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.HELIODORO SALGADO,14 LJ-ESQ. <br>
+	                      				2775 - 204 PAREDE <br>
+	                      				Tel: 214571717<br>
+	                      				Fax: 214571717
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LAGAR DA BEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AQUILINO RIBEIRO,20-A (B.CONDE M.REAL) <br>
+	                      				2785 - 132 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214441516<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.7 DE JUNHO * TRAJOUCE <br>
+	                      				2785 - 674 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214454263<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ FLOR DO RIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CESARIO VERDE,608 (V.RIO) * PAU GORDO <br>
+	                      				2645 - 241 ALCABIDECHE <br>
+	                      				Tel: 214671814<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA DELICIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE TIMOR,75-C <br>
+	                      				2775 - 291 PAREDE <br>
+	                      				Tel: 214561148<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARGENS E LEGENDAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAC. NATALIA CORREIA,181-A,C.C.MIRASOL,LJ-10 <br>
+	                      				2785 - 147 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 211385362<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ENCAMTU´S PAPELARIA TABACARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GALIZA, LJ.3 <br>
+	                      				2765 - 325 ESTORIL <br>
+	                      				Tel: 214677154<br>
+	                      				Fax: 214677154
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ALTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. MARGINAL, EDIF HOTEL VILLA GALÉ, LJ. 3 <br>
+	                      				2765 - 466 ESTORIL <br>
+	                      				Tel: 214682191<br>
+	                      				Fax: 214682191
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MENDES CURIÃO, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				C. COM. AREIAS S. JOÃO, LJ-12 <br>
+	                      				2765 - 091 ESTORIL <br>
+	                      				Tel: 214663890<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MERGULHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DE LUANDA, 866-C <br>
+	                      				2775 - 232 PAREDE <br>
+	                      				Tel: 214575486<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MILENIO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.5 DE OUTUBRO,4 LJ-D <br>
+	                      				2775 - 184 PAREDE <br>
+	                      				Tel: 214578993<br>
+	                      				Fax: 214578993
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ALCABIDECHE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.5 DE OUTUBRO,4-B <br>
+	                      				2645 - 040 ALCABIDECHE <br>
+	                      				Tel: 214691729<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE DO TABACO
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 9 - C.C. CASCAIS SHOPPING, PISO 0 <br>
+	                      				2645 - 543 ALCABIDECHE <br>
+	                      				Tel: 214679175<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA DO LARGO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. OSTENDE, 14-A * MONTE ESTORIL <br>
+	                      				2765 - 431 ESTORIL <br>
+	                      				Tel: 218045949<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NEVES &amp; AMARAL SOC.EXPLORAÇÕES HOTELEIRAS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ULTRAMAR,1-B 1-C <br>
+	                      				2750 - 506 CASCAIS <br>
+	                      				Tel: 214867709<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NEWS ON SHORE
+	                    			</span> 
+	                    			<span class="text">
+	                    				MARINA DE CASCAIS, LJ. 12 <br>
+	                      				2750 - 800 CASCAIS <br>
+	                      				Tel: 214847242<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO REPSOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DOS MARISTAS (POSTO REPSOL) <br>
+	                      				2775 - 243 PAREDE <br>
+	                      				Tel: 214534276<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CALENDARIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CAP.REI VILAR,47-A LJ-47 (BAIRRO NAVEGADOR) <br>
+	                      				2750 - 634 CASCAIS <br>
+	                      				Tel: 309871778<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PANDA TABACARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANTONIO SILVA,127-A(C.C.ASSUNCAO,LJ-1) <br>
+	                      				2750 - 101 CASCAIS <br>
+	                      				Tel: 214834078<br>
+	                      				Fax: 214834078
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA APOLO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JÚLIO DANTAS, 47-LJ. A * PAMPILHEIRA <br>
+	                      				2750 - 670 CASCAIS <br>
+	                      				Tel: 211391425<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LAPIS DE COR
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.S.MIGUEL DAS ENCOSTAS,249 D <br>
+	                      				2775 - 750 CARCAVELOS <br>
+	                      				Tel: 214532102<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PALPITE DOURADO
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. JOSÉ JUSTINO ANJOS, 69 * TRAJOUCE <br>
+	                      				2785 - 660 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214456565<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BENTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.HELENA FELIX,145 LJ.B <br>
+	                      				2785 - 504 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214451245<br>
+	                      				Fax: 214451245
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BONANZA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.DA CARREIRA,LT-30 * S.JOAO ESTORIL <br>
+	                      				2765 - 472 ESTORIL <br>
+	                      				Tel: 214683328<br>
+	                      				Fax: 214683328
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DA PAREDE
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.5 DE OUTUBRO, C. COM. DA PAREDE, LJ. 7 <br>
+	                      				2775 - 184 PAREDE <br>
+	                      				Tel: 214564712<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DE RANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA ANTÓNIO LOURO, 675 B <br>
+	                      				2785 - 724 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214521960<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PARÂMETROS &amp; DESAFIOS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DR.MANUEL ARRIAGA,5,C.C.CARCAVELOS,LJ.78 <br>
+	                      				2775 - 602 CARCAVELOS <br>
+	                      				Tel: 215980963<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PRIMAVERA DE CARCAVELOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.5 OUTUBRO,13 A-B <br>
+	                      				2775 - 562 CARCAVELOS <br>
+	                      				Tel: 214570057<br>
+	                      				Fax: 214587085
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CERVEJARIA O CHICO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DIOGO CAO,7-7A * MURTAL <br>
+	                      				2775 - 087 PAREDE <br>
+	                      				Tel: 214533701<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PINTOS D´MEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. GIL EANES, 226, LJ. A <br>
+	                      				2785 - 374 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214533694<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POLIMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MACHADO SANTOS,274 LJ-A (OUTEIRO POLIMA) <br>
+	                      				2785 - 669 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214454135<br>
+	                      				Fax: 214454135
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PREMIO MERECIDO, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.FERNANDO LOPES GRACA , 274-B <br>
+	                      				2785 - 625 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 218201697<br>
+	                      				Fax: 214441689
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESSE LINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.D.PEDRO I (CASCAISVILLA SHOP. LJ1.04/1.05) <br>
+	                      				2754 - 527 CASCAIS <br>
+	                      				Tel: 214818776<br>
+	                      				Fax: 214818776
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RIMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EN 9, C.COM. CASCAIS SHOPPING, LJ-0.093 <br>
+	                      				2645 - 543 ALCABIDECHE <br>
+	                      				Tel: 214693329<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CARLOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE ALVIDE,953 * ALVIDE <br>
+	                      				2750 - 292 CASCAIS <br>
+	                      				Tel: 214830321<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESUMOS DIÁRIOS UNIP., LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DAS TILIAS,136 LJ.B JARDINS DA PAREDE <br>
+	                      				2775 - 335 PAREDE <br>
+	                      				Tel: 214664220<br>
+	                      				Fax: 211564470
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RPPRESS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.OUTEIRO  (C.COM.DOCE,LT-10 LJ-2) <br>
+	                      				2755 - 287 ALCABIDECHE <br>
+	                      				Tel: 214821379<br>
+	                      				Fax: 214821379
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CLIP
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAC.GIL VICENTE,LT-72-B <br>
+	                      				2765 - 484 ESTORIL <br>
+	                      				Tel: 214686886<br>
+	                      				Fax: 214686886
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VIDEO CLUBE PAPELARIA JOANESBURGO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JULIO DANTAS,864 * CAPARIDE <br>
+	                      				2785 - 793 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214683677<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RUI
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE ALVIDE, 260 - A <br>
+	                      				2755 - 027 ALCABIDECHE <br>
+	                      				Tel: 214865957<br>
+	                      				Fax: 214865957
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ RAFAEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.C.SALG.MAIA 547 R/C * MATO CHEIRINHOS <br>
+	                      				2785 - 501 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214097876<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE GRANFINO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. FERNANDO LOPES GRAÇA, 379 A <br>
+	                      				2775 - 571 CARCAVELOS <br>
+	                      				Tel: 214533630<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARGINAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. S. DOMINGOS, 153 <br>
+	                      				2785 - 595 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214561327<br>
+	                      				Fax: 214581564
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE MINA D OURO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.JUNQUEIRO,2-A-B <br>
+	                      				2775 - 597 CARCAVELOS <br>
+	                      				Tel: 214574369<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SABÓIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. SABOIA,487, LJ. 3 * MONTE ESTORIL <br>
+	                      				2765 - 278 ESTORIL <br>
+	                      				Tel: 214674069<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRISMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 9, CASCAIS SHOPPING, LJ. 069 <br>
+	                      				2645 - 543 ALCABIDECHE <br>
+	                      				Tel: 214600145<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										INTERMARCHÉ
+	                    			</span> 
+	                    			<span class="text">
+	                    				QTA TORRE AGUILHA,LOTE 7 ,INTERMARCHE <br>
+	                      				2785 - 599 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214489451<br>
+	                      				Fax: 214489459
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CRUZEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.FAUSTO FIGUEIREDO, 279 (HOTEL LONDRES) <br>
+	                      				2765 - 412 ESTORIL <br>
+	                      				Tel: 214681273<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										HAVANEZA DE CASCAIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MARGINAL,6 (C.C.PAO DE ACUCAR LJ-31) <br>
+	                      				2750 - 427 CASCAIS <br>
+	                      				Tel: 218289685<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CIDADELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.TORRE - PAVILHAO GUILERME P.BASTO*BIRRE <br>
+	                      				2750 - 758 CASCAIS <br>
+	                      				Tel: 214821660<br>
+	                      				Fax: 214821660
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CIDADELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				HOSPITAL CASCAIS DR.JOSE ALMEIDA,PISO 2 LJ.19 <br>
+	                      				2755 - 009 ALCABIDECHE <br>
+	                      				Tel: 214608951<br>
+	                      				Fax: 214820234
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CRISMAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DO CASAL QUEIMADO - SUPERM. MINI PREÇO <br>
+	                      				2750 - 492 CASCAIS <br>
+	                      				Tel: 214864059<br>
+	                      				Fax: 214839952
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA VAL DE SANTA RITA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.AMALIA RODRIGUES,ED.MERCADO LJ-2 <br>
+	                      				2765 - 281 ESTORIL <br>
+	                      				Tel: 214680800<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA TALAIDE
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE TALAIDE, 118/118 A E B <br>
+	                      				2785 - 734 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214210506<br>
+	                      				Fax: 214210506
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA TEMPOS DE SONHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MATARRAQUE, 410, LJ B <br>
+	                      				2785 - 483 SÃO DOMINGOS DE RANA <br>
+	                      				Tel: 214526197<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										V.A.S.A., LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DAS TOJAS, 562 <br>
+	                      				2755 - 116 ALCABIDECHE <br>
+	                      				Tel: 214834054<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA XANDRE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. 25 DE ABRIL, ED. HOTEL CIDADELA, LJ.528 C <br>
+	                      				2750 - 511 CASCAIS <br>
+	                      				Tel: 214820241<br>
+	                      				Fax: 214820234
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

@@ -1,0 +1,136 @@
+<div class="jstyling-select-t_select7">AZAMBUJA</div>
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPEL VIDEO CIMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANTONIO AMARO SANTOS, 73 <br>
+	                      				2050 - 075 AVEIRAS DE CIMA <br>
+	                      				Tel: 263475116<br>
+	                      				Fax: 263475116
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA PAPEL E LAPIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CENTRO DE SAUDE, 10 LJ-5 <br>
+	                      				2050 - 271 AZAMBUJA <br>
+	                      				Tel: 263048463<br>
+	                      				Fax: 263048463
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE ESCONDIDINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.18  DEZEMBRO,14 <br>
+	                      				2050 - 407 VALE DO PARAÍSO <br>
+	                      				Tel: 263475673<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE PALVAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAVESSA FONTE SANTA,57 <br>
+	                      				2050 - 113 AVEIRAS DE CIMA <br>
+	                      				Tel: 263475126<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFÉ CALHAMBEQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOAO BENEVENTE,3 * TAGARRO <br>
+	                      				2065 - 231 ALCOENTRE <br>
+	                      				Tel: 263486247<br>
+	                      				Fax: 263486247
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PASTELARIA MATOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ENG.MONIZ DA MAIA,38 <br>
+	                      				2050 - 356 AZAMBUJA <br>
+	                      				Tel: 263418592<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA PAPERRI
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAC.ISABEL AZAMBUJA,4-A R/C <br>
+	                      				2050 - 269 AZAMBUJA <br>
+	                      				Tel: 263402989<br>
+	                      				Fax: 263402989
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA NRJ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CONSELHEIRO DE AROUCA,185 <br>
+	                      				2065 - 016 ALCOENTRE <br>
+	                      				Tel: 263487057<br>
+	                      				Fax: 263799574
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M24
+	                    			</span> 
+	                    			<span class="text">
+	                    				A1 AE NORTE (SENTIDO NORTE/SUL) KM 44 <br>
+	                      				2050 - 000 AZAMBUJA <br>
+	                      				Tel: 263470240<br>
+	                      				Fax: 263470257
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M24
+	                    			</span> 
+	                    			<span class="text">
+	                    				A1 AE.NORTE (SENTIDO SUL/NORTE) KM 44 <br>
+	                      				2050 - 000 AZAMBUJA <br>
+	                      				Tel: 263470240<br>
+	                      				Fax: 263470257
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VIRGINIA MARIA ANANIAS LOURENCO
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA OUTEIRO,12 <br>
+	                      				2065 - 344 MANIQUE DO INTENDENTE <br>
+	                      				Tel: 263485299<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

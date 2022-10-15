@@ -1,0 +1,1937 @@
+SINTRA
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A NATUREZA DOS SABORES,ACTIVIDADES HOTELEIRAS, LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.PLATANOS,16 * ARNEIRO DOS MARINHEIROS <br>
+	                      				2705 - 434 SÃO JOÃO DAS LAMPAS <br>
+	                      				Tel: 219613138<br>
+	                      				Fax: 218188949
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A SEARA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DO BRASIL, 47-A <br>
+	                      				2735 - 672 AGUALVA-CACÉM <br>
+	                      				Tel: 214261446<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										SEARA DA SERRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. MARIA LAMAS, 4, LJ. ESQ. E DTA. <br>
+	                      				2635 - 430 RIO DE MOURO <br>
+	                      				Tel: 219160041<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CASA ADAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.NUNO ALVARES PEREIRA,7-A * AGUALVA <br>
+	                      				2735 - 147 AGUALVA-CACÉM <br>
+	                      				Tel: 219140035<br>
+	                      				Fax: 219140035
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PASTELARIA LENITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MIGUEL BOMBARDA,130-132 <br>
+	                      				2745 - 172 QUELUZ <br>
+	                      				Tel: 214355403<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										AGUIAS D' AÇAFORA, UNIP. LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA DE NOSSA SENHORA DA ATALAIA,24 * ASSAFORA <br>
+	                      				2705 - 497 SÃO JOÃO DAS LAMPAS <br>
+	                      				Tel: 219612062<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE CORETO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.JOSE SANTOS COELHO, 12 * FONTANELAS <br>
+	                      				2705 - 609 SÃO JOÃO DAS LAMPAS <br>
+	                      				Tel: 219291586<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE O MOINHO VERDE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.COMENDADOR GOMES SILVA,4 * ALMOCAGEME <br>
+	                      				2705 - 041 COLARES <br>
+	                      				Tel: 219290823<br>
+	                      				Fax: 219290823
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BRINDES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FERNANDO LOPES GRACA,2 B <br>
+	                      				2725 - 539 MEM MARTINS <br>
+	                      				Tel: 211356590<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CANASTRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SOCIEDADE 22 DE MAIO,1 LJ-A * IDANHA <br>
+	                      				2605 - 117 BELAS <br>
+	                      				Tel: 214311282<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE VARANDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 DE ABRIL,31 R/C ESQ * MASSAMA <br>
+	                      				2745 - 864 QUELUZ <br>
+	                      				Tel: 214371512<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFETERIA PINTOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE AFONSO,22 <br>
+	                      				2745 - 136 QUELUZ <br>
+	                      				Tel: 214360564<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ARMANDO CASAL, UNIP., LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.BOMB. VOLUNTARIOS,LT. C 4, LJ.18 * MASSAMA <br>
+	                      				2745 - 733 QUELUZ <br>
+	                      				Tel: 218032391<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.VISCONDE DE ASSECA,4 * JANAS <br>
+	                      				2710 - 253 SINTRA <br>
+	                      				Tel: 219292049<br>
+	                      				Fax: 219280648
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										A TENDINHA DA ABRUNHEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DO CHAFARIZ,27 * ABRUNHEIRA <br>
+	                      				2710 - 026 SINTRA <br>
+	                      				Tel: 219258860<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO REPSOL MASSAMÁ
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GEN.HUMBERTO DELGADO,LOTE 6 <br>
+	                      				2745 - 280 QUELUZ <br>
+	                      				Tel: 214382992<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BORRACHINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DOS MISSIONÁRIOS,47 LJ <br>
+	                      				2735 - 136 AGUALVA-CACÉM <br>
+	                      				Tel: 219180285<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										AÇUCAR CAFE - ACTIVIDADES HOTELEIRAS, UNIP., LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. ELIAS GARCIA, 48 <br>
+	                      				2745 - 141 QUELUZ <br>
+	                      				Tel: 214364612<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										B CÓPIA, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. LIBERDADE, 127 <br>
+	                      				2715 - 004 PERO PINHEIRO <br>
+	                      				Tel: 219270067<br>
+	                      				Fax: 219270067
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O PIONEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DIREITA DE MASSAMA, 96 LJ. ESQ. <br>
+	                      				2745 - 751 QUELUZ <br>
+	                      				Tel: 214300427<br>
+	                      				Fax: 214395083
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EN 9, GAL.COM.CONTINENTE MONTELAVAR, LJ.2 <br>
+	                      				2715 - 665 MONTELAVAR <br>
+	                      				Tel: 219676765<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANT. FEIJO COM R.CASAIS,CONTINENTE, LJ.D <br>
+	                      				2725 - 166 MEM MARTINS <br>
+	                      				Tel: 219268506<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MARQUÊS DE POMBAL, G. COM. CONTINENTE <br>
+	                      				2735 - 317 CACÉM <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.CAVALEIRA,1,LOUREL,CONTINENTE SINTRA,LJ.3 <br>
+	                      				2710 - 140 SINTRA <br>
+	                      				Tel: 219106943<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ CACÉM DOCE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANGOLA, 2, LJ -A <br>
+	                      				2735 - 229 AGUALVA-CACÉM <br>
+	                      				Tel: 214068376<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE ELITE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MIGUEL BOMBARDA,69-71 <br>
+	                      				2710 - 590 SINTRA <br>
+	                      				Tel: 219230222<br>
+	                      				Fax: 219230222
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ RALLY
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTÓNIO ALEIXO, 32 A <br>
+	                      				2745 - 718 QUELUZ <br>
+	                      				Tel: 214378524<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CANTO DA BELITA, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DE LISBOA, 82-A <br>
+	                      				2605 - 005 CASAL DE CAMBRA <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										KERMESSE MODERNA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE MEM MARTINS,221-B <br>
+	                      				2725 - 389 MEM MARTINS <br>
+	                      				Tel: 219214857<br>
+	                      				Fax: 219214857
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LOJAS CARMIL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.LUIS CAMOES,10-A <br>
+	                      				2745 - 301 QUELUZ <br>
+	                      				Tel: 214374941<br>
+	                      				Fax: 214374941
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARLA E EDUARDO
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.MARQUÊS DE POMBAL,77-A <br>
+	                      				2635 - 642 RIO DE MOURO <br>
+	                      				Tel: 219170555<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARLOS A. ALMEIDA FREIRE &amp; FILHOS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CENTRAL, 15 <br>
+	                      				2705 - 737 SÃO JOÃO DAS LAMPAS <br>
+	                      				Tel: 219618238<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA XIQUITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CIDADE DE LONDRES,48 LJ. A <br>
+	                      				2735 - 455 AGUALVA-CACÉM <br>
+	                      				Tel: 219148417<br>
+	                      				Fax: 219148417
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. CP AGUALVA-CACÉM, LJ.2 <br>
+	                      				2735 - 101 AGUALVA-CACÉM <br>
+	                      				Tel: 219141020<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE SOLAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DA LIBERDADE,20 <br>
+	                      				2715 - 097 PERO PINHEIRO <br>
+	                      				Tel: 219270350<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COMUNA COOP
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 DE ABRIL,114-A * MIRA SINTRA <br>
+	                      				2735 - 415 AGUALVA-CACÉM <br>
+	                      				Tel: 219146534<br>
+	                      				Fax: 219146534
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE TIVOLI
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CARLOS MOTA PINTO, 1-A BR. OURESSA <br>
+	                      				2725 - 251 MEM MARTINS <br>
+	                      				Tel: 214658840<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CONTRACAPA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CHABY PINHEIRO, 22/24 <br>
+	                      				2725 - 284 MEM MARTINS <br>
+	                      				Tel: 219218687<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COSMIKSPIRIT-UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AVENIDA PEDRO NUNES, 12 C <br>
+	                      				2635 - 317 RIO DE MOURO <br>
+	                      				Tel: 219161146<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ABREU DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ENG.JULIO GOMES SILVA, 3 * ALGUEIRAO <br>
+	                      				2725 - 076 MEM MARTINS <br>
+	                      				Tel: 210853866<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA LONDRES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS SAMBO, 2 F <br>
+	                      				2735 - 127 AGUALVA-CACÉM <br>
+	                      				Tel: 219250344<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.FITARES,1 LJ.2 <br>
+	                      				2635 - 457 RIO DE MOURO <br>
+	                      				Tel: 219173574<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DOLIRAM-ARTIGOS DE PAPELARIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DA LIBERDADE, 57- B <br>
+	                      				2745 - 300 QUELUZ <br>
+	                      				Tel: 214379854<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA LOBÉLIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.CP QUELUZ-BELAS, PISO INFERIOR, CAFETARIA <br>
+	                      				2745 - 068 QUELUZ <br>
+	                      				Tel: 214351425<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA QSORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AVENIDA JOSÉ ELIAS GARCIA, 89 <br>
+	                      				2745 - 148 QUELUZ <br>
+	                      				Tel: 214350451<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ENTRE PAPEIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTÓNIO SILVA, 6 LJ.B *BºS.CARLOS <br>
+	                      				2725 - 170 MEM MARTINS <br>
+	                      				Tel: 219264821<br>
+	                      				Fax: 219264821
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CONTRACAPA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTR. MEM MARTINS, 264, C.C. GALÁXIA, LJ.10-B <br>
+	                      				2725 - 286 MEM MARTINS <br>
+	                      				Tel: 219202936<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA FORTUNA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. D. ISABEL ARAGAO, 13, LJ B <br>
+	                      				2605 - 653 BELAS <br>
+	                      				Tel: 215890282<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE AZEVEDO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.J. A.FERRAZ/AV.MIGUEL BOMBARDA(QUIOSQUE) <br>
+	                      				2745 - 137 QUELUZ <br>
+	                      				Tel: 214355946<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FESTA À MEDIDA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. GEN. BARNABÉ ANTÓNIO FERREIRA, 127 <br>
+	                      				2715 - 456 ALMARGEM DO BISPO <br>
+	                      				Tel: 219624154<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA  A XANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. D. FILIPA DE LENCASTRE, 13, LJ. B <br>
+	                      				2605 - 664 BELAS <br>
+	                      				Tel: 214303673<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FLOR DE PAPEL - COM. ART. PAPELARIA E FLORES, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SEBAST.PHIL.MARTINS ESTACIO VEIGA,LT.36,LJ3 <br>
+	                      				2735 - 584 AGUALVA-CACÉM <br>
+	                      				Tel: 214324523<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FRANCEZINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DOS BONS AMIGOS,72 <br>
+	                      				2735 - 074 AGUALVA-CACÉM <br>
+	                      				Tel: 214326098<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE JAMOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DUARTE LOBO,1-5 <br>
+	                      				2745 - 101 QUELUZ <br>
+	                      				Tel: 214354233<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FRANCISCO PIEDADE SILVA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.1 DE MAIO,42 <br>
+	                      				2705 - 737 SÃO JOÃO DAS LAMPAS <br>
+	                      				Tel: 219618210<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GEORGETE DO ROSÁRIO OLIVEIRA AMARAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.SIDÓNIO PAIS,2 * ALBARRAQUE <br>
+	                      				2710 - 730 SINTRA <br>
+	                      				Tel: 219258913<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GESPOST GESTAO ADMINIST.POSTOS DE ABAST. UNIP., LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ROTUNDA DA CAVALEIRA - POSTO REPSOL <br>
+	                      				2710 - 418 SINTRA <br>
+	                      				Tel: 219210214<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO REPSOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GIL EANES E AV.DESCOBERTAS (POSTO REPSOL) <br>
+	                      				2635 - 282 RIO DE MOURO <br>
+	                      				Tel: 219175805<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GREEN LETTER
+	                    			</span> 
+	                    			<span class="text">
+	                    				FORUM SINTRA, LOJA 12 <br>
+	                      				2635 - 019 RIO DE MOURO <br>
+	                      				Tel: 219251413<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GUIPRESS - PAPELARIA E DISTRIBUIÇÃO, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. PROF. DR. JOAQUIM FONTES, 9 <br>
+	                      				2710 - 633 SINTRA <br>
+	                      				Tel: 219231066<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE RENATO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GEN.HUMBERTO DELGADO,21 <br>
+	                      				2715 - 226 ALMARGEM DO BISPO <br>
+	                      				Tel: 219622279<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										INTERMASSAMÁ - SUPERMERCADOS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. SALGUEIRO MAIA, LT. 189 (INTERMARCHÉ) <br>
+	                      				2605 - 229 BELAS <br>
+	                      				Tel: 214338450<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										INVESTIMENTOS HOTELEIROS ASTECA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.STA.MARIA,18-B <br>
+	                      				2735 - 376 AGUALVA-CACÉM <br>
+	                      				Tel: 214312724<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ISA PAPELARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. BONS AMIGOS, 55 LOJA <br>
+	                      				2735 - 078 AGUALVA-CACÉM <br>
+	                      				Tel: 216027749<br>
+	                      				Fax: 216027749
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFETARIA ALFA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LARGO D. MARIA II, C.C. CACÉM, LJ. 62 <br>
+	                      				2735 - 296 AGUALVA-CACÉM <br>
+	                      				Tel: 219133511<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA J.NUNES
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.M.TORGA,35-B * TAPADA MERCES <br>
+	                      				2725 - 567 MEM MARTINS <br>
+	                      				Tel: 219203571<br>
+	                      				Fax: 219203571
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JARDIM SOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CORACAO MARIA,1 (C.C.SHOP.CACEM,LJ-1.03) <br>
+	                      				2735 - 470 AGUALVA-CACÉM <br>
+	                      				Tel: 219140663<br>
+	                      				Fax: 219140663
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JOANINE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV TIMOR LOROSAE, LJ 4 <br>
+	                      				2735 - 593 AGUALVA-CACÉM <br>
+	                      				Tel: 219185501<br>
+	                      				Fax: 219130138
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ANA E JORGE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROF.ANTÓNIO JOAQUIM DAS NEVES,30 <br>
+	                      				2735 - 233 AGUALVA-CACÉM <br>
+	                      				Tel: 219131084<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JORGE SILVA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALÇADA DA RINCHOA,28-A* RINCHOA <br>
+	                      				2635 - 309 RIO DE MOURO <br>
+	                      				Tel: 219160791<br>
+	                      				Fax: 219160791
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE NICHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA AZENHA,LT-33 <br>
+	                      				2725 - 232 MEM MARTINS <br>
+	                      				Tel: 219215975<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE BOM DIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JÚLIO POMAR, Nº 4, LJ. B <br>
+	                      				2725 - 609 MEM MARTINS <br>
+	                      				Tel: 215940515<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOSÉ ARMANDO DA COSTA CARDOSO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 ABRIL,38 A-B <br>
+	                      				2715 - 713 MONTELAVAR <br>
+	                      				Tel: 219270330<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOSÉ AZINHAGA SAPINA - CABEÇA DE CASAL DA HERANÇA DE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DR.JOAO RAUL B.GUERREIRO,95 * ODRINHAS <br>
+	                      				2705 - 713 SÃO JOÃO DAS LAMPAS <br>
+	                      				Tel: 219617287<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LADEIRA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CANDIDO DOS REIS, 12, LJ. 6 <br>
+	                      				2735 - 086 AGUALVA-CACÉM <br>
+	                      				Tel: 219136564<br>
+	                      				Fax: 219136564
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITURA E MIMOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DIREITA DE MASSAMÁ LT.129 LJ. B <br>
+	                      				2745 - 756 QUELUZ <br>
+	                      				Tel: 214396654<br>
+	                      				Fax: 214396654
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LETRAS AO CUBO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.JOAO DE BARROS,96 <br>
+	                      				2725 - 486 MEM MARTINS <br>
+	                      				Tel: 219209687<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LETRAS COLORIDAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AZINHAGA DO RIO NOVO, 13 R/C ESQ. <br>
+	                      				2725 - 435 MEM MARTINS <br>
+	                      				Tel: 219265460<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LINHA DO CAFÉ
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTAÇÃO DA CP MONTE ABRAÃO,LJ-1 <br>
+	                      				2745 - 001 QUELUZ <br>
+	                      				Tel: 214363639<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA FOSCHINI
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRACETA 1 DE MAIO,1-A * QUELUZ OCIDENTAL <br>
+	                      				2745 - 316 QUELUZ <br>
+	                      				Tel: 214395294<br>
+	                      				Fax: 214370115
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LONGITUDES,LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO COUDEL (POSTO GALP) <br>
+	                      				2725 - 275 MEM MARTINS <br>
+	                      				Tel: 211319704<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BRASILEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.RUI GAMEIRO,13 <br>
+	                      				2745 - 320 QUELUZ <br>
+	                      				Tel: 214378589<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MIMO DA ANTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.INF.D.HENRIQUE,89-B <br>
+	                      				2735 - 115 AGUALVA-CACÉM <br>
+	                      				Tel: 214326534<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ GUIDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. REPUBLICA, 71 <br>
+	                      				2745 - 208 QUELUZ <br>
+	                      				Tel: 214350159<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M.GABRIELA-TABACARIA E PAPELARIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SEBASTIÃO ANTUNES, 2A <br>
+	                      				2735 - 265 AGUALVA-CACÉM <br>
+	                      				Tel: 219132027<br>
+	                      				Fax: 219132027
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O TREVO DE S.MARCOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				URB.S.MARCOS LT-177 (C.COM.S.MARCOS LJ-2) <br>
+	                      				2735 - 653 AGUALVA-CACÉM <br>
+	                      				Tel: 214265908<br>
+	                      				Fax: 214265908
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MINA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JOAO DE DEUS,76 LJ-ESQ. <br>
+	                      				2635 - 423 RIO DE MOURO <br>
+	                      				Tel: 219216009<br>
+	                      				Fax: 219216009
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JOANA TULIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. AUGUSTO FRAGA, 16. LJ 23 <br>
+	                      				2725 - 679 MEM MARTINS <br>
+	                      				Tel: 216091911<br>
+	                      				Fax: 216091911
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MANUEL PAIXAO ROSADO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROF.JOAQUIM FONTES,62 * MORELENA <br>
+	                      				2715 - 040 PERO PINHEIRO <br>
+	                      				Tel: 219270280<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DO ALGUEIRAO,136 * ALGUEIRAO <br>
+	                      				2725 - 021 MEM MARTINS <br>
+	                      				Tel: 219213610<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE FANGIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GEN.BARNABE ANT.FERREIRA,73 <br>
+	                      				2715 - 315 ALMARGEM DO BISPO <br>
+	                      				Tel: 219271274<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DOM SABOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				BAIRRO DA TABAQUEIRA, BLOCO COMERCIAL, LJ. A <br>
+	                      				2635 - 088 RIO DE MOURO <br>
+	                      				Tel: 219151349<br>
+	                      				Fax: 219151349
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ RESTAURANTE STADIUM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. FRANCISCO LUCAS PIRES, 12, LJ C <br>
+	                      				2735 - 088 AGUALVA-CACÉM <br>
+	                      				Tel: 214321064<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE VARZEA COLARES
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.INFANTE D.HENRIQUE * VARZEA COLARES <br>
+	                      				2705 - 351 COLARES <br>
+	                      				Tel: 219291681<br>
+	                      				Fax: 219291681
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 DE ABRIL,9 * VILA VERDE <br>
+	                      				2705 - 902 TERRUGEM SNT <br>
+	                      				Tel: 219617081<br>
+	                      				Fax: 219617081
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RIMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. FRANCISCO LYON DE CASTRO - JUMBO, LJ. 16 <br>
+	                      				2725 - 397 MEM MARTINS <br>
+	                      				Tel: 219200807<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O 17
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.25 DE ABRIL,4-5 * MACEIRA <br>
+	                      				2715 - 661 MONTELAVAR <br>
+	                      				Tel: 219270389<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ A ANCÔRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.NATÁLIA CORREIA,5 <br>
+	                      				2635 - 475 RIO DE MOURO <br>
+	                      				Tel: 219174751<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE 2M
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.VIANA DA MOTA,LT-40,LJ-ESQ * ALGUEIRAO <br>
+	                      				2725 - 153 MEM MARTINS <br>
+	                      				Tel: 219216632<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SNACK-BAR O TOSTÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA DA BICA DA COSTA,24 * PENDÃO <br>
+	                      				2745 - 022 QUELUZ <br>
+	                      				Tel: 214362722<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA ARCADAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				ROTUNDA DRA.LAURA AIRES,5 LJ.5A <br>
+	                      				2745 - 758 QUELUZ <br>
+	                      				Tel: 214372928<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PRIMAVERA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CÂMARA PESTANA, 9 <br>
+	                      				2710 - 546 SINTRA <br>
+	                      				Tel: 219230531<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MRPAPEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ELIAS GARCIA LT.201, INTERMARCHE,LJ.2) <br>
+	                      				2735 - 682 AGUALVA-CACÉM <br>
+	                      				Tel: 219140717<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NALFUEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 249-4, KM 1.2, ABRUNHEIRA <br>
+	                      				2710 - 116 SINTRA <br>
+	                      				Tel: 215919134<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NOEMIA CONCEIÇÃO ALMEIDA MONTEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALÇADA S. PEDRO,63 <br>
+	                      				2710 - 508 SINTRA <br>
+	                      				Tel: 219232676<br>
+	                      				Fax: 219232676
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE MANJUBA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 DE ABRIL,LT-108 A <br>
+	                      				2745 - 384 QUELUZ <br>
+	                      				Tel: 214370119<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										OLGA DUARTE-DOC.CONTAB.PAPELARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.29 AGOSTO,169 <br>
+	                      				2705 - 869 TERRUGEM SNT <br>
+	                      				Tel: 219618233<br>
+	                      				Fax: 219611808
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE CHAPARRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.DOS ASTRONAUTAS,3*LOUREL <br>
+	                      				2710 - 351 SINTRA <br>
+	                      				Tel: 219231728<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE ASES
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE MEM MARTINS,102-A * S.CARLOS <br>
+	                      				2725 - 378 MEM MARTINS <br>
+	                      				Tel: 219205956<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PALAVRADESTAQUE,  LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.COUDEL,30,PINGO DOCE, BR.S.CARLOS <br>
+	                      				2725 - 274 MEM MARTINS <br>
+	                      				Tel: 211979816<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CASAL DO COTAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.CIDADE DE OMURA,34-A <br>
+	                      				2735 - 570 AGUALVA-CACÉM <br>
+	                      				Tel: 214261862<br>
+	                      				Fax: 214261862
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA FITARES
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DO PARQUE, URB. DE FITARES (PINGO DOCE) <br>
+	                      				2635 - 609 RIO DE MOURO <br>
+	                      				Tel: 210992515<br>
+	                      				Fax: 219170702
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA HUGO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.OSCAR MONTEIRO TORRES (CPCOM 4) <br>
+	                      				2635 - 384 RIO DE MOURO <br>
+	                      				Tel: 219173523<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA HUGO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MARIO GRACA,21 <br>
+	                      				2635 - 382 RIO DE MOURO <br>
+	                      				Tel: 219165415<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JORNALINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTÓNIO ANTUNES MARTINS OLIVEIRA, 2, LJ. D <br>
+	                      				2735 - 535 AGUALVA-CACÉM <br>
+	                      				Tel: 211395505<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ANA E IZA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DOS JASMINS,26-A LJ <br>
+	                      				2745 - 796 QUELUZ <br>
+	                      				Tel: 214377939<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MARTINS
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRACETA HENRIQUE POUSAO,7-C <br>
+	                      				2745 - 123 QUELUZ <br>
+	                      				Tel: 214377253<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA FERREIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. MIGUEL TORGA, 24 A * TAPADA DAS MERCÊS <br>
+	                      				2725 - 563 MEM MARTINS <br>
+	                      				Tel: 219166670<br>
+	                      				Fax: 219166670
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RELVAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE MEM MARTINS,160-A <br>
+	                      				2725 - 380 MEM MARTINS <br>
+	                      				Tel: 219261127<br>
+	                      				Fax: 219261127
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELMAIOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.EDUARDO F.PINTO BASTOS,13 A <br>
+	                      				2605 - 024 BELAS <br>
+	                      				Tel: 214310425<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELOCAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. GIL EANES*C.C.MERCADO RIO MOURO,LJ-67 <br>
+	                      				2635 - 399 RIO DE MOURO <br>
+	                      				Tel: 219165208<br>
+	                      				Fax: 219165208
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA FLOR OURESSA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ALMIRANTE GAGO COUTINHO,42-44 <br>
+	                      				2725 - 319 MEM MARTINS <br>
+	                      				Tel: 216029623<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA LAÇO DE MEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R CIDADE DE BEJA, 14 <br>
+	                      				2725 - 009 MEM MARTINS <br>
+	                      				Tel: 219262381<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA NOVA HERA, LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R VASCO DA GAMA, 4 B <br>
+	                      				2725 - 151 MEM MARTINS <br>
+	                      				Tel: 219215705<br>
+	                      				Fax: 219215705
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										A PAPELARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. STA. MARIA,88 <br>
+	                      				2705 - 660 SÃO JOÃO DAS LAMPAS <br>
+	                      				Tel: 219610217<br>
+	                      				Fax: 219617408
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA P &amp; B
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.BARBOSA DU BOCAGE,69 LJ.ESQ*SERRA DAS MINAS <br>
+	                      				2635 - 414 RIO DE MOURO <br>
+	                      				Tel: 219260068<br>
+	                      				Fax: 219260068
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RIMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				FORUM SINTRA LJ.044 -  IC19 ALTO DO FORTE <br>
+	                      				2635 - 018 RIO DE MOURO <br>
+	                      				Tel: 219184252<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BOTÃO DE PAPEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. 5 DE OUTUBRO, 11 <br>
+	                      				2605 - 021 BELAS <br>
+	                      				Tel: 214320746<br>
+	                      				Fax: 214320746
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DIURNALE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DOS BONS AMIGOS,87, C.C.FONTE EIRAS,LJ 1 <br>
+	                      				2735 - 081 AGUALVA-CACÉM <br>
+	                      				Tel: 214322110<br>
+	                      				Fax: 214322110
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PENSAMOS EM TUDO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.URANO,LJ-17 * SERRA MINAS <br>
+	                      				2635 - 451 RIO DE MOURO <br>
+	                      				Tel: 219175102<br>
+	                      				Fax: 219175102
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SOL DAS AVENCAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SCARLATTI,28 <br>
+	                      				2745 - 212 QUELUZ <br>
+	                      				Tel: 214355607<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PETROLINOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 9, KM 7,9 - LINHÓ <br>
+	                      				2710 - 147 SINTRA <br>
+	                      				Tel: 210988820<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PIRAMIDE DO SUCESSO - PAPELARIA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. NUNO GONÇALVES, 18 <br>
+	                      				2635 - 438 RIO DE MOURO <br>
+	                      				Tel: 219209693<br>
+	                      				Fax: 219209693
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE PARIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE MEM MARTINS,167 C-D <br>
+	                      				2725 - 389 MEM MARTINS <br>
+	                      				Tel: 219213421<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTAIS DECIMAIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. LUIS DE CAMÕES,38- A * MONTE ABRAÃO <br>
+	                      				2745 - 301 QUELUZ <br>
+	                      				Tel: 216076783<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PÃO DOS ANJOS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.INF.D.HENRIQUE,LT-9 LJ-A * AGUALVA <br>
+	                      				2735 - 116 AGUALVA-CACÉM <br>
+	                      				Tel: 214325566<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RABISCOS AO ACASO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.EMB.ARISTIDES SOUSA MENDES, MODELO LJ.3 <br>
+	                      				2725 - 537 MEM MARTINS <br>
+	                      				Tel: 219171878<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DO LINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANTONIO REIS,116 * LINHO <br>
+	                      				2710 - 299 SINTRA <br>
+	                      				Tel: 210935364<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE SAMARITANAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GEN.HUMBERTO DELGADO, 2-A <br>
+	                      				2605 - 029 BELAS <br>
+	                      				Tel: 214028347<br>
+	                      				Fax: 214048530
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SAMUROSA - ADMINISTRAÇAO DE PROPRIEDADES, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. JOSE REGIO, 1-B * MASSAMA <br>
+	                      				2745 - 807 QUELUZ <br>
+	                      				Tel: 214393976<br>
+	                      				Fax: 214393976
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JACKPOT
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. BRASIL, 83-B* S. MARCOS <br>
+	                      				2735 - 673 AGUALVA-CACÉM <br>
+	                      				Tel: 214265605<br>
+	                      				Fax: 214265605
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA LAPIS DE COR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.ANTONIO CORREIA SA,55 <br>
+	                      				2705 - 214 COLARES <br>
+	                      				Tel: 219289322<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA MARIANITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.MARIA I, Nº5-A <br>
+	                      				2745 - 164 QUELUZ <br>
+	                      				Tel: 214351312<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE BETINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ANTONIO ENNES,28-A <br>
+	                      				2745 - 067 QUELUZ <br>
+	                      				Tel: 214350814<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SÃO JORGE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DE LISBOA, 137 <br>
+	                      				2605 - 003 CASAL DE CAMBRA <br>
+	                      				Tel: 219800679<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BORRACHINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JAIME CORTESÃO,LT-100 LJ-B * MONTE ABRAÃO <br>
+	                      				2745 - 285 QUELUZ <br>
+	                      				Tel: 214305613<br>
+	                      				Fax: 214305613
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SPOLSIGN
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.STO.ANTONIO,18 LJ-C * ALGUEIRAO <br>
+	                      				2725 - 096 MEM MARTINS <br>
+	                      				Tel: 219207874<br>
+	                      				Fax: 219207874
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MINIMERCADO SUPER IDEAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.250,42 * RECOVEIRO <br>
+	                      				2725 - 506 MEM MARTINS <br>
+	                      				Tel: 219166379<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAZAR DA ABELHEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CARLOS CHARBEL,23 * ABELHEIRA <br>
+	                      				2735 - 019 AGUALVA-CACÉM <br>
+	                      				Tel: 214311606<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CABETE, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MIGUEL TORGA-ESTAÇÃO CP (QUIOSQUE) <br>
+	                      				2725 - 023 MEM MARTINS <br>
+	                      				Tel: 219176101<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CENTRAL DE MIRA SINTRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 ABRIL,LT-226A * MIRA SINTRA <br>
+	                      				2735 - 415 AGUALVA-CACÉM <br>
+	                      				Tel: 219142822<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA DA VILA, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. DR. GREGORIO D'ALMEIDA, 2 <br>
+	                      				2710 - 570 SINTRA <br>
+	                      				Tel: 219244276<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA TUNEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AFONSO DE ALBUQUERQUE,14-C <br>
+	                      				2735 - 045 AGUALVA-CACÉM <br>
+	                      				Tel: 219145488<br>
+	                      				Fax: 219145488
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA HAVANEZA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CIDADE S.SALVADOR,15-B <br>
+	                      				2735 - 651 AGUALVA-CACÉM <br>
+	                      				Tel: 214260531<br>
+	                      				Fax: 214260531
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MONTE TABACARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROF.DR.VIRGILIO MACHADO,17-B <br>
+	                      				2745 - 345 QUELUZ <br>
+	                      				Tel: 214374895<br>
+	                      				Fax: 214374895
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TAIPAS AGUARELA DA SAMARITANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MARGARIDA MALHEIROS, 20 <br>
+	                      				2605 - 125 BELAS <br>
+	                      				Tel: 214312025<br>
+	                      				Fax: 214321025
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE SINTRENSE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DO M.F.A.,58 * PORTELA SINTRA <br>
+	                      				2710 - 432 SINTRA <br>
+	                      				Tel: 219231202<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TELMA MARIA ANTUNES TAFUL BÉRTOLO
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALM.D.AFONSO HENRIQUES,21 <br>
+	                      				2715 - 665 MONTELAVAR <br>
+	                      				Tel: 219271453<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VASP - DISTRIBUIDORA DE PUBLICAÇÕES, SA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				MEDIA LOGISTICS PARK - QTA. DO GRAJAL <br>
+	                      				2739 - 511 AGUALVA-CACÉM <br>
+	                      				Tel: 214337000<br>
+	                      				Fax: 214326009
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE OLIVEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PRINCIPAL,132-134 * DONA MARIA <br>
+	                      				2715 - 295 ALMARGEM DO BISPO <br>
+	                      				Tel: 219800435<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										XANDRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. D.AFONSO V,  P.DOCE, LJ.1*PORTELA SINTRA <br>
+	                      				2710 - 521 SINTRA <br>
+	                      				Tel: 219241852<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

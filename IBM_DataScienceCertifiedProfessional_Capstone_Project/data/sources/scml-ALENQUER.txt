@@ -1,0 +1,232 @@
+<div class="jstyling-select-t_select7">ALENQUER</div></div>
+<ul class="salePointSearch3">
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  A PRIMEIRA PAGINA
+          </span> 
+          <span class="text">
+            LARGO DO CRESPO,9 <br>
+              2580 - 017 ABRIGADA <br>
+              Tel: 263790145<br>
+              
+            </span>
+          </li>
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  PASTELARIA NORBERTO´S
+          </span> 
+          <span class="text">
+            PRAC.PEDRO ALVARES CABRAL, LT-9 R/C DT. <br>
+              2580 - 494 CARREGADO <br>
+              Tel: 263853155<br>
+              Fax: 263853155
+            </span>
+          </li>
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  CAFE PASTOR
+          </span> 
+          <span class="text">
+            R. 5  OUTUBRO,19 *  CABANAS DO CHAO <br>
+              2580 - 062 ABRIGADA <br>
+              Tel: 263799251<br>
+              
+            </span>
+          </li>
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  CAFE LEVEZINHO
+          </span> 
+          <span class="text">
+            R.1 DE MAIO <br>
+              2580 - 131 CADAFAIS <br>
+              Tel: 263852794<br>
+              
+            </span>
+          </li>
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  PAPELARIA ANDRÉ
+          </span> 
+          <span class="text">
+            LG. DR. MÁRIO MADEIRA, 12 <br>
+              2580 - 243 OTA <br>
+              Tel: 263749187<br>
+              
+            </span>
+          </li>
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  ESFERA DE LETRAS,LDA.
+          </span> 
+          <span class="text">
+            AV. ASSOCIAÇÃO DESPORTIVA DO CARREGADO, 2B <br>
+              2580 - 600 CARREGADO <br>
+              Tel: 263855388<br>
+              Fax: 263855388
+            </span>
+          </li>
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  CYCLES CARTAXO
+          </span> 
+          <span class="text">
+            R.PINTO BARREIROS,50 <br>
+              2580 - 499 CARREGADO <br>
+              Tel: 263852276<br>
+              Fax: 263852276
+            </span>
+          </li>
+
+        <li style="display: list-item;"> 
+          <span class="title">
+  CAFE CENTRAL
+          </span> 
+          <span class="text">
+            LG.STA.MARIA MADALENA <br>
+              2580 - 101 ALDEIA GAVINHA <br>
+              Tel: 263769159<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  CAFE CENTRAL
+          </span> 
+          <span class="text">
+            R.DO COMERCIO,27 * SANTANA DA CARNOTA <br>
+              2580 - 154 CARNOTA <br>
+              Tel: 263759200<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  CAFE NAU
+          </span> 
+          <span class="text">
+            AV.25 DE ABRIL,28 <br>
+              2580 - 367 ALENQUER <br>
+              Tel: 263046734<br>
+              Fax: 263711082
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  O MEU CAFE
+          </span> 
+          <span class="text">
+            LG.N.SRA.DA ENCARNACAO,10 <br>
+              2580 - 219 OLHALVO <br>
+              Tel: 263770421<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  PAPELARIA BRAVISSIMO
+          </span> 
+          <span class="text">
+            R.JORGE CUNHA E CARMO,LT.22 LJ.B <br>
+              2580 - 355 ALENQUER <br>
+              Tel: 263733256<br>
+              Fax: 263733256
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  TABACARIA CENTRAL
+          </span> 
+          <span class="text">
+            LG. RAINHA SANTA ISABEL, Nº 4-A <br>
+              2580 - 372 ALENQUER <br>
+              Tel: 263098570<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  PAU DE CANELA
+          </span> 
+          <span class="text">
+            R. VAZ MONTEIRO, 134-136 <br>
+              2580 - 505 CARREGADO <br>
+              Tel: 263851361<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  CONFRARIA DO CAFÉ
+          </span> 
+          <span class="text">
+            C.COM.CAMPERA CARREGADO,E.N.3 KM 149,LJ-0.16 <br>
+              2580 - 491 CARREGADO <br>
+              Tel: 263710500<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  CAFÉ DOM NUNO
+          </span> 
+          <span class="text">
+            QTA. DO BRAVO,  ESTRADA NACIONAL 1 <br>
+              2580 - 374 ALENQUER <br>
+              Tel: 263710834<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  SODICARREGADO - SUPERMERCADOS,LDA.
+          </span> 
+          <span class="text">
+            QUINTA DA COLONIA,LT.2 <br>
+              2580 - 491 CARREGADO <br>
+              Tel: 263854101<br>
+              Fax: 263854129
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  SUCOS DE FRUTAS, FORNOS, LDA.
+          </span> 
+          <span class="text">
+            LG.LUIS DE CAMOES,1-2 <br>
+              2580 - 087 ALDEIA GALEGA DA MERCEANA <br>
+              Tel: 263769181<br>
+              
+            </span>
+          </li>
+
+        <li style="display: none;"> 
+          <span class="title">
+  INTERMARCHÉ ABRIGADA
+          </span> 
+          <span class="text">
+            LUGAR DA FUNILEIRA -  INTERMARCHÉ ABRIGADA <br>
+              2580 - 097 ABRIGADA <br>
+              Tel: 263798080<br>
+              
+            </span>
+          </li>
+        
+</ul>

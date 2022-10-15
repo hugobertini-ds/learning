@@ -1,0 +1,1001 @@
+<div class="jstyling-select-t_select7">AMADORA</div>
+                  			<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										13 DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. PADRE BARTOLOMEU GUSMÃO, 51 * DAMAIA <br>
+	                      				2720 - 426 AMADORA <br>
+	                      				Tel: 214905957<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										MEU SUPER-AMADORA-CASA DOS MILHOES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ELIAS GARCIA,253-B <br>
+	                      				2700 - 320 AMADORA <br>
+	                      				Tel: 214943791<br>
+	                      				Fax: 214943791
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										QUIOSQUE DA AMADORA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DR.DARIO G.NUNES (QUIOSQUE AMADORA) <br>
+	                      				2700 - 279 AMADORA <br>
+	                      				Tel: 214945365<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										FIBAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.AFONSO DE NORONHA,1-A * REBOLEIRA <br>
+	                      				2720 - 158 AMADORA <br>
+	                      				Tel: 214951555<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE TONDELENSE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA LIBERDADE,13-A * BRANDOA <br>
+	                      				2650 - 202 AMADORA <br>
+	                      				Tel: 214741015<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PASTELARIA PINTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CANDIDO DOS REIS,23-A <br>
+	                      				2700 - 142 AMADORA <br>
+	                      				Tel: 214933892<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CASA TONECAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DAS AGUAS LIVRES,101 * CARENQUE <br>
+	                      				2700 - 017 AMADORA <br>
+	                      				Tel: 214350835<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										BAR DALITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GARCIA DE ORTA,18 * DAMAIA <br>
+	                      				2720 - 251 AMADORA <br>
+	                      				Tel: 214745184<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE JOTA JOTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.AVIACAO PORTUGUESA,20-A * REBOLEIRA <br>
+	                      				2720 - 059 AMADORA <br>
+	                      				Tel: 210931578<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA O FORNO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.D.NUNO ALVARES PEREIRA,17-B <br>
+	                      				2700 - 253 AMADORA <br>
+	                      				Tel: 214935677<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAZAR NUBI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DR. FERNANDO PITEIRA SANTOS, 18 B <br>
+	                      				2650 - 292 AMADORA <br>
+	                      				Tel: 214934586<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PARAÍSO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GEN.ALVES ROÇADAS,18-A * DAMAIA <br>
+	                      				2720 - 255 AMADORA <br>
+	                      				Tel: 216025229<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ELECTRO SOM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ELIAS GARCIA, 127-C * BAIRRO BOSQUE <br>
+	                      				2700 - 316 AMADORA <br>
+	                      				Tel: 214958304<br>
+	                      				Fax: 214958304
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MINA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CARDOSO LOPES,31-B <br>
+	                      				2700 - 160 AMADORA <br>
+	                      				Tel: 214933630<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JOSE GARCES,32 (C.C.DOLCE VITA TEJO LJ.50) <br>
+	                      				2650 - 435 AMADORA <br>
+	                      				Tel: 214784416<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CATIEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.5 DE OUTUBRO,10-A * BURACA <br>
+	                      				2610 - 040 AMADORA <br>
+	                      				Tel: 214714071<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COMPRACÁ - SUPERMERCADOS DE PROXIMIDADE, S.A.
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE ALFRAGIDE,20-B * BURACA <br>
+	                      				2610 - 009 AMADORA <br>
+	                      				Tel: 214711716<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CRISTAIS DE NEVE
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAC.FRANCISCO RAMOS COSTA,3 LJ-A <br>
+	                      				2720 - 240 AMADORA <br>
+	                      				Tel: 214960536<br>
+	                      				Fax: 214960536
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DAISY GIFT
+	                    			</span> 
+	                    			<span class="text">
+	                    				IC 19-HOSPITAL FERN.FONSECA ATRIUM PRINCIPAL <br>
+	                      				2720 - 276 AMADORA <br>
+	                      				Tel: 214352902<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE DANUBIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CRAVOS VERMELHOS, LT. 35 * REBOLEIRA <br>
+	                      				2720 - 138 AMADORA <br>
+	                      				Tel: 214957685<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA RUIVOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DO BRASIL,20 <br>
+	                      				2700 - 133 AMADORA <br>
+	                      				Tel: 214957183<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE LISCARLA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROF.MIRA FERNANDES,2 LJ. <br>
+	                      				2650 - 142 AMADORA <br>
+	                      				Tel: 214740576<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FRANCISCO PAPELARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ERNESTO MELO ANTUNES, 3 B <br>
+	                      				2700 - 002 AMADORA <br>
+	                      				Tel: 218220367<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GALERIA G.C.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALBERTO ALDIM,3-B * ALFRAGIDE <br>
+	                      				2610 - 001 AMADORA <br>
+	                      				Tel: 214715456<br>
+	                      				Fax: 214715456
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA ORQUIDIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GEN.HUMBERTO DELGADO,132-A * MINA <br>
+	                      				2700 - 419 AMADORA <br>
+	                      				Tel: 218226945<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O GARFO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PCTA.TEOFILO BRAGA,11 LJ-DT * COLINA SOL <br>
+	                      				2650 - 074 AMADORA <br>
+	                      				Tel: 214743725<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PÃO DE MEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CANTO E CASTRO, LT. 49, LJ. A-B <br>
+	                      				2700 - 782 AMADORA <br>
+	                      				Tel: 214918239<br>
+	                      				Fax: 214918595
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SAGITARIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ARY DOS SANTOS,LT-43,LJ-C <br>
+	                      				2720 - 053 AMADORA <br>
+	                      				Tel: 214959219<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CAROL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CARVALHO ARAUJO,32-A * DAMAIA <br>
+	                      				2720 - 085 AMADORA <br>
+	                      				Tel: 214970673<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL DA FALAGUEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DA FALAGUEIRA,58 A <br>
+	                      				2700 - 365 AMADORA <br>
+	                      				Tel: 214932170<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITURA FRESCA, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.TEOFILO BRAGA, EST. METRO ALFORNELOS, LJ.1 <br>
+	                      				2650 - 074 AMADORA <br>
+	                      				Tel: 214740323<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LINHA DO CAFÉ
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTAÇÃO CP AMADORA - PASSAGEM INFERIOR LJ.6 <br>
+	                      				2700 - 349 AMADORA <br>
+	                      				Tel: 214912942<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DO BONECO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.F.SA CARNEIRO,12 LJ-B * QTA.BOREL <br>
+	                      				2720 - 197 AMADORA <br>
+	                      				Tel: 214952904<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LUSODELTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DAVID MOURAO FERREIRA,2 LJ-14 * SERRA MIRA <br>
+	                      				2650 - 050 AMADORA <br>
+	                      				Tel: 214927637<br>
+	                      				Fax: 214927637
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MAJORALI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DA QUINTA GRANDE,4-A * ALFRAGIDE <br>
+	                      				2610 - 159 AMADORA <br>
+	                      				Tel: 214717527<br>
+	                      				Fax: 214711053
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE MORENO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PCT. DR.FERNANDO PIT. SANTOS,5 B*ALTO DA MIRA <br>
+	                      				2650 - 288 AMADORA <br>
+	                      				Tel: 214016118<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JORDÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE ALFRAGIDE,2 * BURACA <br>
+	                      				2610 - 009 AMADORA <br>
+	                      				Tel: 214710019<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA INICIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.P.BORGES, C. C. TORRES ALFRAGIDE ,LJ-2 <br>
+	                      				2610 - 140 AMADORA <br>
+	                      				Tel: 214714412<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POLANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.PADRE BARTOLOMEU GUSMAO,21-D * DAMAIA <br>
+	                      				2720 - 426 AMADORA <br>
+	                      				Tel: 214903598<br>
+	                      				Fax: 214903598
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA HAVANEZA DA DAMAIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.VIEIRA LUSITANO, 7-A * DAMAIA <br>
+	                      				2720 - 539 AMADORA <br>
+	                      				Tel: 214901194<br>
+	                      				Fax: 214905858
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE DAKTARI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.PANGIM,11-A * REBOLEIRA <br>
+	                      				2720 - 444 AMADORA <br>
+	                      				Tel: 214953415<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MILIGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTAÇÃO DA CP - SANTA CRUZ-DAMAIA, LJ. 1 <br>
+	                      				2720 - 191 AMADORA <br>
+	                      				Tel: 214742282<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MILIGA - EQUIPAMENTOS DE TELECOMUNICAÇÕES, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ELIAS GARCIA, 362D C BABILONIA P.INF. LJ.3 <br>
+	                      				2700 - 337 AMADORA <br>
+	                      				Tel: 214947137<br>
+	                      				Fax: 214947137
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NOTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.249-1 (C.COM. CONTINENTE,LJ-19-20) <br>
+	                      				2720 - 413 AMADORA <br>
+	                      				Tel: 214179804<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PITEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ELIAS GARCIA, 101, LJ.  ESQ. * FALAGUEIRA <br>
+	                      				2700 - 315 AMADORA <br>
+	                      				Tel: 214955927<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE APEADEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GARCIA DE ORTA,23-C * DAMAIA <br>
+	                      				2720 - 250 AMADORA <br>
+	                      				Tel: 214748020<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE GALO DA BRANDOA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MUNICIPIO,893 * BRANDOA <br>
+	                      				2650 - 174 AMADORA <br>
+	                      				Tel: 214761067<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O LAPINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.17 DE SETEMBRO, 45-B * CASAL DE S.BRAS <br>
+	                      				2700 - 231 AMADORA <br>
+	                      				Tel: 211377968<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O MOINHO DO ALTO DA MIRA,CAFE SNACK-BAR,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AMALIA RODRIGUES, 5 A 5-B <br>
+	                      				2650 - 436 AMADORA <br>
+	                      				Tel: 214930765<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TONICA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CHABY PINHEIRO,3-B * VENDA NOVA <br>
+	                      				2700 - 191 AMADORA <br>
+	                      				Tel: 214748250<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PALAVRAS CRUZADAS, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. OLIVEIRA MARTINS, 7-A <br>
+	                      				2700 - 618 AMADORA <br>
+	                      				Tel: 214945532<br>
+	                      				Fax: 214945532
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DUARTE CORDEIRO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PEDRO DEL NEGRO,3-A <br>
+	                      				2720 - 449 AMADORA <br>
+	                      				Tel: 214954121<br>
+	                      				Fax: 214954121
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										HAVANEZA DA AMADORA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.EDUARDO JORGE,33 * VENDA NOVA <br>
+	                      				2700 - 306 AMADORA <br>
+	                      				Tel: 214942320<br>
+	                      				Fax: 214942320
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										HAVANESA DA AMADORA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ELIAS GARCIA, 23 (PINGO DOCE) <br>
+	                      				2700 - 311 AMADORA <br>
+	                      				Tel: 214962549<br>
+	                      				Fax: 214962549
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JARDIM DA VENTEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.1 DE DEZEMBRO,18-B <br>
+	                      				2700 - 671 AMADORA <br>
+	                      				Tel: 214944873<br>
+	                      				Fax: 214944873
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA S.BRAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.SERRA DA MIRA, 44 <br>
+	                      				2700 - 788 AMADORA <br>
+	                      				Tel: 214936356<br>
+	                      				Fax: 214936356
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA FORTUNA MILENIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.VICE ALM. AZEVEDO COUTINHO, 11 LJ-A <br>
+	                      				2700 - 843 AMADORA <br>
+	                      				Tel: 214954869<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA VENHA CA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GARCIA DA ORTA, 34-A * DAMAIA <br>
+	                      				2720 - 252 AMADORA <br>
+	                      				Tel: 218002460<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA CELIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CAMILO CASTELO BRANCO,12A * BURACA <br>
+	                      				2610 - 031 AMADORA <br>
+	                      				Tel: 214717650<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA NOVA LUZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.25 DE ABRIL,LT-FBRM * BRANDOA <br>
+	                      				2650 - 062 AMADORA <br>
+	                      				Tel: 215984116<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PADDOCK JORNAIS &amp; CA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR GAMA PINTO, LT 36, LJ. 3 <br>
+	                      				2720 - 416 AMADORA <br>
+	                      				Tel: 218007220<br>
+	                      				Fax: 218007220
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFETARIA ARCO-ÍRIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ELIAS GARCIA, 10 - C/D <br>
+	                      				2700 - 325 AMADORA <br>
+	                      				Tel: 214742528<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PORÇÃO DE SABEDORIA - UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CAPITAES DE ABRIL,19 * ALFORNELOS <br>
+	                      				2650 - 352 AMADORA <br>
+	                      				Tel: 211315133<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESSE LINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CRUZEIRO SEIXAS, DOLCE VITA TEJO, LJ.0067 <br>
+	                      				2650 - 504 AMADORA <br>
+	                      				Tel: 218053655<br>
+	                      				Fax: 218053655
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA PIGGALE
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA BRANDOA - MERCADO MUNICIPAL, LJ. 7 <br>
+	                      				2650 - 155 AMADORA <br>
+	                      				Tel: 214742124<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PROPEL - PRODUTOS DE PETROLEO, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				CRUZAMENTO RUA PLÁTANOS - P. ABAST. CEPSA <br>
+	                      				2650 - 087 AMADORA <br>
+	                      				Tel: 219811916<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUARENTA SESSENTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PCT. MANUELA PORTO (C.C.COLINA DO SOL, LJ. 2) <br>
+	                      				2650 - 191 AMADORA <br>
+	                      				Tel: 214763336<br>
+	                      				Fax: 214763336
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SNACK-BAR TIROL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.5 DE OUTUBRO,53-A <br>
+	                      				2700 - 197 AMADORA <br>
+	                      				Tel: 214918637<br>
+	                      				Fax: 214918637
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PÃO DE DEUS
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. ANTÓNIO FELICIANO DE CASTILHO, 7 <br>
+	                      				2700 - 073 AMADORA <br>
+	                      				Tel: 214744576<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										REGAÇO DE LETRAS - UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CONDE DE OEIRAS,29 <br>
+	                      				2720 - 125 AMADORA <br>
+	                      				Tel: 217159018<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA VARANDAS DE MONSANTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA PAUL HARRIS,12 (URB. VARANDAS MONSANTO) <br>
+	                      				2610 - 196 AMADORA <br>
+	                      				Tel: 214719727<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MOINHO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.QTA.GRANDE, LT. 22B, C.C.MOINHOS LJ.1019 <br>
+	                      				2610 - 161 AMADORA <br>
+	                      				Tel: 214712178<br>
+	                      				Fax: 214712178
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA QUATRO FOLHAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GEN.HUMBERTO DELGADO,32-B <br>
+	                      				2700 - 559 AMADORA <br>
+	                      				Tel: 214942205<br>
+	                      				Fax: 214942205
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE TICO TICO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ELIAS GARCIA,49 * VENDA NOVA <br>
+	                      				2700 - 313 AMADORA <br>
+	                      				Tel: 214990052<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PIGALLE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALFREDO KEIL,20/24 <br>
+	                      				2700 - 036 AMADORA <br>
+	                      				Tel: 214930245<br>
+	                      				Fax: 214927365
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA OS COELHINHOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.D.JOSE I,59-B * REBOLEIRA <br>
+	                      				2720 - 176 AMADORA <br>
+	                      				Tel: 214950370<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA OSIRIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.CIRCUNVALACAO,11-B * BURACA <br>
+	                      				2720 - 105 AMADORA <br>
+	                      				Tel: 214711239<br>
+	                      				Fax: 214711239
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA VELEZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ELIAS GARCIA,267 <br>
+	                      				2700 - 320 AMADORA <br>
+	                      				Tel: 214914049<br>
+	                      				Fax: 214914049
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA VIOLETA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MOUZINHO DE ALBUQUERQUE,2-A * DAMAIA <br>
+	                      				2720 - 390 AMADORA <br>
+	                      				Tel: 214971275<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PUROS &amp; COMPANHIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CRUZEIRO SEIXAS,7,DOLCE VITA TEJO LJ.1090B <br>
+	                      				2650 - 504 AMADORA <br>
+	                      				Tel: 211369207<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TITULOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANTONIO SARDINHA,21-A <br>
+	                      				2700 - 084 AMADORA <br>
+	                      				Tel: 214934770<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ALIETE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AVENIDA MIGUEL BOMBARDA, 39 LJ. C <br>
+	                      				2700 - 581 AMADORA <br>
+	                      				Tel: 214943037<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RITINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. LIBERDADE, 74-B <br>
+	                      				2650 - 216 AMADORA <br>
+	                      				Tel: 214750439<br>
+	                      				Fax: 214750439
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>
+                  			

@@ -1,0 +1,953 @@
+LOURES
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A MEADINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. FORÇAS ARMADAS (VIV.MARCITA) <br>
+	                      				2680 - 428 UNHOS <br>
+	                      				Tel: 219415958<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA AGUIA DE OURO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. AUTA DA PALMA CARLOS, LT-27 <br>
+	                      				2685 - 025 SACAVÉM <br>
+	                      				Tel: 219424921<br>
+	                      				Fax: 219424921
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA MOSCAVIDE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LAUREANO DE OLIVEIRA,41-A <br>
+	                      				1885 - 052 MOSCAVIDE <br>
+	                      				Tel: 219443480<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										AMERICO &amp; PINTO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CIDADE DE LUANDA,A.A.S. LJ <br>
+	                      				2680 - 041 CAMARATE <br>
+	                      				Tel: 219470586<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CASA KATY
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.25 ABRIL (MINI CENTRO COMERCIAL,LJ-1) <br>
+	                      				2680 - 297 APELAÇÃO <br>
+	                      				Tel: 219472838<br>
+	                      				Fax: 219472838
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA ALVES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FRANCISCO MARQUES BEATO,1 <br>
+	                      				1885 - 032 MOSCAVIDE <br>
+	                      				Tel: 219441740<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA TAVARES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE MOCAMBIQUE,85-B <br>
+	                      				2685 - 356 PRIOR VELHO <br>
+	                      				Tel: 219419522<br>
+	                      				Fax: 219419522
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MOSCAVIDE,14-A <br>
+	                      				1885 - 060 MOSCAVIDE <br>
+	                      				Tel: 219441764<br>
+	                      				Fax: 219441764
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA DO ALMIRANTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DIOGO CAO, 6 LJ-10 <br>
+	                      				2660 - 445 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219889149<br>
+	                      				Fax: 219889149
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE O PIONEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.LUIS CAMOES, 8 (CIDADE NOVA) <br>
+	                      				2660 - 295 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219884045<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE PONTAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MARIA LUISA COSTA DIAS, LT. 143 * CATUJAL <br>
+	                      				2680 - 423 UNHOS <br>
+	                      				Tel: 219425871<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 10, QTA.MAÇAROCA, CONTINENTE S.JOAO TALHA <br>
+	                      				2695 - 671 SÃO JOÃO DA TALHA <br>
+	                      				Tel: 219948776<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DE MOSCAVIDE, 53-A <br>
+	                      				1885 - 065 MOSCAVIDE <br>
+	                      				Tel: 219444926<br>
+	                      				Fax: 219458969
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE BRASILEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.1 MAIO,82-C (BAIRRO S.JOSE) <br>
+	                      				2680 - 058 CAMARATE <br>
+	                      				Tel: 214064931<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARLOS &amp; FERNANDA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				PCT.MARQ.CAST.MELHOR,TORRE 3 * CIDADE NOVA <br>
+	                      				2660 - 245 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219880902<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFEINA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.COOPERATIVA A SACAVENENSE,22 LJ.A <br>
+	                      				2685 - 005 SACAVÉM <br>
+	                      				Tel: 219400738<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASTELO DE PALAVRAS - PAPELARIA ,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.VISC. CASTELO BRANCO LT.11LJ.D*PIRESCOXE <br>
+	                      				2690 - 414 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219590207<br>
+	                      				Fax: 219590207
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O GAVETO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.COMBATENTES G.GUERRA,47-A <br>
+	                      				1885 - 024 MOSCAVIDE <br>
+	                      				Tel: 219444308<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MODERNA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AVELINO SALGADO OLIVEIRA,16-A <br>
+	                      				2680 - 104 CAMARATE <br>
+	                      				Tel: 219471133<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EVA &amp; CANDIDO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				C.C.CIDADE NOVA,LJ-35 <br>
+	                      				2660 - 295 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219893150<br>
+	                      				Fax: 219893150
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FLORINDA PONTES DA ROCHA FERREIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.FRANCISCO M.BORGES,32 <br>
+	                      				2660 - 161 SANTO ANTÃO DO TOJAL <br>
+	                      				Tel: 219749005<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE VINDIMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA LIBERDADE,76 * A-DAS-LEBRES <br>
+	                      				2660 - 181 SANTO ANTÃO DO TOJAL <br>
+	                      				Tel: 219830800<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GALERIA DO INFANTADO
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA VASCO DA GAMA,  7-A - QTA. INFANTADO <br>
+	                      				2670 - 393 LOURES <br>
+	                      				Tel: 219821536<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JARDINS DO CRISTO REI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CAPITAO SALGUEIRO MAIA, 15, LJ. 4 <br>
+	                      				1885 - 091 MOSCAVIDE <br>
+	                      				Tel: 218245306<br>
+	                      				Fax: 219436175
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA HF
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JÚLIO CONCEÇÃO SOUSA,12 LJ-B <br>
+	                      				2695 - 065 BOBADELA LRS <br>
+	                      				Tel: 219944304<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										INTERAZÓIA - SUPERMERCADOS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. D. AFONSO ALBUQUERQUE, 51, ED. INTERMARCHÉ <br>
+	                      				2690 - 340 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219539630<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFETARIA GELATARIA POLO NORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. BELA VISTA, 11 C-D <br>
+	                      				2660 - 241 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219881294<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.5 OUTUBRO,2 * LOUSA DE CIMA <br>
+	                      				2670 - 755 LOUSA LRS <br>
+	                      				Tel: 219855207<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOAQUIM JOSE BAIXINHO DA CRUZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DIU,13 LJ-A <br>
+	                      				2690 - 348 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219566814<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA PAVIANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.S.FRANCISCO XAVIER,35-A <br>
+	                      				2690 - 376 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219591987<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITARIA ZEZITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DR. HENRIQUE BARBAS ALBUQUERQUE, 1-A <br>
+	                      				2670 - 468 LOURES <br>
+	                      				Tel: 219823210<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA STO.ANTONIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MOSCAVIDE,72-A <br>
+	                      				1885 - 062 MOSCAVIDE <br>
+	                      				Tel: 219440248<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFETARIA TEJO
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 10,KM 140, GAL.COM.E.LECLERC, LJ. 6 <br>
+	                      				2695 - 444 BOBADELA LRS <br>
+	                      				Tel: 210116868<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TRIEME
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALM. SALGUEIRO MAIA, C.C.FLAMINGOS, LJ. 31 <br>
+	                      				2660 - 329 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219883390<br>
+	                      				Fax: 219883390
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MANUEL PIPA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE LEIRIA FERNANDES,60 ABCDE <br>
+	                      				2670 - 348 LOURES <br>
+	                      				Tel: 219833007<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MANUEL SARAIVA MARTINS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS DE CAMOES,33-A <br>
+	                      				2685 - 063 SACAVÉM <br>
+	                      				Tel: 219412336<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE TORRAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.RESENDE,9 R/C (B.VINHA GRANDE) <br>
+	                      				2695 - 633 SÃO JOÃO DA TALHA <br>
+	                      				Tel: 219555017<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE MINHOTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA ESPERANCA, 15-B * VIA RARA <br>
+	                      				2690 - 589 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219531213<br>
+	                      				Fax: 219530324
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIA EUGENIA GOMES SIMOES GIL VIEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.COMB.ULTRAMAR 28-A * PINHEIRO LOURES <br>
+	                      				2670 - 506 LOURES <br>
+	                      				Tel: 219830119<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIA HELENA ALVES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AQUILINO RIBEIRO,7 <br>
+	                      				2695 - 022 BOBADELA LRS <br>
+	                      				Tel: 219550982<br>
+	                      				Fax: 219550982
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ HIPÓLITO
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA DA CORREDOURA, 18-A <br>
+	                      				2660 - 028 FRIELAS <br>
+	                      				Tel: 219886344<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LUCY
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.EDUARDO AUGUSTO PINTO,20 <br>
+	                      				2680 - 113 CAMARATE <br>
+	                      				Tel: 219480218<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE MIRATEJO
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.10 (ANAIA) <br>
+	                      				2690 - 366 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219591216<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE RUACANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CAMARA DE LOBOS,1 LJ-ESQ. * MEALHADA <br>
+	                      				2670 - 489 LOURES <br>
+	                      				Tel: 219835287<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MOBILIDADE POSITIVA-SOC.PORTUGUESA PARA MOBILIDADE,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA REPUBLICA (QUIOSQUE AO LADO Nº80) <br>
+	                      				2670 - 470 LOURES <br>
+	                      				Tel: 211554940<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MOMENTOS DE SOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CARLOS TEIXEIRA,3- HOSP. B ANGELO-P.0, PAP <br>
+	                      				2670 - 514 LOURES <br>
+	                      				Tel: 219887686<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MONTRA Z
+	                    			</span> 
+	                    			<span class="text">
+	                    				C. COMERCIAL  ST. ANTONIO, LJ 13 <br>
+	                      				2660 - 334 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219887061<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA URSINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 250, QTA.CASAL DA PIPA, CONTINENTE,LJ.31 <br>
+	                      				2670 - 339 LOURES <br>
+	                      				Tel: 219897655<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABAK
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DESCOBERTAS,90 (LOURES SHOPPING,LJ-0.019) <br>
+	                      				2670 - 457 LOURES <br>
+	                      				Tel: 219824336<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA 33, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				C.COM. PORTELA, LJ-33 R/C <br>
+	                      				2685 - 223 PORTELA LRS <br>
+	                      				Tel: 219411025<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ALBUQUERQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALVARO MANUEL ROXO,22-A <br>
+	                      				2695 - 736 SÃO JOÃO DA TALHA <br>
+	                      				Tel: 219552174<br>
+	                      				Fax: 219552174
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS DE CAMOES,32 <br>
+	                      				2670 - 662 BUCELAS <br>
+	                      				Tel: 219681525<br>
+	                      				Fax: 219681525
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TRICAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANTONIO FERREIRA,6-A, LJ <br>
+	                      				2695 - 019 BOBADELA LRS <br>
+	                      				Tel: 219550231<br>
+	                      				Fax: 219550231
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LEÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FRANCISCO MARQUES BEATO,96-A <br>
+	                      				1885 - 031 MOSCAVIDE <br>
+	                      				Tel: 219445921<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LOPES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA REPUBLICA,72 <br>
+	                      				2670 - 469 LOURES <br>
+	                      				Tel: 219822434<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA NOS 4,LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO PROGRESSO, Nº 44, 44 A-C <br>
+	                      				2690 - 180 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219597184<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TIVA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.IGREJA,LT-A-C (C.C.S.JOAO,LJ- 25) <br>
+	                      				2695 - 708 SÃO JOÃO DA TALHA <br>
+	                      				Tel: 219551232<br>
+	                      				Fax: 219551232
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA O PATINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GONÇALO BRAGA,8-A <br>
+	                      				1885 - 038 MOSCAVIDE <br>
+	                      				Tel: 219445295<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA DIDU
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DO SOL NASCENTE, 11, A/C <br>
+	                      				2660 - 349 SANTO ANTÓNIO CAVALEIROS <br>
+	                      				Tel: 219884332<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFEZINHO COM LEITE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LAUREANO OLIVEIRA,29 <br>
+	                      				1885 - 052 MOSCAVIDE <br>
+	                      				Tel: 219431362<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PICAR O PONTO PAPELARIA, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ROT. NUNO R. SANTOS, 2, C.C.PORTELA LJ13 1ºP <br>
+	                      				2685 - 223 PORTELA LRS <br>
+	                      				Tel: 219433233<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PIRES,PARREIRA &amp; ROCHA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AZINHAGA DOS FETAIS,2-3 * CAMARATE <br>
+	                      				2680 - 177 CAMARATE <br>
+	                      				Tel: 219473043<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE OS CINCO
+	                    			</span> 
+	                    			<span class="text">
+	                    				HORTA DOS BACELOS-APEADEIRO STA.IRIA DE AZOIA <br>
+	                      				2690 - 390 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219564826<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RAVIN TULCIDAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MAESTRO LOPES GRAÇA, 20-A <br>
+	                      				2685 - 346 PRIOR VELHO <br>
+	                      				Tel: 211976430<br>
+	                      				Fax: 211976430
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										REGO &amp; MOREIRA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALMADA NEGREIROS,10-A <br>
+	                      				2680 - 477 CAMARATE <br>
+	                      				Tel: 219478260<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA TO ZE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.AFONSO ALBUQUERQUE,64-A <br>
+	                      				2695 - 687 SÃO JOÃO DA TALHA <br>
+	                      				Tel: 219553192<br>
+	                      				Fax: 219553192
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE COTRIM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PRINCIPAL,LT-131 (BAIRRO FRATERNIDADE) <br>
+	                      				2695 - 615 SÃO JOÃO DA TALHA <br>
+	                      				Tel: 219554537<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RUI MANUEL MATOS, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.PEDRO JOSÉ GOMES JUNIOR,4 <br>
+	                      				2685 - 090 SACAVÉM <br>
+	                      				Tel: 219420032<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CERVEJARIA OS PIRIQUITOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.REPUBLICA,59-B <br>
+	                      				2670 - 473 LOURES <br>
+	                      				Tel: 219830448<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE OUREENSE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MOCAMBIQUE <br>
+	                      				2685 - 356 PRIOR VELHO <br>
+	                      				Tel: 219419531<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA BELTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ILHA DO PORTO SANTO,10-A <br>
+	                      				2670 - 443 LOURES <br>
+	                      				Tel: 219833120<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CLIP
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANSELMO BRAAMCAMP FREIRE,16 LOJA <br>
+	                      				2670 - 355 LOURES <br>
+	                      				Tel: 219832209<br>
+	                      				Fax: 219832209
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CENTRAL DA BOBADELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AMILCAR CABRAL,38 <br>
+	                      				2695 - 018 BOBADELA LRS <br>
+	                      				Tel: 219550036<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TERRAÇOS D'HORUS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.BERNARDINO MACHADO,8-A <br>
+	                      				2685 - 164 SACAVÉM <br>
+	                      				Tel: 212502645<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VIRGÍLIO PORTO &amp; FILHOS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DE ANGOLA, 12 <br>
+	                      				2690 - 595 SANTA IRIA DE AZOIA <br>
+	                      				Tel: 219591384<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA ADRODOCE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DA IGREJA,4-A <br>
+	                      				2670 - 709 FANHÕES <br>
+	                      				Tel: 219748280<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE O ESCONDIDINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.S.FRANCISCO XAVIER,21-21A *S.SEB.GUERREIROS <br>
+	                      				2670 - 519 LOURES <br>
+	                      				Tel: 219835883<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CLIP
+	                    			</span> 
+	                    			<span class="text">
+	                    				QTA DAS FARINHEIRAS, PINGO DOCE,LJ. 4 <br>
+	                      				2670 - 364 LOURES <br>
+	                      				Tel: 219821272<br>
+	                      				Fax: 219821272
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA NOVAS LUZES
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAV.DA JUVENTUDE, 4-E <br>
+	                      				2695 - 051 BOBADELA LRS <br>
+	                      				Tel: 210881949<br>
+	                      				Fax: 210881928
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

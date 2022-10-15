@@ -1,0 +1,665 @@
+VILA FRANCA DE XIRA
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										SEREIA DE S. JOÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. S.SEBASTIÃO, 3, LJ.1*QTA. CRUZ DE PAU <br>
+	                      				2600 - 855 SÃO JOÃO DOS MONTES <br>
+	                      				Tel: 219501441<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PASTELARIA PAPAS &amp; BOLOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				URB.TERRAS COMPRIDAS,LT-22 LJ * QUINTANILHO <br>
+	                      				2625 - 601 VIALONGA <br>
+	                      				Tel: 219525321<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PAPELARIA TABACARIA JP&amp;M
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ALBERTO ÂNGELO DA SILVA, 11 <br>
+	                      				2600 - 686 CASTANHEIRA DO RIBATEJO <br>
+	                      				Tel: 263099201<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE ROCHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MIGUEL BOMBARDA, 304-306 <br>
+	                      				2600 - 193 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263272379<br>
+	                      				Fax: 263272379
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										REPSOL - GADO BRAVO
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 10, KM 115,8 * GADO BRAVO <br>
+	                      				2600 - 199 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263273325<br>
+	                      				Fax: 263209160
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFÉ O REPUXO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DA FONTE,4 (URB.TORRE DO RELOGIO) <br>
+	                      				2615 - 704 SOBRALINHO <br>
+	                      				Tel: 219575161<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										ATALHO DO FUTURO UNIPESSOAL LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA LIBERDADE,22 <br>
+	                      				2625 - 432 FORTE DA CASA <br>
+	                      				Tel: 219594457<br>
+	                      				Fax: 219594457
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFÉ PONTO CHIC
+	                    			</span> 
+	                    			<span class="text">
+	                    				PCT. CARVALHAIS, 3 *  B. CHABITAL <br>
+	                      				2600 - 776 SÃO JOÃO DOS MONTES <br>
+	                      				Tel: 219503918<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.10, KM 129,6, GAL C. CONTINENTE ALVERCA <br>
+	                      				2615 - 140 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219937446<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BECO D'AROMAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DO VALADOR, 2, LOJA, BOM SUCESSO <br>
+	                      				2615 - 200 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 218015526<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA SERRAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CASAL NOVO-URB.TÁGIDES PARK-BL A LJ1-P.DOCE <br>
+	                      				2625 - 239 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BRIBRAC
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE ARCENA - C.C. BOM SUCESSO, LJ.1 <br>
+	                      				2615 - 289 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219575926<br>
+	                      				Fax: 219575926
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA 7 DE MARCO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.7 DE MARCO,30 <br>
+	                      				2600 - 513 ALHANDRA <br>
+	                      				Tel: 219512690<br>
+	                      				Fax: 219512690
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE JONAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.10, URB.SOLAR MARINHAS, BL.1, LJ.1,P.DOCE <br>
+	                      				2625 - 266 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219564083<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COMPASSO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 10, RETAIL PARK, PINGO DOCE (QUIOSQUE) <br>
+	                      				2615 - 129 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219575053<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CL PAPER
+	                    			</span> 
+	                    			<span class="text">
+	                    				LARGO 25 DE ABRIL, 2 LJ.1 <br>
+	                      				2615 - 680 SOBRALINHO <br>
+	                      				Tel: 219500125<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ DAVID
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.25 DE ABRIL, 10 * GRANJA <br>
+	                      				2625 - 607 VIALONGA <br>
+	                      				Tel: 219747541<br>
+	                      				Fax: 219747541
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DELÍCIA DO MORGADO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JOSÉ ANTÓNIO VERÍSSIMO SILVA, 1, B/C <br>
+	                      				2625 - 705 VIALONGA <br>
+	                      				Tel: 219525965<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ESBOÇACATITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GIL VICENTE,20-B <br>
+	                      				2600 - 048 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263282120<br>
+	                      				Fax: 263282120
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EUREKA
+	                    			</span> 
+	                    			<span class="text">
+	                    				GALERIA COMERCIAL AUCHAN ALVERCA, LOJA 11 <br>
+	                      				2615 - 170 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219574005<br>
+	                      				Fax: 219574005
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O FONTÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. JÚLIA PALHA, 4 <br>
+	                      				2600 - 647 CASTANHEIRA DO RIBATEJO <br>
+	                      				Tel: 263047550<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOAO CHAMBINO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.JOSE E.VIEIRA,26 * ARCENA PEQUENA <br>
+	                      				2615 - 267 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219583547<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA VICTOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SERPA PINTO,98-A <br>
+	                      				2600 - 262 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263272895<br>
+	                      				Fax: 214082193
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PALHA BLANCO,102 <br>
+	                      				2600 - 667 CASTANHEIRA DO RIBATEJO <br>
+	                      				Tel: 263290543<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JULIA MARIA BOTO GAVANCHA OLIVEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.LIBERDADE (QUIOSQUE) * Bº BOLONHA <br>
+	                      				2625 - 022 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219565597<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE PARAISO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE SOUSA NAZARETH,23 R/C <br>
+	                      				2615 - 109 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 215984661<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SE7E.PT
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. CAPITÃO JOÃO ALMEIDA MELEÇAS,75-77 <br>
+	                      				2615 - 099 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219574026<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LOJA DA CIDADE-TABACARIA, PAP.E PASTELARIA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DUQUE DA TERCEIRA,5 R/C <br>
+	                      				2600 - 430 ALHANDRA <br>
+	                      				Tel: 219500359<br>
+	                      				Fax: 219500359
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE JARDIM
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.REPUBLICA,13 <br>
+	                      				2625 - 685 VIALONGA <br>
+	                      				Tel: 219525229<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BOA HORA
+	                    			</span> 
+	                    			<span class="text">
+	                    				POMAR RIBEIRO BAIXO, INTERMARCHE, LJ 1*POVOS <br>
+	                      				2600 - 214 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263288354<br>
+	                      				Fax: 263288354
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA SILVA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROFESSOR EGAS MONIZ,145 <br>
+	                      				2625 - 658 VIALONGA <br>
+	                      				Tel: 219520808<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIA FUMACA
+	                    			</span> 
+	                    			<span class="text">
+	                    				URB.SERRA NOVA (SHOP.C.SERRA NOVA,LJ-31) <br>
+	                      				2625 - 218 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219561414<br>
+	                      				Fax: 219568281
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE RAMPA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.BATISTA PEREIRA,4 LJ-DTA <br>
+	                      				2625 - 398 FORTE DA CASA <br>
+	                      				Tel: 218210154<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA COLUMBIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.1 MAIO,21 A* CABO DE VIALONGA <br>
+	                      				2625 - 588 VIALONGA <br>
+	                      				Tel: 219523915<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TURMA DA MONICA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MOSTEIRO, 4 * COTOVIOS <br>
+	                      				2600 - 860 SÃO JOÃO DOS MONTES <br>
+	                      				Tel: 219512155<br>
+	                      				Fax: 219512155
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PINHEIRINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				CASAL DA SERRA, LT - 53 <br>
+	                      				2625 - 082 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219567290<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ONDINA &amp; CORREIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. INFANTE D. PEDRO, 2 <br>
+	                      				2615 - 149 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219580824<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA 13 TRADICIONAL, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 1, GAL.COM.HOSP.VILA FRANCA XIRA, LJ.4 <br>
+	                      				2600 - 009 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263658431<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O CANTINHO DO ANTÓNIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.AFONSO ALBUQUERQUE,10-10A <br>
+	                      				2600 - 093 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263272541<br>
+	                      				Fax: 263272541
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA BONITO HORIZONTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.SOEIRO,13 <br>
+	                      				2600 - 515 ALHANDRA <br>
+	                      				Tel: 219500453<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA FLOR DO ZEZERE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO TRABALHADOR,2 LJ-4 <br>
+	                      				2615 - 213 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219573227<br>
+	                      				Fax: 219573227
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA, CONFEITARIA MALVAROSA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MAGUE,2-B,R/C LJ. 1 E 2 <br>
+	                      				2615 - 043 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219577384<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O FORNO NOVO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R ALMIRANTE CANDIDO DOS REIS,35-B <br>
+	                      				2615 - 055 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219584280<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										A GINGINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DA PRAIA, 6 <br>
+	                      				2600 - 223 VILA FRANCA DE XIRA <br>
+	                      				Tel: 263275247<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PETALAS &amp; VÍRGULAS - PAPELARIA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE ARRUDA-VARZEA BREJO,44-A <br>
+	                      				2615 - 042 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219580923<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FONTE DAS TRES BICAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PADRE AMERICO,13 LJ <br>
+	                      				2625 - 392 FORTE DA CASA <br>
+	                      				Tel: 219592548<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RENDEZ-VOUS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.28 DE SETEMBRO,38 <br>
+	                      				2625 - 702 VIALONGA <br>
+	                      				Tel: 219523594<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA JOIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.1 DE MAIO,56 LJ. <br>
+	                      				2625 - 587 VIALONGA <br>
+	                      				Tel: 219525299<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RISCAS E BORBOLETAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTÓNIO FRANÇA BORGES,18-A <br>
+	                      				2625 - 187 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219538013<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RIVOLI
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTACAO DA C.P.DA POVOA DE STA.IRIA <br>
+	                      				2625 - 108 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219598133<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SNACK BAR PRISCILA LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.PRINCIPAL <br>
+	                      				2600 - 730 CASTANHEIRA DO RIBATEJO <br>
+	                      				Tel: 263852021<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SOCIEDADE FILARMONICA RECREIO ALVERQUENSE
+	                    			</span> 
+	                    			<span class="text">
+	                    				PARQUE 25 DE ABRIL (QUIOSQUE) <br>
+	                      				2615 - 080 ALVERCA DO RIBATEJO <br>
+	                      				Tel: 219577815<br>
+	                      				Fax: 219582510
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SORTE DA QUINTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. D. VICENTE AFONSO COSTA (QUIOSQUE) <br>
+	                      				2625 - 167 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219566045<br>
+	                      				Fax: 219566045
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SONHO DE ARTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DA REPÚBLICA, 72 <br>
+	                      				2625 - 454 FORTE DA CASA <br>
+	                      				Tel: 218233664<br>
+	                      				Fax: 218233664
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TRIÂNGULO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. ANTERO DE QUENTAL, 5, LJ. 5 - C <br>
+	                      				2625 - 221 PÓVOA DE SANTA IRIA <br>
+	                      				Tel: 219595151<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

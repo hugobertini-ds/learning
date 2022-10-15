@@ -1,0 +1,78 @@
+CADAVAL
+
+<ul class="salePointSearch3">
+
+	                    		<li> 
+	                    			<span class="title">
+										BAU DA FORTUNA
+	                    			</span> 
+	                    			<span class="text">
+	                    				URB.MARTINHO (ECOMARCHE CADAVAL LJ.3) <br>
+	                      				2550 - 170 CADAVAL <br>
+	                      				Tel: 262691025<br>
+	                      				Fax: 262691025
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										CAFE PEIXOTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CRUZEIRO,3 <br>
+	                      				2550 - 362 LAMAS CDV <br>
+	                      				Tel: 262696683<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										LUGAR DO PÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.NUNO ALVARES PEREIRA <br>
+	                      				2550 - 559 VERMELHA <br>
+	                      				Tel: 262691633<br>
+	                      				Fax: 262696411
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										MARIA ADELAIDE LOPES FERREIRA ROMAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JÚLIO VICENTE, 1 <br>
+	                      				2550 - 429 PAINHO <br>
+	                      				Tel: 262744160<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										ROSA &amp; ROSA, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. 13 DE JANEIRO, 1 R/C <br>
+	                      				2550 - 121 CADAVAL <br>
+	                      				Tel: 262098909<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										WILLIAM GERMANO RODRIGUES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DE ALCÂNTARA, 21 <br>
+	                      				2550 - 069 VILAR CDV <br>
+	                      				Tel: 262771116<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>
+                        

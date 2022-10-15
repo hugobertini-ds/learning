@@ -1,0 +1,484 @@
+TORRES VEDRAS
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										DROGARIA PAPELARIA GOMES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DOS MOINHOS,1 * COVA DA MOURA <br>
+	                      				2565 - 839 VENTOSA TVD <br>
+	                      				Tel: 261858060<br>
+	                      				Fax: 261858060
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										ALVOROÇO MATINAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ROGERIO FIGUEIROA REGO,139 <br>
+	                      				2565 - 814 TURCIFAL <br>
+	                      				Tel: 261951803<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFETARIA TRAQUINA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R .DO COMÉRCIO, 2 <br>
+	                      				2565 - 221 DOIS PORTOS <br>
+	                      				Tel: 261941222<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA MIRA SERRA 1
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTÓNIO BATALHA REIS, 3-B <br>
+	                      				2560 - 308 TORRES VEDRAS <br>
+	                      				Tel: 261322804<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA MIRA SERRA 3
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANTÓNINO GOMES, INTERMARCHE SILVEIRA, LJ.C <br>
+	                      				2560 - 531 SILVEIRA <br>
+	                      				Tel: 261098963<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA MIRA SERRA 2
+	                    			</span> 
+	                    			<span class="text">
+	                    				PCT.PROF.JOSE CARV. MESQUITA CELT19 R/C- P.DO <br>
+	                      				2560 - 299 TORRES VEDRAS <br>
+	                      				Tel: 261098961<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA MIRASERRA 5
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DR.JOSÉ BASTOS, 9-B <br>
+	                      				2560 - 332 TORRES VEDRAS <br>
+	                      				Tel: 261098963<br>
+	                      				Fax: 261325492
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE UNIDOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.LUIS DE CAMOES,2 <br>
+	                      				2560 - 138 PONTE DO ROL <br>
+	                      				Tel: 261325256<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARLOS ANTÓNIO DOS SANTOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS DE CAMOES,12 * PAUL <br>
+	                      				2560 - 232 TORRES VEDRAS <br>
+	                      				Tel: 261325130<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DO POVO DO MAXIAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MAJOR DR. AURÉLIO RICARDO BELO, 16-A <br>
+	                      				2565 - 480 MAXIAL <br>
+	                      				Tel: 261911845<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DOM CAFE
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 247, LJ.8 <br>
+	                      				2560 - 404 SILVEIRA <br>
+	                      				Tel: 261145699<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FLOR DE PAPEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				INTERMARCHE, LJ.3,  VALE DA MURTA <br>
+	                      				2560 - 044 A DOS CUNHADOS <br>
+	                      				Tel: 261982810<br>
+	                      				Fax: 261982810
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O MANETA
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.247,36 * ESCARAVILHEIRA <br>
+	                      				2560 - 194 SÃO PEDRO DA CADEIRA <br>
+	                      				Tel: 261403696<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SABI
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO COMERCIO,35 <br>
+	                      				2560 - 046 A DOS CUNHADOS <br>
+	                      				Tel: 261933211<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA HAVANEZA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.DA REPUBLICA,11 <br>
+	                      				2560 - 288 TORRES VEDRAS <br>
+	                      				Tel: 261314004<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ CRISTOVAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.9, 7 <br>
+	                      				2565 - 141 CARVOEIRA TVD <br>
+	                      				Tel: 261743201<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOSE MANUEL VICENTE LUCAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOAO AUGUSTO M.SILVA,15 R/C <br>
+	                      				2565 - 321 FREIRIA <br>
+	                      				Tel: 261961859<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE RODRIGUES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA LIBERDADE,16 * VARATOJO <br>
+	                      				2560 - 237 TORRES VEDRAS <br>
+	                      				Tel: 261312075<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA MILAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA SANTOS BERNARDES, 28 <br>
+	                      				2560 - 362 TORRES VEDRAS <br>
+	                      				Tel: 261314614<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA NORTENHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. GEN. HUMBERTO DELGADO, 14-A <br>
+	                      				2560 - 272 TORRES VEDRAS <br>
+	                      				Tel: 261322199<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										URBANAS TABACARIAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				ARENA SHOPPING LJ. 2003 * CASAL AMEAIS CIMA <br>
+	                      				2560 - 256 TORRES VEDRAS <br>
+	                      				Tel: 261323240<br>
+	                      				Fax: 261323240
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIA DA CONCEICAO FERREIRA MARQUES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOAQUIM BELCHIOR,18 <br>
+	                      				2560 - 086 MACEIRA TVD <br>
+	                      				Tel: 261984741<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ ATLÂNTICO
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 247, 23  * BOAVISTA <br>
+	                      				2560 - 426 SILVEIRA <br>
+	                      				Tel: 261937425<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE BRASILIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.25 DE ABRIL,57 <br>
+	                      				2560 - 048 A DOS CUNHADOS <br>
+	                      				Tel: 261981324<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIA LUCILIA COSTA EUSTAQUIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LUGAR DA CONQUINHA - C.COM.MODELO LJ.3 <br>
+	                      				2560 - 271 TORRES VEDRAS <br>
+	                      				Tel: 261323791<br>
+	                      				Fax: 261323791
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ROMANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE P.LOPES(TAB.ROMANA) <br>
+	                      				2560 - 498 SILVEIRA <br>
+	                      				Tel: 261937422<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE MORAIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DA IGREJA, 4 <br>
+	                      				2560 - 525 SILVEIRA <br>
+	                      				Tel: 261937665<br>
+	                      				Fax: 261937665
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TOTOTREZE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. S. PEDRO, 23 A <br>
+	                      				2560 - 633 TORRES VEDRAS <br>
+	                      				Tel: 261323978<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA UNIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.5 DE OUTUBRO, 25-25-A <br>
+	                      				2560 - 270 TORRES VEDRAS <br>
+	                      				Tel: 261314186<br>
+	                      				Fax: 261314587
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA UNIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANA MARIA BASTOS,4-A-B <br>
+	                      				2560 - 270 TORRES VEDRAS <br>
+	                      				Tel: 261314186<br>
+	                      				Fax: 261314186
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA UNIAO 2
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANTONIO LEAL D'ASCENCAO,LT-6 <br>
+	                      				2560 - 309 TORRES VEDRAS <br>
+	                      				Tel: 261314186<br>
+	                      				Fax: 261314587
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA UNIÃO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.HENRIQUES NOGUEIRA,35 R/C DT. <br>
+	                      				2560 - 340 TORRES VEDRAS <br>
+	                      				Tel: 261314186<br>
+	                      				Fax: 261314587
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA UNIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.TEN.COR. JOAO LUIS MOURA - M.MUNICIPAL LJ.25 <br>
+	                      				2560 - 273 TORRES VEDRAS <br>
+	                      				Tel: 261314186<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CHARLOT
+	                    			</span> 
+	                    			<span class="text">
+	                    				LARGO DO MERCADO <br>
+	                      				2560 - 004 A DOS CUNHADOS <br>
+	                      				Tel: 261985239<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ MODERNO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. PRINCIPAL, 7 R/C, ASSENTA <br>
+	                      				2560 - 191 SÃO PEDRO DA CADEIRA <br>
+	                      				Tel: 261859598<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DO DESIGN
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. FRANCISCO ANTUNES,4 <br>
+	                      				2565 - 065 CAMPELOS <br>
+	                      				Tel: 261437025<br>
+	                      				Fax: 261437874
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										1000 DETALHES
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. PADRE MANUEL ANTUNES, LJ.41-A <br>
+	                      				2565 - 840 VENTOSA TVD <br>
+	                      				Tel: 261952437<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SUPERMERCADO ROSSIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LARGO 1º DE MAIO, Nº8 <br>
+	                      				2565 - 647 RAMALHAL <br>
+	                      				Tel: 261911444<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TOCA DO FURÃO - TABACARIA PAPELARIA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. LEONEL TRINDADE, Nº17 - A <br>
+	                      				2560 - 612 TORRES VEDRAS <br>
+	                      				Tel: 261313697<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA O TREVO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PQ.REG EXPOSIÇOES,FR.B, G.C.TERM.RODOVIÁRIO <br>
+	                      				2560 - 261 TORRES VEDRAS <br>
+	                      				Tel: 261317109<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

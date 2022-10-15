@@ -1,0 +1,725 @@
+ODIVELAS
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A MINHOTA DA PÓVOA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ALMIRANTE GAGO COUTINHO, 33-B <br>
+	                      				2620 - 145 PÓVOA DE SANTO ADRIÃO <br>
+	                      				Tel: 219377354<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										AGUIAR &amp; OLIVEIRA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MAJOR CALDAS XAVIER,21-B <br>
+	                      				2675 - 312 ODIVELAS <br>
+	                      				Tel: 219311473<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										SANTA CRUZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CAPITÃO SALGUEIRO MAIA, 8 LJ.A/B <br>
+	                      				1675 - 173 PONTINHA <br>
+	                      				Tel: 214782483<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA DOS CARVALHOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.RICARDO REIS,3(C.C.APOLO 26 LJ.4)*B.CODIVEL <br>
+	                      				2675 - 239 ODIVELAS <br>
+	                      				Tel: 219373425<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										RESTAURANTE CORACAO DA QUINTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.TOMAS DA ANUNCIACAO, 6 <br>
+	                      				2675 - 454 ODIVELAS <br>
+	                      				Tel: 219328233<br>
+	                      				Fax: 219328233
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ACACIAS LT.1 ZONA 6(CAFETARIA -MC- ARROJA) <br>
+	                      				2675 - 689 ODIVELAS <br>
+	                      				Tel: 219349665<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										TABACARIA PAMINU
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.CAMARA PESTANA,1 <br>
+	                      				2675 - 307 ODIVELAS <br>
+	                      				Tel: 219322641<br>
+	                      				Fax: 219344021
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										WOOGIE BOOGIE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ESPIRITO SANTO,20-A (APT-207) <br>
+	                      				2675 - 346 ODIVELAS <br>
+	                      				Tel: 219311398<br>
+	                      				Fax: 219318059
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE FAVORITA UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.VIEIRA CALDAS,18 <br>
+	                      				1685 - 605 CANEÇAS <br>
+	                      				Tel: 219802049<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CODIVIDEO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DA LIBERDADE,9-A * JARDIM DA RADIAL <br>
+	                      				2620 - 317 RAMADA <br>
+	                      				Tel: 219341866<br>
+	                      				Fax: 219341867
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA MOINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE A.CARVALHO,7 * QTA.DAS PRETAS <br>
+	                      				1685 - 907 FAMÕES <br>
+	                      				Tel: 214001767<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COTACO TABACARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAC.REPUBLICA,12 <br>
+	                      				2620 - 162 PÓVOA DE SANTO ADRIÃO <br>
+	                      				Tel: 219376133<br>
+	                      				Fax: 219376133
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA VISEENSE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PADRE ANTÓNIO VIEIRA,34-A <br>
+	                      				2620 - 085 PÓVOA DE SANTO ADRIÃO <br>
+	                      				Tel: 219370587<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MOINHO DE VENTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CLEMENTINA CARNEIRO MOURA,LT.S 3 LJ.ESQ. <br>
+	                      				2675 - 547 ODIVELAS <br>
+	                      				Tel: 219333148<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ENREDOFAVORITO - SUPERMERCADOS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ROSAS, LT-4 LJ-DT. (B. VALE DO FORNO) <br>
+	                      				2675 - 242 ODIVELAS <br>
+	                      				Tel: 219342490<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ESCRITA FINA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. D. DINIS, 68 - C.C. OCEANO, LJ.43 <br>
+	                      				2675 - 328 ODIVELAS <br>
+	                      				Tel: 219328696<br>
+	                      				Fax: 219800680
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CERVEJARIA BRASILIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ANGOLA,10-A <br>
+	                      				2620 - 035 OLIVAL BASTO <br>
+	                      				Tel: 219370958<br>
+	                      				Fax: 219370958
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE SKIPER
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAV.BULHAO  PATO,2 A-B * POMBAIS <br>
+	                      				2675 - 484 ODIVELAS <br>
+	                      				Tel: 216084165<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GONÇALO DUARTE FERREIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D. AFONSO HENRIQUES (QUIOSQUE) <br>
+	                      				1675 - 203 PONTINHA <br>
+	                      				Tel: 214785670<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FAVORITA II
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AUGUSTO ALEXANDRE JORGE LT.7 LJ.2 <br>
+	                      				2675 - 220 ODIVELAS <br>
+	                      				Tel: 219335274<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SKIDOO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALFREDO ROQUE GAMEIRO,2 R/C DTO <br>
+	                      				2675 - 277 ODIVELAS <br>
+	                      				Tel: 219329029<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CENTRAL DA PONTINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DE STO.ELOY, 11-B <br>
+	                      				1675 - 176 PONTINHA <br>
+	                      				Tel: 214785173<br>
+	                      				Fax: 214785173
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA BOM DIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.PROF.DR.AUGUSTO ABREU LOPES, 2-B <br>
+	                      				2675 - 296 ODIVELAS <br>
+	                      				Tel: 219323272<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										INTERFAMÕES - SUPERMERCADOS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				URB.QTA.SEGULIM LT.AE 01 LJ.6 INTERMARCHÉ <br>
+	                      				1685 - 891 FAMÕES <br>
+	                      				Tel: 219349580<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA MOBILSTORE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PULIDO VALENTE, 16 LJ.1 <br>
+	                      				2675 - 672 ODIVELAS <br>
+	                      				Tel: 219325454<br>
+	                      				Fax: 219325454
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										J.P. COMUNICAÇÕES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DA REPÚBLICA, 126-A <br>
+	                      				1685 - 596 CANEÇAS <br>
+	                      				Tel: 219814853<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CAETANO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.JOAO III,LT-3 * SERRA DA LUZ <br>
+	                      				1675 - 224 PONTINHA <br>
+	                      				Tel: 214794301<br>
+	                      				Fax: 214792160
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JUSTINO &amp; FILHOS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JORGE SENA (C.COM.HORIZONTE,LJ-22) <br>
+	                      				2675 - 392 ODIVELAS <br>
+	                      				Tel: 219333182<br>
+	                      				Fax: 219333182
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LENANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.J.SANTOS (C.C.ARROJA LJ-2) * ARROJA <br>
+	                      				2675 - 558 ODIVELAS <br>
+	                      				Tel: 219328914<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CERVEJARIA MANEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.MANUEL ARRIAGA,9 <br>
+	                      				1685 - 585 CANEÇAS <br>
+	                      				Tel: 219800432<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DAILY PLANET ODIVELAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				STRADA SHOPPING E FASHION OUTLET, LJ. 1.138-A <br>
+	                      				2675 - 421 ODIVELAS <br>
+	                      				Tel: 219332782<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ESTUDANTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 DE ABRIL,18-D <br>
+	                      				1675 - 182 PONTINHA <br>
+	                      				Tel: 214781246<br>
+	                      				Fax: 214781246
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TOUCHÉ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.COMAND.SACADURA CABRAL, 2 LJ.ESQ. <br>
+	                      				2620 - 287 RAMADA <br>
+	                      				Tel: 219331890<br>
+	                      				Fax: 219331890
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA MADRILENA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PEDRO ALVARES CABRAL,13 * SR.ROUBADO <br>
+	                      				2675 - 533 ODIVELAS <br>
+	                      				Tel: 219312527<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MONSERRATE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GUILHERME GOMES FERNANDES,31-B <br>
+	                      				2675 - 371 ODIVELAS <br>
+	                      				Tel: 219337214<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										AQUARIOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOÃO VILLARET,20-A * BONS DIAS <br>
+	                      				2620 - 280 RAMADA <br>
+	                      				Tel: 210152199<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA VALE PEQUENO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LIBERDADE * VALE PEQUENO <br>
+	                      				1675 - 293 PONTINHA <br>
+	                      				Tel: 214783088<br>
+	                      				Fax: 214783088
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA O ESCRITORIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.BOMBEIROS VOLUNTARIOS,19-C <br>
+	                      				1675 - 108 PONTINHA <br>
+	                      				Tel: 214796587<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O FORNO DO CRUZEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRACETA TIAGO AUGUSTO ALMEIDA, 12 - A <br>
+	                      				2675 - 677 ODIVELAS <br>
+	                      				Tel: 219340582<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										OASIS - COMBUSTIVEIS E LUBRIFICANTES, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MAJOR JOÃO LUIS MOURA, POSTO BP <br>
+	                      				1685 - 650 FAMÕES <br>
+	                      				Tel: 214785580<br>
+	                      				Fax: 214785590
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										OASIS - COMBUSTIVEIS E LUBRIFICANTES, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GEN.ALVES ROÇADAS,ROTUNDA EN 8,POSTO BP <br>
+	                      				2675 - 286 ODIVELAS <br>
+	                      				Tel: 219385865<br>
+	                      				Fax: 219385865
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TRIO DA COR
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.AMALIA RODRIGUES,10 LJ.3*JARDIM AMOREIRA <br>
+	                      				2620 - 520 RAMADA <br>
+	                      				Tel: 219313226<br>
+	                      				Fax: 219313226
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ACORES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ACORES,26-A <br>
+	                      				2620 - 032 OLIVAL BASTO <br>
+	                      				Tel: 219384404<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA D.DINIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALEXANDRE HERCULANO,39-A <br>
+	                      				2675 - 276 ODIVELAS <br>
+	                      				Tel: 219311555<br>
+	                      				Fax: 219311555
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA LA GRAN VIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CENTRO COMUNITÁRIO PAROQUIAL <br>
+	                      				1685 - 899 FAMÕES <br>
+	                      				Tel: 218286237<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE QUINTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA PAIA,32-A * PATAMEIRAS <br>
+	                      				2675 - 496 ODIVELAS <br>
+	                      				Tel: 219325918<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESSE LINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTR.DA PAIÃ, C.COM. ODIVELAS PARQUE, LJ-2069 <br>
+	                      				2675 - 626 ODIVELAS <br>
+	                      				Tel: 219344119<br>
+	                      				Fax: 219344119
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RAMESHCUMAR PARSOTAMO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CIDADE DA HORTA,20 - A <br>
+	                      				1675 - 110 PONTINHA <br>
+	                      				Tel: 218096516<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RPPRESS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JULIO BORBA (GALERIA COMERCIAL PINGO DOCE) <br>
+	                      				2620 - 101 PÓVOA DE SANTO ADRIÃO <br>
+	                      				Tel: 219389695<br>
+	                      				Fax: 219389695
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ROSA &amp; AURORA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALM. INFANTE D. HENRIQUE, Nº 3, LJ.B <br>
+	                      				2675 - 373 ODIVELAS <br>
+	                      				Tel: 219330093<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SANTIAGO PAPELARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. D. DINIS, 86 - B <br>
+	                      				2675 - 329 ODIVELAS <br>
+	                      				Tel: 219310802<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA BUENOS AIRES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALMIRANTE GAGO COUTINHO,68-A <br>
+	                      				2620 - 370 RAMADA <br>
+	                      				Tel: 218274441<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SOLAR DA PERDIGUEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA LIBERDADE,12 (BAIRRO STO.ELOY) <br>
+	                      				1675 - 137 PONTINHA <br>
+	                      				Tel: 214796125<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PITO DO BAIRRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. COMBATENTES DO ULTRAMAR, 6-A <br>
+	                      				2675 - 323 ODIVELAS <br>
+	                      				Tel: 219328358<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA BAIA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.ALEXANDRE BRAGA,3-A <br>
+	                      				2675 - 274 ODIVELAS <br>
+	                      				Tel: 219323613<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA MIURA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DE S.PEDRO,LT-R2 LJ-A <br>
+	                      				1675 - 171 PONTINHA <br>
+	                      				Tel: 214780485<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TERTÚLIA RECORD II
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PULIDO VALENTE,6 LJ.6D URB.COL. DO CRUZEIRO <br>
+	                      				2675 - 672 ODIVELAS <br>
+	                      				Tel: 219315874<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TI SALOIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS CAMOES <br>
+	                      				1685 - 525 CANEÇAS <br>
+	                      				Tel: 219804314<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TRICOLOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CESARIO VERDE,5 * BAIRRO S.JORGE <br>
+	                      				2675 - 320 ODIVELAS <br>
+	                      				Tel: 219814668<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TUTIPAPER - PAPELARIA E TABACARIA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.AMALIA RODRIGUES, 2 LJ.A <br>
+	                      				2675 - 076 ODIVELAS <br>
+	                      				Tel: 219338855<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

@@ -1,0 +1,4134 @@
+LISBOA
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A CAVE
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE BENFICA,401-A <br>
+	                      				1500 - 077 LISBOA <br>
+	                      				Tel: 217785918<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A TABERNA DE CHELAS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.ALVARO ANDRADE,LT-22 LJ-SUL <br>
+	                      				1950 - 304 LISBOA <br>
+	                      				Tel: 218590919<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A-VER-O-JOGO-LOTARIA E PAP.,UNIPESSOAL,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTAÇÃO STA.APOLÓNIA, LJ-5 <br>
+	                      				1100 - 105 LISBOA <br>
+	                      				Tel: 218882553<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										A.MESQUITA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MOUZINHO DE ALBUQUERQUE,17 <br>
+	                      				1170 - 257 LISBOA <br>
+	                      				Tel: 218142845<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										ESTRELA DE OURIQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CAMPO DE OURIQUE,24-D <br>
+	                      				1250 - 061 LISBOA <br>
+	                      				Tel: 213888102<br>
+	                      				Fax: 213888102
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PASTELARIA BRILHANTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GUILHERMINA SUGGIA,14-A <br>
+	                      				1700 - 226 LISBOA <br>
+	                      				Tel: 218489088<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										RESTAURANTE ADAMASTOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE BELEM,83 <br>
+	                      				1300 - 083 LISBOA <br>
+	                      				Tel: 213636116<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PASTELARIA BRAGANCA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.NOVA DO GRILO,17-A <br>
+	                      				1900 - 358 LISBOA <br>
+	                      				Tel: 218688306<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PINA MANIQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALM.D.MARIA II,LT-20 LJ-17 (B.BOAVISTA) <br>
+	                      				1500 - 535 LISBOA <br>
+	                      				Tel: 217647398<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA MENDONCA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.BERNARDINO COSTA,46-48 <br>
+	                      				1200 - 053 LISBOA <br>
+	                      				Tel: 213423964<br>
+	                      				Fax: 213423964
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA AFRODITE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GOMES PEREIRA,41-B <br>
+	                      				1500 - 328 LISBOA <br>
+	                      				Tel: 217154874<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA PACO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.DE LONDRES,5-B <br>
+	                      				1000 - 191 LISBOA <br>
+	                      				Tel: 218481014<br>
+	                      				Fax: 218435088
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ALTAFAMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JUDIARIA, 2 <br>
+	                      				1100 - 296 LISBOA <br>
+	                      				Tel: 218863163<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ARAUJO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DO NORTE, 29-A <br>
+	                      				1200 - 283 LISBOA <br>
+	                      				Tel: 213470959<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITARIA AVIZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DAS OLARIAS,2-4 <br>
+	                      				1100 - 380 LISBOA <br>
+	                      				Tel: 218860471<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ANA MARGARIDA FIGUEIREDO VILHENA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ALEXANDRE HERCULANO (QUIOSQUE  FTE NR. 16) <br>
+	                      				1250 - 011 LISBOA <br>
+	                      				Tel: 213530649<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ANA MARIA OLIVEIRA GUERRA DOS REIS BARBOSA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ANDRADE CORVO, 3-B <br>
+	                      				1050 - 007 LISBOA <br>
+	                      				Tel: 213536615<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ANTIGA LEITARIA DA PAMPULHA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PRESIDENTE ARRIAGA,102 <br>
+	                      				1200 - 774 LISBOA <br>
+	                      				Tel: 213964423<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA S.JORGE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JOAO CRISOSTOMO,18-A <br>
+	                      				1000 - 179 LISBOA <br>
+	                      				Tel: 213556777<br>
+	                      				Fax: 213556777
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA OLIMPICA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MISERICORDIA,73 <br>
+	                      				1200 - 271 LISBOA <br>
+	                      				Tel: 213426668<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BANANEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.ESTEFANIA,48-D <br>
+	                      				1000 - 156 LISBOA <br>
+	                      				Tel: 213142441<br>
+	                      				Fax: 216010791
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA DELICIOSA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE CAMPOLIDE,70-72 <br>
+	                      				1070 - 037 LISBOA <br>
+	                      				Tel: 215809405<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA BAIRRO AZUL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.RESSANO GARCIA,1 <br>
+	                      				1070 - 234 LISBOA <br>
+	                      				Tel: 213871509<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA TEBAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. HELIODORO SALGADO, 2-A <br>
+	                      				1170 - 176 LISBOA <br>
+	                      				Tel: 218147388<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA PRINCESINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE STA.MARTA,53-C <br>
+	                      				1150 - 294 LISBOA <br>
+	                      				Tel: 213555637<br>
+	                      				Fax: 213555637
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CANTINHO DOS CARACOIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. CIDADE DE LOBITO, LT. 284, LJ. ESQ. <br>
+	                      				1800 - 088 LISBOA <br>
+	                      				Tel: 218515955<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA AQUARIUM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. MARQUÊS DA FRONTEIRA, 121-A <br>
+	                      				1070 - 293 LISBOA <br>
+	                      				Tel: 213885418<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PENDULA DO BEATO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO GRILO,30-32 <br>
+	                      				1950 - 145 LISBOA <br>
+	                      				Tel: 218681038<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA BONS RABISCOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALAM.OCEANOS, EDF ECRAN, LT. 3.14.04, LJ. B <br>
+	                      				1990 - 197 LISBOA <br>
+	                      				Tel: 218967229<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CESARIO VERDE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CESARIO VERDE,2-B <br>
+	                      				1170 - 091 LISBOA <br>
+	                      				Tel: 215874833<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										AROMA DE MEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GOMES FREIRE,185 <br>
+	                      				1150 - 178 LISBOA <br>
+	                      				Tel: 213530746<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ARROBA DE PAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JORGE DE SENA, 3-D <br>
+	                      				1750 - 129 LISBOA <br>
+	                      				Tel: 217574701<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ASSOCIAÇÃO PORTUGUESA DE DEFICIENTES
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. DO RATO, 1-B <br>
+	                      				1250 - 185 LISBOA <br>
+	                      				Tel: 213889883<br>
+	                      				Fax: 213871095
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ATLANTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ABRANCHES FERRAO,5-A <br>
+	                      				1600 - 001 LISBOA <br>
+	                      				Tel: 217275727<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ARDINA CAFFÉ
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. D. JOÃO II, GARE ORIENTE,PISO 0, LJ.G-211 <br>
+	                      				1990 - 094 LISBOA <br>
+	                      				Tel: 211351321<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										5 DAVENIDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.IGREJA,5-D <br>
+	                      				1700 - 230 LISBOA <br>
+	                      				Tel: 218490897<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA NOVO ESTILO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ACTRIZ PALMIRA BASTOS, 8, LJ 5 <br>
+	                      				1950 - 004 LISBOA <br>
+	                      				Tel: 218597622<br>
+	                      				Fax: 218597622
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										IN E UTIL
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. DUQUE SALDANHA, 1(ATRIUM SALDANHA, LJ. 70) <br>
+	                      				1050 - 183 LISBOA <br>
+	                      				Tel: 213150175<br>
+	                      				Fax: 214710818
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										IN E ÚTIL
+	                    			</span> 
+	                    			<span class="text">
+	                    				C.COMERCIAL SALDANHA RESIDENCE,LJ1.30 <br>
+	                      				1050 - 250 LISBOA <br>
+	                      				Tel: 213158237<br>
+	                      				Fax: 214710818
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RISCOS E RABISCOS TABACARIA PAPELARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.LIBERDADE, 180,FÓRUM TIVOLI, LJ. 6, PISO 1 <br>
+	                      				1250 - 146 LISBOA <br>
+	                      				Tel: 213562248<br>
+	                      				Fax: 213562248
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RISCOS E RABISCOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				CENTRO LAZER CAMPO PEQUENO LOJA 1.57 <br>
+	                      				1000 - 082 LISBOA <br>
+	                      				Tel: 217962131<br>
+	                      				Fax: 217962131
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA TAGUS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DOS DEFENSORES DE CHAVES, Nº1-A <br>
+	                      				1000 - 109 LISBOA <br>
+	                      				Tel: 213570932<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CHAIMITE
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. PAIVA COUCEIRO,3A-B <br>
+	                      				1170 - 284 LISBOA <br>
+	                      				Tel: 218145355<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BOA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ALMIRANTE REIS,9-C <br>
+	                      				1150 - 007 LISBOA <br>
+	                      				Tel: 218850047<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CAMAFE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.FRANCISCO SALGADO ZENHA LT.1 LJ.F <br>
+	                      				1950 - 444 LISBOA <br>
+	                      				Tel: 213240000<br>
+	                      				Fax: 213225177
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMELO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PRESIDENTE WILSON,1 <br>
+	                      				1000 - 249 LISBOA <br>
+	                      				Tel: 218486197<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.DA FIGUEIRA, 6- 3 ESQ <br>
+	                      				1100 - 240 LISBOA <br>
+	                      				Tel: 213223990<br>
+	                      				Fax: 213428030
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CONDE REDONDO , 93-B <br>
+	                      				1150 - 103 LISBOA <br>
+	                      				Tel: 213544680<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MORAIS SOARES, 101 <br>
+	                      				1900 - 342 LISBOA <br>
+	                      				Tel: 218142180<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BOUTIQUE DOS CAFES
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. NORTE DA ENCARNAÇÃO, M. MUNICIPAL,LJ. 33 <br>
+	                      				1800 - 281 LISBOA <br>
+	                      				Tel: 211993516<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PRIOR DO CRATO, 121-123 <br>
+	                      				1350 - 260 LISBOA <br>
+	                      				Tel: 213960602<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA ASSUNCAO,84-86 <br>
+	                      				1100 - 043 LISBOA <br>
+	                      				Tel: 213465361<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO AMPARO, 2-C <br>
+	                      				1100 - 026 LISBOA <br>
+	                      				Tel: 213223997<br>
+	                      				Fax: 213428030
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAMPIAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.FRANCISCO SA CARNEIRO, 5-A <br>
+	                      				1000 - 159 LISBOA <br>
+	                      				Tel: 218487583<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAPA RT
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA PROFESSOR JOÃO BARREIRA, 27 <br>
+	                      				1600 - 635 LISBOA <br>
+	                      				Tel: 217577013<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA NOTICIARIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JOAO II (C.C.VASCO DA GAMA,LJ-0.040) <br>
+	                      				1990 - 094 LISBOA <br>
+	                      				Tel: 218951411<br>
+	                      				Fax: 218951411
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARIGRAFIA-CARIMBOS E FLEXOGRAFIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.COZINHA ECONOMICA,30-E-LJ-J <br>
+	                      				1300 - 149 LISBOA <br>
+	                      				Tel: 213628399<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARLOS CALDAS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS DE CAMOES,85 <br>
+	                      				1300 - 355 LISBOA <br>
+	                      				Tel: 211364451<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARLOS MANUEL DOS SANTOS MARQUES
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.INFANTE SANTO,349-B <br>
+	                      				1350 - 181 LISBOA <br>
+	                      				Tel: 213960240<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COROA REAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PADRE AMERICO,9-A <br>
+	                      				1600 - 548 LISBOA <br>
+	                      				Tel: 217169965<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE BENFICA,719-F <br>
+	                      				1500 - 088 LISBOA <br>
+	                      				Tel: 217601226<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. CP CAIS DO SODRE (C. COM. LJ 7) <br>
+	                      				1249 - 070 LISBOA <br>
+	                      				Tel: 213426249<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. S. LÁZARO, 43 A 47 <br>
+	                      				1150 - 329 LISBOA <br>
+	                      				Tel: 212474956<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JOAO CRISOSTOMO,15 <br>
+	                      				1000 - 177 LISBOA <br>
+	                      				Tel: 213569924<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS AUGUSTO PALMEIRIM,5-D <br>
+	                      				1700 - 272 LISBOA <br>
+	                      				Tel: 218492156<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.LUSIADA (C.COM.COLOMBO,LJ-0012) <br>
+	                      				1500 - 392 LISBOA <br>
+	                      				Tel: 217166176<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DO PESSOAL DA SANTA CASA DA MISERICORDIA DE LISBOA
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA DA GLORIA,53 <br>
+	                      				1250 - 112 LISBOA <br>
+	                      				Tel: 213235386<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA PESSOAL HOSPITAL STA.MARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.PROF.EGAS MONIZ (HOSPITAL STA.MARIA ) <br>
+	                      				1649 - 035 LISBOA <br>
+	                      				Tel: 217930095<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA TESTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO ARSENAL,74-78 <br>
+	                      				1100 - 040 LISBOA <br>
+	                      				Tel: 213424828<br>
+	                      				Fax: 213421892
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA TRAVASSOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.D.PEDRO IV,42 <br>
+	                      				1100 - 200 LISBOA <br>
+	                      				Tel: 213421976<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA MARTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DE ROMA,110-A <br>
+	                      				1700 - 353 LISBOA <br>
+	                      				Tel: 217973489<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA JULIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE S.PAULO,111 <br>
+	                      				1200 - 427 LISBOA <br>
+	                      				Tel: 213431268<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA REGALO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CAVALEIRO DE OLIVEIRA,25 <br>
+	                      				1170 - 086 LISBOA <br>
+	                      				Tel: 218149570<br>
+	                      				Fax: 218152229
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CENTRAL DO RATO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DO RATO,10-B-C <br>
+	                      				1250 - 186 LISBOA <br>
+	                      				Tel: 213871203<br>
+	                      				Fax: 218108009
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CELTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.PRAIA DA VITORIA,19-A <br>
+	                      				1000 - 245 LISBOA <br>
+	                      				Tel: 213570826<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RIBEIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PASCOAL DE MELO,13-C <br>
+	                      				1000 - 230 LISBOA <br>
+	                      				Tel: 213146651<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CHARCUTARIA  LEOMAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE ARROIOS,154-A <br>
+	                      				1150 - 056 LISBOA <br>
+	                      				Tel: 213534353<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CHARCUTARIA FLOR DO RESTELO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ILHA DA MADEIRA,48 A-B <br>
+	                      				1400 - 205 LISBOA <br>
+	                      				Tel: 213012348<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA D.DINIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MANUEL TEIXEIRA GOMES LT.103 LJ-A <br>
+	                      				1950 - 189 LISBOA <br>
+	                      				Tel: 218593134<br>
+	                      				Fax: 218593134
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CHIVEVE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ADELAIDE CABETE, 1-A <br>
+	                      				1500 - 023 LISBOA <br>
+	                      				Tel: 217153262<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA APOLO 70
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. JÚLIO DINIS, 10-A (C.C.APOLO 70, LJ. 3) <br>
+	                      				1050 - 131 LISBOA <br>
+	                      				Tel: 217961421<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CIRILO &amp; LOPES,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DAS PEDRALVAS (C.COM.PEDRALVAS,LJ-7) <br>
+	                      				1500 - 487 LISBOA <br>
+	                      				Tel: 217647017<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CLUBE TAP
+	                    			</span> 
+	                    			<span class="text">
+	                    				AEROPORTO DA PORTELA, EDIF. 27 <br>
+	                      				1700 - 008 LISBOA <br>
+	                      				Tel: 218409282<br>
+	                      				Fax: 218416560
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO BP
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DA LUZ (POSTO ABASTECIMENTO BP) <br>
+	                      				1600 - 165 LISBOA <br>
+	                      				Tel: 217169350<br>
+	                      				Fax: 217169258
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO BP
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV DAS DESCOBERTAS - POSTO BP <br>
+	                      				1400 - 092 LISBOA <br>
+	                      				Tel: 213018208<br>
+	                      				Fax: 213030004
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESSE LINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CARMO,2 - C.C.ARMAZENS CHIADO PISO 4 QUIOSQ <br>
+	                      				1200 - 094 LISBOA <br>
+	                      				Tel: 213425142<br>
+	                      				Fax: 213425142
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA BRASILIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DO BRASIL,30-A <br>
+	                      				1700 - 070 LISBOA <br>
+	                      				Tel: 217968112<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAR DA LIGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.PAULO VI, LT. 14-A <br>
+	                      				1950 - 230 LISBOA <br>
+	                      				Tel: 210159603<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CONFEITARIA IMPERIAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ANTONIO AUGUSTO AGUIAR,27-A <br>
+	                      				1050 - 012 LISBOA <br>
+	                      				Tel: 213570613<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE TIVOLI
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. PRIOR DO CRATO, 108-110 <br>
+	                      				1350 - 263 LISBOA <br>
+	                      				Tel: 211954983<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE TIVOLI
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DA PRATA, 171 <br>
+	                      				1100 - 416 LISBOA <br>
+	                      				Tel: 213420591<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE TIVOLI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ALMIRANTE REIS,136-B <br>
+	                      				1150 - 023 LISBOA <br>
+	                      				Tel: 211954983<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFETARIA SEMENTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FILIPE DA MATA,33-A <br>
+	                      				1600 - 068 LISBOA <br>
+	                      				Tel: 217970541<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										COUCEIRO IRMAOS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROFESSOR MIRA FERNANDES,LT-1585,LJ-B <br>
+	                      				1900 - 385 LISBOA <br>
+	                      				Tel: 218409627<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LUSITANO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DO URUGUAI,9-B <br>
+	                      				1500 - 611 LISBOA <br>
+	                      				Tel: 217152027<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE MODESTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.CASAS NOVAS,11 <br>
+	                      				1800 - 053 LISBOA <br>
+	                      				Tel: 218510393<br>
+	                      				Fax: 212471771
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA AIROSA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE SANTOS O VELHO,72 <br>
+	                      				1200 - 813 LISBOA <br>
+	                      				Tel: 213971381<br>
+	                      				Fax: 213971381
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CANTINHO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ARCO DO MARQUES DO ALEGRETE,2-D <br>
+	                      				1100 - 034 LISBOA <br>
+	                      				Tel: 218866884<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA DAIL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO GUARDA JOIAS,32-A <br>
+	                      				1300 - 294 LISBOA <br>
+	                      				Tel: 213647172<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ÚNICA DA TORRE
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DA TORRE, 65-A <br>
+	                      				1750 - 294 LISBOA <br>
+	                      				Tel: 217591543<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA PINGUINS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CASTELO BRANCO SARAIVA,4-A <br>
+	                      				1170 - 082 LISBOA <br>
+	                      				Tel: 218135462<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DESFILAR PALAVRAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				C. COM. NEVADA, ESTR. BENFICA, 731 A, LJ 14 <br>
+	                      				1500 - 089 LISBOA <br>
+	                      				Tel: 217622539<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DOM PIPE
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. BENFICA, 503, FONTE NOVA, LJ. 81 <br>
+	                      				1500 - 083 LISBOA <br>
+	                      				Tel: 217144568<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EL CORTE INGLES
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. ANTONIO AUGUSTO AGUIAR,31 PISO 6 <br>
+	                      				1069 - 413 LISBOA <br>
+	                      				Tel: 213711700<br>
+	                      				Fax: 213822142
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EL CORTE INGLES
+	                    			</span> 
+	                    			<span class="text">
+	                    				AL.DOS OCEANOS,29 LT 1.08 01.N *PARQUE NAÇOES <br>
+	                      				1990 - 209 LISBOA <br>
+	                      				Tel: 218985160<br>
+	                      				Fax: 218985161
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ELEGANTE DE BENFICA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE BENFICA,725-E <br>
+	                      				1500 - 088 LISBOA <br>
+	                      				Tel: 217600620<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CARMO
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALÇADA DO CARMO <br>
+	                      				1200 - 091 LISBOA <br>
+	                      				Tel: 214395052<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA PAPELARIA AS DE ESPADAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MANUEL SILVA LEAL,2 LJ-B <br>
+	                      				1600 - 166 LISBOA <br>
+	                      				Tel: 216041982<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE CONCHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AMORIM,7 <br>
+	                      				1950 - 022 LISBOA <br>
+	                      				Tel: 218681938<br>
+	                      				Fax: 218681938
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ESTRELA DO CÉU
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ACURCIO PEREIRA, 10 LJ-B <br>
+	                      				1800 - 003 LISBOA <br>
+	                      				Tel: 218519382<br>
+	                      				Fax: 218519382
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO DE ABASTECIMENTO BP
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAÇA JOSÉ QUEIRÓS - POSTO ABASTECIMENTO BP <br>
+	                      				1800 - 237 LISBOA <br>
+	                      				Tel: 218531997<br>
+	                      				Fax: 218550006
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										EULALIA &amp; CARDOSO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. 5 DE OUTUBRO,95-C (GAL. COM. PINGO DOCE) <br>
+	                      				1050 - 051 LISBOA <br>
+	                      				Tel: 217931396<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										F.CHABY,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SILVA CARVALHO,54-C <br>
+	                      				1250 - 255 LISBOA <br>
+	                      				Tel: 213888722<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE VIA ROMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DE ROMA (QUIOSQUE ENTRE 14-16) <br>
+	                      				1000 - 265 LISBOA <br>
+	                      				Tel: 218463246<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GARRETT
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS AUGUSTO PALMEIRIM,9 B-C <br>
+	                      				1700 - 273 LISBOA <br>
+	                      				Tel: 218491331<br>
+	                      				Fax: 218491331
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA PLANETA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.POÇO DOS NEGROS, 82-84 <br>
+	                      				1200 - 341 LISBOA <br>
+	                      				Tel: 213974560<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA FIGUEIRINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. PROF. SOUSA CAMARA, 206-A <br>
+	                      				1070 - 219 LISBOA <br>
+	                      				Tel: 213882280<br>
+	                      				Fax: 213882280
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE TIA RITA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.HELENA VAZ DA SILVA,16-C (ALTA DE LISBOA) <br>
+	                      				1750 - 431 LISBOA <br>
+	                      				Tel: 211933032<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FLOR COMERCIAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GOMES FREIRE,54-58 <br>
+	                      				1150 - 179 LISBOA <br>
+	                      				Tel: 213149824<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA RESTELO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DUARTE PACHECO PEREIRA,11-D <br>
+	                      				1400 - 139 LISBOA <br>
+	                      				Tel: 213010987<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.TRINDADE COELHO (QUIOSQUE DA SORTE) <br>
+	                      				1200 - 470 LISBOA <br>
+	                      				Tel: 213465468<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA NINHO DO OURICO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DEFENSORES CHAVES,77 <br>
+	                      				1000 - 114 LISBOA <br>
+	                      				Tel: 215810527<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CAPRI
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE BENFICA,678-B <br>
+	                      				1500 - 110 LISBOA <br>
+	                      				Tel: 217603100<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ARLEKIM
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE BENFICA,271-A <br>
+	                      				1500 - 072 LISBOA <br>
+	                      				Tel: 217266902<br>
+	                      				Fax: 217299902
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GABY
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ANTONIO AUGUSTO AGUIAR,1-A <br>
+	                      				1050 - 010 LISBOA <br>
+	                      				Tel: 213147752<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO REPSOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. GEN. NORTON MATOS, BENFICA/CAMPO GRANDE <br>
+	                      				1500 - 313 LISBOA <br>
+	                      				Tel: 217274422<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										POSTO REPSOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. GEN. CRAVEIRO LOPES,2ª CIRCULAR,SUL/NORTE <br>
+	                      				1700 - 284 LISBOA <br>
+	                      				Tel: 218406471<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GIFTNEWS UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTACAO DO METRO DA ALAMEDA,LJ-12 <br>
+	                      				1000 - 048 LISBOA <br>
+	                      				Tel: 218498988<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA EMR
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAVESSA DO ENVIADO INGLATERRA,1-C <br>
+	                      				1150 - 139 LISBOA <br>
+	                      				Tel: 213554793<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITARIA MADRILENA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DE MADRID,11-C <br>
+	                      				1000 - 194 LISBOA <br>
+	                      				Tel: 218482908<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										GUARDIÃO DO VERÃO - ATIV. HOTELEIRAS, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.NEVES COSTA,31 <br>
+	                      				1600 - 532 LISBOA <br>
+	                      				Tel: 217150116<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										H5 - TABACARIA UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. M.H DELGADO. EST. LARANJ. T. R. SETE RIOS <br>
+	                      				1500 - 423 LISBOA <br>
+	                      				Tel: 217265284<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										HABITOS E COSTUMES
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ENG.D.PACH (AMOREIRAS SHOPCENTER,LJ-5006) <br>
+	                      				1070 - 103 LISBOA <br>
+	                      				Tel: 213873268<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										HAVANEZA BANDEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DA GRACA,99 <br>
+	                      				1170 - 165 LISBOA <br>
+	                      				Tel: 218820670<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.VITÓRIA, 65/67 <br>
+	                      				1100 - 618 LISBOA <br>
+	                      				Tel: 213422347<br>
+	                      				Fax: 213432349
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA RAMOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA ALMADA NEGREIROS LOTE 474-C <br>
+	                      				1800 - 020 LISBOA <br>
+	                      				Tel: 218533833<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										KIOSQUE DO BAIRRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. PROF. FRANCISCO GENTIL, 20 B <br>
+	                      				1600 - 625 LISBOA <br>
+	                      				Tel: 212499501<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										KIOSKE BENFICA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.NORTON MATOS GALERIA COM.ESTADIO DA LUZ <br>
+	                      				1500 - 313 LISBOA <br>
+	                      				Tel: 217164305<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA ELMAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DE PEDROUÇOS, 61-B <br>
+	                      				1400 - 285 LISBOA <br>
+	                      				Tel: 213015334<br>
+	                      				Fax: 213015334
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O MEU CAFE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.INFANTARIA 16,62-B <br>
+	                      				1350 - 168 LISBOA <br>
+	                      				Tel: 213887432<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA NANU
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CIDADE DE LUANDA,LT-B LJ <br>
+	                      				1800 - 097 LISBOA <br>
+	                      				Tel: 218515210<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SUPERLIVROS
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTR. BENFICA, 488-A <br>
+	                      				1500 - 105 LISBOA <br>
+	                      				Tel: 217143847<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOAO NUNES &amp; NUNES,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE S.MIGUEL,12 <br>
+	                      				1100 - 544 LISBOA <br>
+	                      				Tel: 218868012<br>
+	                      				Fax: 218868012
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA S.TOME
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE S.TOME,66 <br>
+	                      				1100 - 563 LISBOA <br>
+	                      				Tel: 218871614<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE ZELES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.INACIO P.SANCHES,187 * B.LIBERDADE <br>
+	                      				1070 - 118 LISBOA <br>
+	                      				Tel: 213883863<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GRAO-PARA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CASTILHO,50 LJ.27 <br>
+	                      				1250 - 071 LISBOA <br>
+	                      				Tel: 213860286<br>
+	                      				Fax: 213860286
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOGAJA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ENG.D.PACHECO (AMOREIRAS CENTER, LJ.1025) <br>
+	                      				1070 - 103 LISBOA <br>
+	                      				Tel: 213833550<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE TIVOLI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.LIBERDADE (QUIOSQUE TIVOLI) <br>
+	                      				1250 - 146 LISBOA <br>
+	                      				Tel: 213141968<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOSE CARLOS MORAIS FELIX
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROJ. AZINHAGA ULMEIROS, PINGO DOCE,LJ 3 <br>
+	                      				1600 - 778 LISBOA <br>
+	                      				Tel: 217524145<br>
+	                      				Fax: 217524145
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SEIS DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ACTRIZ VIRGINIA 6-B <br>
+	                      				1900 - 027 LISBOA <br>
+	                      				Tel: 218405092<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE SILVERIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.VALE FORMOSO,32 <br>
+	                      				1950 - 283 LISBOA <br>
+	                      				Tel: 218682230<br>
+	                      				Fax: 218682230
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JOSEFINA COSTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DO RIO SECO,20 <br>
+	                      				1300 - 496 LISBOA <br>
+	                      				Tel: 213633614<br>
+	                      				Fax: 213633614
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JOSÉ CARLOS FÉLIX, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV Mª HELENA VIEIRA SILVA 121 G 6 PINGO DOCE <br>
+	                      				1750 - 180 LISBOA <br>
+	                      				Tel: 217570684<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LADEIRA DE LETRAS, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.INF.D.HENRIQUE LT.1/2, LJ. 2 (PINGO DOCE) <br>
+	                      				1800 - 273 LISBOA <br>
+	                      				Tel: 218536661<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITARIA BRASIL
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DO RATO,16-A <br>
+	                      				1250 - 186 LISBOA <br>
+	                      				Tel: 213883700<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITARIA  CASTOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAV.S.DOMINGOS BENFICA, 12-A <br>
+	                      				1500 - 564 LISBOA <br>
+	                      				Tel: 211374264<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ESTRELA DA ENCARNACAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.DO NORTE,7 B <br>
+	                      				1800 - 281 LISBOA <br>
+	                      				Tel: 218510218<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA S.CARLOS II
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. S. DOMINGOS DE BENFICA, 9-C <br>
+	                      				1500 - 555 LISBOA <br>
+	                      				Tel: 217262455<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITURAS &amp; ESCRITAS-PAPELARIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. ROMA, 48-B (C.COM.ROMA, PISO 0, LJ.44) <br>
+	                      				1700 - 348 LISBOA <br>
+	                      				Tel: 218488298<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DI ROMA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ROMA,15-B LJ-1.23 <br>
+	                      				1000 - 264 LISBOA <br>
+	                      				Tel: 217959565<br>
+	                      				Fax: 217820246
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA ROSA BAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO ZAIRE,29-C <br>
+	                      				1170 - 397 LISBOA <br>
+	                      				Tel: 212408614<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA 2001
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALEXANDRE FERREIRA,20-B <br>
+	                      				1750 - 011 LISBOA <br>
+	                      				Tel: 217593460<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA PANTUFA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.REPUBLICA DO PARAGUAI,41-B <br>
+	                      				1750 - 247 LISBOA <br>
+	                      				Tel: 217587973<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA ESPELHO DO TEJO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ILHA DOS AMORES, 4.08.01G (VILA DA EXPO) <br>
+	                      				1990 - 118 LISBOA <br>
+	                      				Tel: 218951357<br>
+	                      				Fax: 218951407
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LOPES &amp; ROMERO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALFERES BARRILARO RUAS,7-F-G <br>
+	                      				1800 - 006 LISBOA <br>
+	                      				Tel: 218534534<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LOTARIAS FALCAO II
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.5 DE OUTUBRO,198-D <br>
+	                      				1050 - 064 LISBOA <br>
+	                      				Tel: 217975696<br>
+	                      				Fax: 217975696
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA LUCIBELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS CRISTINO SILVA,LT-224,LJ-13 <br>
+	                      				1950 - 177 LISBOA <br>
+	                      				Tel: 218596465<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ESFERA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO ARSENAL,66 <br>
+	                      				1100 - 040 LISBOA <br>
+	                      				Tel: 213420740<br>
+	                      				Fax: 213420740
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA VERDANIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. BARTOLOMEU DIAS,166 <br>
+	                      				1400 - 038 LISBOA <br>
+	                      				Tel: 213020746<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA PICAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ENG.PAULO BARROS,30-C <br>
+	                      				1500 - 264 LISBOA <br>
+	                      				Tel: 217603553<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LUIS FILIPE CINTRA ESTORNINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTACAO DE METRO DE ENTRECAMPOS,LJ-8 <br>
+	                      				1600 - 082 LISBOA <br>
+	                      				Tel: 217963873<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										HAVANEZA PRACA DAS FLORES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.NOVA DA PIEDADE,11 <br>
+	                      				1200 - 296 LISBOA <br>
+	                      				Tel: 213975740<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M - PAPELARIA TABACARIA, LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALAM LINHAS TORRES, 238 - C C LUMIAR, LJ 28 <br>
+	                      				1750 - 151 LISBOA <br>
+	                      				Tel: 217595672<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TINA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.GENERAL ROCADAS, 145-A <br>
+	                      				1170 - 158 LISBOA <br>
+	                      				Tel: 218120614<br>
+	                      				Fax: 218120614
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										M.PIRES &amp; J.SILVA,LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE ALCANTARA,29-A-B <br>
+	                      				1300 - 024 LISBOA <br>
+	                      				Tel: 213643157<br>
+	                      				Fax: 213643157
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MADEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA DA ESTRELA,219-221 <br>
+	                      				1200 - 663 LISBOA <br>
+	                      				Tel: 213971321<br>
+	                      				Fax: 213975827
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MAG KIOSK
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. RODRIGUES DE FARIA, 103 GAL.COM.LX FACTORY <br>
+	                      				1300 - 501 LISBOA <br>
+	                      				Tel: 211920870<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA MARTINS
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DO CALHARIZ,4 <br>
+	                      				1200 - 086 LISBOA <br>
+	                      				Tel: 213464789<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BRISA DO TEJO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MANHIÇA,LT-466 LJ-ESQ.*OLIVAIS SUL <br>
+	                      				1800 - 245 LISBOA <br>
+	                      				Tel: 218517698<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ESTRELA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ALMIRANTE REIS,31-A <br>
+	                      				1150 - 009 LISBOA <br>
+	                      				Tel: 218141975<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MANUEL DE CASTRO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. ANTÓNIO JOSÉ ALMEIDA,34-B <br>
+	                      				1000 - 044 LISBOA <br>
+	                      				Tel: 217960645<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE ALMEIDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA BENFICA (FRENTE AO 711) <br>
+	                      				1500 - 088 LISBOA <br>
+	                      				Tel: 217600227<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RODA DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FORNO DO TIJOLO,36-B <br>
+	                      				1170 - 137 LISBOA <br>
+	                      				Tel: 218145314<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										JSCOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.D.ESTEFANIA,12-B <br>
+	                      				1000 - 126 LISBOA <br>
+	                      				Tel: 213556037<br>
+	                      				Fax: 213556037
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RESENDE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.EDUARDA LAPA,LT-37 LJ <br>
+	                      				1950 - 360 LISBOA <br>
+	                      				Tel: 218592452<br>
+	                      				Fax: 218592452
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIA CIDALIA MARQUES MOCHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.HEROIS DE QUIONGA,60-A <br>
+	                      				1170 - 180 LISBOA <br>
+	                      				Tel: 218130873<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ESTRELA DO PARAISO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO PARAISO,39-41 <br>
+	                      				1100 - 396 LISBOA <br>
+	                      				Tel: 218860932<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GALANTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MARQUES DE SUBSERRA,6-C <br>
+	                      				1070 - 170 LISBOA <br>
+	                      				Tel: 210195408<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIA JOÃO FRANCISCO, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				MERCADO DE ARROIOS, LJ. 32 <br>
+	                      				1900 - 067 LISBOA <br>
+	                      				Tel: 218140461<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ULTRAMAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. SACADURA CABRAL,27-A <br>
+	                      				1000 - 272 LISBOA <br>
+	                      				Tel: 217965474<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA DUNA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALM.DAS LINHAS TORRES,99-B <br>
+	                      				1750 - 140 LISBOA <br>
+	                      				Tel: 217591285<br>
+	                      				Fax: 217591285
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA BRILHANTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DAS FONTAINHAS,23 <br>
+	                      				1300 - 255 LISBOA <br>
+	                      				Tel: 213639884<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARIO NUNES &amp; AMORIM,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA DA ESTRELA,243-245 <br>
+	                      				1200 - 663 LISBOA <br>
+	                      				Tel: 213968025<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE MILIMETRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.BUENOS AIRES,14-A <br>
+	                      				1200 - 624 LISBOA <br>
+	                      				Tel: 213968798<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA FEBUS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. ALMIRANTE REIS, 79-C <br>
+	                      				1150 - 012 LISBOA <br>
+	                      				Tel: 213548522<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MARQUES DAMIÃO - PAPELARIA E TABACARIA, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DE SAPADORES, 117 C <br>
+	                      				1170 - 339 LISBOA <br>
+	                      				Tel: 218139358<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA POP
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ALIANCA OPERARIA,103-A <br>
+	                      				1300 - 046 LISBOA <br>
+	                      				Tel: 213641813<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA 197
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.CIDADE DO LUSO,197 LJ-A <br>
+	                      				1800 - 100 LISBOA <br>
+	                      				Tel: 218514816<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MEDALHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.D.CARLOS I,53 <br>
+	                      				1200 - 647 LISBOA <br>
+	                      				Tel: 213963546<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										UNIBRINDES
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ARTILHARIA UM,37-A <br>
+	                      				1250 - 037 LISBOA <br>
+	                      				Tel: 213867028<br>
+	                      				Fax: 213867028
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA GRILOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DA GRACA,106-107 <br>
+	                      				1170 - 165 LISBOA <br>
+	                      				Tel: 218866587<br>
+	                      				Fax: 218866587
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										METRO E MEIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. METRO MARQUÊS DE POMBAL, ATRIO SUL, LJ-2 <br>
+	                      				1250 - 161 LISBOA <br>
+	                      				Tel: 213570427<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										METROQUIOSQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTACAO DE METRO DA CIDADE UNIVERSITARIA <br>
+	                      				1600 - 214 LISBOA <br>
+	                      				Tel: 217938937<br>
+	                      				Fax: 217938937
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE DO TABACO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. D. JOÃO II, C. C. VASCO DA GAMA PISO 0 <br>
+	                      				1990 - 094 LISBOA <br>
+	                      				Tel: 218930821<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NOTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. LUSIADA, C.C. COLOMBO, LJ. G. 03, PISO0 <br>
+	                      				1500 - 392 LISBOA <br>
+	                      				Tel: 217113788<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFETARIA BOM DIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				CAMPO GRANDE, 1 - A <br>
+	                      				1700 - 086 LISBOA <br>
+	                      				Tel: 217952701<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										FILINTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JOAO CRISOSTOMO,33-A <br>
+	                      				1050 - 125 LISBOA <br>
+	                      				Tel: 213570168<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA HOSPITAL DA LUZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. LUSIADA, 100, PISO 0 (HOSPITAL LUZ) <br>
+	                      				1500 - 650 LISBOA <br>
+	                      				Tel: 217160548<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MOMENTOS DE SOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAÇA ALVALADE, 6 - C. C. DE ALVALADE, LJ 19 <br>
+	                      				1700 - 036 LISBOA <br>
+	                      				Tel: 217960901<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE  MONTEJUNTO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PEDRALVAS,1 <br>
+	                      				1500 - 487 LISBOA <br>
+	                      				Tel: 217604864<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELIEX
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. VALE FORMOSO DE CIMA, 152 C, LJ. 18 <br>
+	                      				1950 - 273 LISBOA <br>
+	                      				Tel: 218370025<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CONCORRENTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SARAIVA DE CARVALHO,139-143 <br>
+	                      				1350 - 300 LISBOA <br>
+	                      				Tel: 213967251<br>
+	                      				Fax: 213831755
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ LUANDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ESTADOS UNIDOS DA AMERICA,97-D <br>
+	                      				1700 - 178 LISBOA <br>
+	                      				Tel: 218495193<br>
+	                      				Fax: 218479585
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABAK
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DAS NAÇÕES UNIDAS,C.C. CONTINENTE,LJ-23 <br>
+	                      				1600 - 528 LISBOA <br>
+	                      				Tel: 217165574<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NARESH K.GAMANLAL &amp; JAIPRAKASH GAMANLAL,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST.DE BENFICA, 461 C <br>
+	                      				1500 - 078 LISBOA <br>
+	                      				Tel: 217789408<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ARCO IRIS DA ESTRELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA DA ESTRELA,23-25 <br>
+	                      				1200 - 661 LISBOA <br>
+	                      				Tel: 213901637<br>
+	                      				Fax: 213901637
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										NIAMI
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CARLOS MARDEL,52-A <br>
+	                      				1900 - 124 LISBOA <br>
+	                      				Tel: 218477714<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MOMENTOS DE SOL - NEWS &amp; GIFTS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.JERONIMO OSORIO,17-B <br>
+	                      				1400 - 120 LISBOA <br>
+	                      				Tel: 213011124<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MERCEARIA COUTINHO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.4 DE INFANTARIA,49-A <br>
+	                      				1350 - 274 LISBOA <br>
+	                      				Tel: 213886560<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										WBOX
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTAÇÃO  METRO DOS RESTAURADORES, LJ 10 <br>
+	                      				1250 - 188 LISBOA <br>
+	                      				Tel: 213460700<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										HAVANEZA DO CALVARIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.CALVARIO, 27-28 <br>
+	                      				1300 - 114 LISBOA <br>
+	                      				Tel: 213637983<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JOAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PEDRO BANDEIRA,LT-13 LJ-4A <br>
+	                      				1750 - 217 LISBOA <br>
+	                      				Tel: 217587315<br>
+	                      				Fax: 217587315
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										O LAPINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROFESSORA VIRGINIA RAU,5 LJ.F <br>
+	                      				1600 - 673 LISBOA <br>
+	                      				Tel: 217582300<br>
+	                      				Fax: 217582300
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABAK
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. LUSIADA, C.COM.COLOMBO, LJ 0.173/4 <br>
+	                      				1500 - 392 LISBOA <br>
+	                      				Tel: 217160762<br>
+	                      				Fax: 217160762
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ALTEJO
+	                    			</span> 
+	                    			<span class="text">
+	                    				URB.MATINHA,R-3 (ED.ALTEJO) <br>
+	                      				1950 - 326 LISBOA <br>
+	                      				Tel: 218680106<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										OLAIAS PRESS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ENG.ARANTES OLIVEIRA,LT-13 A-D LJ-126 <br>
+	                      				1900 - 221 LISBOA <br>
+	                      				Tel: 218481727<br>
+	                      				Fax: 218481727
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										OLAIAS PRESS PAPELARIA TABACARIA E LOTARIAS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALÇ. PICHELEIRA, 166-A <br>
+	                      				1900 - 367 LISBOA <br>
+	                      				Tel: 218400731<br>
+	                      				Fax: 218400731
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA OMECA
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAVESSA DA BOA HORA A AJUDA,21-B <br>
+	                      				1300 - 102 LISBOA <br>
+	                      				Tel: 213636352<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BP PADRE CRUZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. PADRE CRUZ, POSTO ABASTECIMENTO BP <br>
+	                      				1600 - 001 LISBOA <br>
+	                      				Tel: 217595964<br>
+	                      				Fax: 217568395
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAGINAS DIVERTIDAS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.STO.CONDESTAVEL(PINGO DOCE,LJ-22) <br>
+	                      				1950 - 392 LISBOA <br>
+	                      				Tel: 218594024<br>
+	                      				Fax: 218594024
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAGINAS D´ESTILO,UNIPESSOAL,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.FIALHO DE ALMEIDA,21(BAZAR DO SAMS) <br>
+	                      				1070 - 128 LISBOA <br>
+	                      				Tel: 213811993<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA PALIBELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CIDADE DA  BEIRA,46-B <br>
+	                      				1800 - 070 LISBOA <br>
+	                      				Tel: 218532669<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA A CENTRAL DA PAMPULHA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA DA PAMPULHA,71-73 <br>
+	                      				1200 - 751 LISBOA <br>
+	                      				Tel: 213961417<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CRISALIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AGOSTINHO LOURENCO,343 <br>
+	                      				1000 - 010 LISBOA <br>
+	                      				Tel: 218492577<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA E LIVRARIA ALFACINHA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				MERCADO DO FORNO DO TIJOLO, LJ. 12 <br>
+	                      				1170 - 221 LISBOA <br>
+	                      				Tel: 218134180<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA JUNQUEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DA JUNQUEIRA,34 <br>
+	                      				1300 - 343 LISBOA <br>
+	                      				Tel: 213644607<br>
+	                      				Fax: 213644607
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA UNIVERSITARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV .DAS FORCAS ARMADAS,26-C <br>
+	                      				1600 - 082 LISBOA <br>
+	                      				Tel: 217978125<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										AQUALIS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.CARLOS MASCARENHAS,76-B <br>
+	                      				1070 - 083 LISBOA <br>
+	                      				Tel: 213883203<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CASA LUCRECIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. RIO DE JANEIRO,27-B <br>
+	                      				1700 - 331 LISBOA <br>
+	                      				Tel: 218483155<br>
+	                      				Fax: 218483155
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA POLANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MADAME CURIE,15-B <br>
+	                      				1070 - 166 LISBOA <br>
+	                      				Tel: 217263160<br>
+	                      				Fax: 217263160
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA S.BARTOLOMEU
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.SERGIO VIEIRA MELO,LT-23 BL-A LJ-3 <br>
+	                      				1750 - 246 LISBOA <br>
+	                      				Tel: 212448938<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA S.MARCOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SOUSA MARTINS,35 <br>
+	                      				1050 - 217 LISBOA <br>
+	                      				Tel: 213146323<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SOL DE BELEM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DOS JERONIMOS,16-D <br>
+	                      				1400 - 211 LISBOA <br>
+	                      				Tel: 213638397<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SAMPAIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROFESSOR REINALDO DOS SANTOS,12-C <br>
+	                      				1500 - 505 LISBOA <br>
+	                      				Tel: 217789435<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MIBRIL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.TENENTE FERREIRA DURAO,62-D <br>
+	                      				1350 - 318 LISBOA <br>
+	                      				Tel: 213902955<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PARQUE VERDE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GEN.FIRMINO MIGUEL,8-B <br>
+	                      				1600 - 300 LISBOA <br>
+	                      				Tel: 217276548<br>
+	                      				Fax: 217276624
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA D.RODRIGO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.D.RODRIGO DA CUNHA,8E-F <br>
+	                      				1700 - 140 LISBOA <br>
+	                      				Tel: 218490142<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA EIFFEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ELIAS GARCIA,9 <br>
+	                      				1000 - 146 LISBOA <br>
+	                      				Tel: 217971522<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA ESTRELA DA TAPADA
+	                    			</span> 
+	                    			<span class="text">
+	                    				TRAVESSA DA TAPADA,12-A <br>
+	                      				1300 - 552 LISBOA <br>
+	                      				Tel: 213634651<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA IDEAL DA CRUZ DA PEDRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA CRUZ PEDRA,LT-M,LJ-A <br>
+	                      				1900 - 173 LISBOA <br>
+	                      				Tel: 218120672<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA LEITARIA A LINDA MINHOTA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.BARÃO SABROSA,229-B <br>
+	                      				1900 - 089 LISBOA <br>
+	                      				Tel: 211342537<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA MEXICANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. GUERRA JUNQUEIRO, 30-C <br>
+	                      				1000 - 167 LISBOA <br>
+	                      				Tel: 218486117<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA MOINHO DOURADO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MAJOR NEUTEL DE ABREU,LT-20 LJ-B <br>
+	                      				1500 - 411 LISBOA <br>
+	                      				Tel: 217783347<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PARQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.RODRIGO DA FONSECA, 79-A-B <br>
+	                      				1250 - 190 LISBOA <br>
+	                      				Tel: 213881215<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA STA.CLARA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CRUZ STA.APOLONIA,37 <br>
+	                      				1100 - 187 LISBOA <br>
+	                      				Tel: 218143150<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA SOUSA
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.DR.FERNANDO AMADO,LT-567 LJ-B <br>
+	                      				1950 - 090 LISBOA <br>
+	                      				Tel: 218374687<br>
+	                      				Fax: 218374687
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										2 A - PAPELARIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ENG. QUARTIM GRAÇA, 2 - A <br>
+	                      				1750 - 100 LISBOA <br>
+	                      				Tel: 211362840<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PERGAMINHO MITICO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTAÇÃO CP ROSSIO,LJ-1 <br>
+	                      				1200 - 160 LISBOA <br>
+	                      				Tel: 213479113<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PETISQUEIRA DA ESTRELINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ACTRIZ PALMIRA BASTOS,38, LJ. A <br>
+	                      				1950 - 003 LISBOA <br>
+	                      				Tel: 218590709<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA VÁ VÁ
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. ESTADOS UNIDOS DA AMERICA, 100-C <br>
+	                      				1700 - 179 LISBOA <br>
+	                      				Tel: 217966761<br>
+	                      				Fax: 217966761
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA MUSTAFA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.FONTES PEREIRA DE MELO,23 <br>
+	                      				1050 - 116 LISBOA <br>
+	                      				Tel: 213543831<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESS CENTER
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROF.EGAS MONIZ (HOSPITAL SANTA MARIA) <br>
+	                      				1649 - 035 LISBOA <br>
+	                      				Tel: 217930729<br>
+	                      				Fax: 217968120
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRESSE LINHA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.D.JOÃO II (C.COM.VASCO DA GAMA LJS.2081/2) <br>
+	                      				1990 - 094 LISBOA <br>
+	                      				Tel: 218955845<br>
+	                      				Fax: 218955845
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PRÉMIOS &amp; PRENDAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				AL. LINHAS TORRES,117,C.COM.CULT. LAHPV LJ.10 <br>
+	                      				1769 - 001 LISBOA <br>
+	                      				Tel: 217520097<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA PÃO DE AÇUCAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				ALAM. D. AFONSO HENRIQUES, 70 A <br>
+	                      				1000 - 124 LISBOA <br>
+	                      				Tel: 218485260<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										QUIOSQUE S.ROQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.TRINDADE COELHO <br>
+	                      				1200 - 470 LISBOA <br>
+	                      				Tel: 213424908<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA JARDIM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JARDIM DO TABACO,128 - LJ <br>
+	                      				1100 - 288 LISBOA <br>
+	                      				Tel: 218871823<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RAMPA 4
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CIDADE DE NAMPULA,4-A <br>
+	                      				1800 - 105 LISBOA <br>
+	                      				Tel: 211983922<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SICAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. METROPOLITANO CAMPO GRANDE, LJ. 1 <br>
+	                      				1600 - 770 LISBOA <br>
+	                      				Tel: 217571965<br>
+	                      				Fax: 217950024
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										REGO &amp; MOREIRA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE STO.ANTONIO,7 <br>
+	                      				1750 - 255 LISBOA <br>
+	                      				Tel: 217591094<br>
+	                      				Fax: 217591094
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE FUNG-SHING
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DOS SOEIROS,334-B <br>
+	                      				1500 - 585 LISBOA <br>
+	                      				Tel: 217263523<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA LUSO IMPÉRIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CONDE VALBOM,84-D <br>
+	                      				1050 - 069 LISBOA <br>
+	                      				Tel: 217977410<br>
+	                      				Fax: 217977410
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ROMERO &amp; MASCARENHAS,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.ARCO DO CARVALHAO,3-A <br>
+	                      				1070 - 008 LISBOA <br>
+	                      				Tel: 213850405<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA ROSABELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.BERNA,43-A <br>
+	                      				1050 - 038 LISBOA <br>
+	                      				Tel: 217978311<br>
+	                      				Fax: 217978311
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										ROTUNDA DO MARQUÊS
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. MARQUÊS DE POMBAL, 1 LJ-14 <br>
+	                      				1250 - 160 LISBOA <br>
+	                      				Tel: 213570368<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SALVADOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DOS ARNEIROS,127-A <br>
+	                      				1500 - 056 LISBOA <br>
+	                      				Tel: 217162797<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SANTOS &amp; BALTAZAR,TABACARIA PAPELARIA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GOMES FREIRE,223-B <br>
+	                      				1150 - 178 LISBOA <br>
+	                      				Tel: 213148206<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA DONA REVISTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CAMPOLIDE,45 B <br>
+	                      				1070 - 026 LISBOA <br>
+	                      				Tel: 213889098<br>
+	                      				Fax: 213889098
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SANTOS GATA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SILVA TAVARES,7, C.C.MOURAS, LJ-66-67 R/C <br>
+	                      				1750 - 287 LISBOA <br>
+	                      				Tel: 217597960<br>
+	                      				Fax: 217597960
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA TREVO
+	                    			</span> 
+	                    			<span class="text">
+	                    				CASINO LISBOA - ALAM.OCEANOS LT 01.03.01 <br>
+	                      				1990 - 204 LISBOA <br>
+	                      				Tel: 218929002<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										SERVICOS SOCIAIS DA C.G.D.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.JOAO XXI,63 2 PISO <br>
+	                      				1000 - 300 LISBOA <br>
+	                      				Tel: 217905115<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										AGENCIA CULTURAL DE LISBOA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.NOVA DO DESTERRO,29-G <br>
+	                      				1150 - 241 LISBOA <br>
+	                      				Tel: 218852740<br>
+	                      				Fax: 218852740
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA SILU
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.ALMIRANTE GAGO COUTINHO,1A-B <br>
+	                      				1000 - 014 LISBOA <br>
+	                      				Tel: 218489395<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA STO.ANTONIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MARQUESA DE ALORNA,19-B <br>
+	                      				1700 - 300 LISBOA <br>
+	                      				Tel: 218497961<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA SNACK-BAR QUATRO ESTAÇOES
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR.S.PAULO,17-18 <br>
+	                      				1200 - 425 LISBOA <br>
+	                      				Tel: 213432454<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA BRASIL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DAS PRETAS,4-6 <br>
+	                      				1150 - 271 LISBOA <br>
+	                      				Tel: 213425949<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MOURENSE SNACK-BAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA PALMA DE BAIXO,31-B <br>
+	                      				1600 - 175 LISBOA <br>
+	                      				Tel: 217270472<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA EVIAN
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.URUGUAI,33-A <br>
+	                      				1500 - 611 LISBOA <br>
+	                      				Tel: 217151477<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA FLOR DE LOTUS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PROF.FRANCISCO GENTIL-ED.E1-LJ-2 B <br>
+	                      				1600 - 625 LISBOA <br>
+	                      				Tel: 217584788<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITARIA VENEZA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.LUIS DE CAMOES,124 <br>
+	                      				1300 - 362 LISBOA <br>
+	                      				Tel: 213637732<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										A LOJA DO RATO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CORONEL EDUARDO GALHARDO, 3 LJ-G <br>
+	                      				1170 - 105 LISBOA <br>
+	                      				Tel: 212468112<br>
+	                      				Fax: 212468112
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA KÁKÁ - STO. AMARO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. 1º DE MAIO, 144 - A <br>
+	                      				1300 - 475 LISBOA <br>
+	                      				Tel: 213648196<br>
+	                      				Fax: 213648196
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA KAKA
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALÇADA DA TAPADA, 170-A <br>
+	                      				1300 - 551 LISBOA <br>
+	                      				Tel: 213620993<br>
+	                      				Fax: 213620993
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA MONTES CLAROS
+	                    			</span> 
+	                    			<span class="text">
+	                    				CALCADA DA AJUDA,137-B <br>
+	                      				1300 - 008 LISBOA <br>
+	                      				Tel: 213636482<br>
+	                      				Fax: 213636482
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SÁBIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ABRANCHES FERRÃO, 8-H, ATLANTA PARK LJ 5 <br>
+	                      				1600 - 001 LISBOA <br>
+	                      				Tel: 217273471<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ANJOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA ROSA,200 <br>
+	                      				1200 - 390 LISBOA <br>
+	                      				Tel: 213427045<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ARTEMISA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.RAINHA D.AMELIA,24-B <br>
+	                      				1600 - 678 LISBOA <br>
+	                      				Tel: 217576924<br>
+	                      				Fax: 217576924
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CASTOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.BENEFICENCIA,197-A <br>
+	                      				1600 - 019 LISBOA <br>
+	                      				Tel: 217963220<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CERQUEIRA &amp; MARCELINO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PADRE FRANCISCO ALVARES,5-A <br>
+	                      				1500 - 476 LISBOA <br>
+	                      				Tel: 217780388<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA COCHE D OURO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA JUNQUEIRA,520 <br>
+	                      				1300 - 341 LISBOA <br>
+	                      				Tel: 213646707<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CONDESTÁVEL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. ALMEIDA E SOUSA, 22-D <br>
+	                      				1350 - 011 LISBOA <br>
+	                      				Tel: 213853810<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CONTINENTAL,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				RUA VENEZUELA -ESTAÇÃO DA CP BENFICA,LJ-4 <br>
+	                      				1500 - 818 LISBOA <br>
+	                      				Tel: 217157434<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CONTINENTAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.AUGUSTA 57-59 <br>
+	                      				1100 - 048 LISBOA <br>
+	                      				Tel: 213421952<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA CONTINENTAL 2
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.COLUMBANO BORDALO PINHEIRO(E.CP SETE RIOS) <br>
+	                      				1099 - 019 LISBOA <br>
+	                      				Tel: 217273588<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA DA SORTE DE BENFICA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA A DA MAIA,12-A <br>
+	                      				1500 - 002 LISBOA <br>
+	                      				Tel: 217608738<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ALMENARA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE BENFICA,460-A <br>
+	                      				1500 - 104 LISBOA <br>
+	                      				Tel: 217143155<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA CEU
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.REPUBLICA DA BOLIVIA,67-A <br>
+	                      				1500 - 544 LISBOA <br>
+	                      				Tel: 217153694<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA FUMISTA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.CIDADE BOLAMA,4 (SPACIO S.CENTER,LJ-2.24) <br>
+	                      				1800 - 079 LISBOA <br>
+	                      				Tel: 218535253<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA MARLUZ
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA VENEZUELA,14 <br>
+	                      				1500 - 621 LISBOA <br>
+	                      				Tel: 217154461<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ROSALINDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE CARLOS DOS SANTOS,3 A <br>
+	                      				1700 - 256 LISBOA <br>
+	                      				Tel: 217970591<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA SIDNEY
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.GAMA BARROS,3-A <br>
+	                      				1700 - 143 LISBOA <br>
+	                      				Tel: 218492527<br>
+	                      				Fax: 218492527
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ESTAÇÃO ROMA AREEIRO, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV PADRE M. NOBREGA-EST CP ROMA/AREEIRO, LJ2 <br>
+	                      				1700 - 095 LISBOA <br>
+	                      				Tel: 218880100<br>
+	                      				Fax: 218146542
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA FALCAO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.OSCAR MONTEIRO TORRES,55-B <br>
+	                      				1000 - 217 LISBOA <br>
+	                      				Tel: 217976107<br>
+	                      				Fax: 217976107
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GARCEZ NUNO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.SAMPAIO BRUNO,56-B <br>
+	                      				1350 - 285 LISBOA <br>
+	                      				Tel: 213889782<br>
+	                      				Fax: 213889782
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GARE DO ORIENTE, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. METRO DO ORIENTE, LJ. 6 <br>
+	                      				1990 - 094 LISBOA <br>
+	                      				Tel: 218946094<br>
+	                      				Fax: 218946094
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GRACIANO &amp; BAPTISTA,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA MADALENA,239 <br>
+	                      				1100 - 319 LISBOA <br>
+	                      				Tel: 218872030<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GRANJO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DR.ANTONIO GRANJO,14-B <br>
+	                      				1070 - 090 LISBOA <br>
+	                      				Tel: 217263256<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA HAVANEZA ALTO SÃO JOÃO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				PARADA DO ALTO S.JOÃO,5-A <br>
+	                      				1900 - 051 LISBOA <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA MEMORIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO GALVAO,1-A <br>
+	                      				1400 - 176 LISBOA <br>
+	                      				Tel: 213644388<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA NOTA GROSSA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CONDE VALBOM,127 - C <br>
+	                      				1050 - 067 LISBOA <br>
+	                      				Tel: 0<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA NOVA
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.CRISTOVAO AIRES,6-A <br>
+	                      				1700 - 126 LISBOA <br>
+	                      				Tel: 218484920<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA O CANTINHO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DA PALMA, 167 <br>
+	                      				1100 - 391 LISBOA <br>
+	                      				Tel: 218860324<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA PINGUIM
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.D.ESTEFANIA,163-B <br>
+	                      				1000 - 126 LISBOA <br>
+	                      				Tel: 213570512<br>
+	                      				Fax: 213570512
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA RUIANA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE MOSCAVIDE,52-A <br>
+	                      				1800 - 279 LISBOA <br>
+	                      				Tel: 218537632<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA STA.LUZIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.RICARDO JORGE,4-A <br>
+	                      				1700 - 327 LISBOA <br>
+	                      				Tel: 218489664<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA SENI
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.REPUBLICA,47-C <br>
+	                      				1050 - 188 LISBOA <br>
+	                      				Tel: 217961713<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA TABEX
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MATO GROSSO,43 <br>
+	                      				1170 - 234 LISBOA <br>
+	                      				Tel: 218134340<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA ZOO
+	                    			</span> 
+	                    			<span class="text">
+	                    				EST. METRO JARDIM ZOOLÓGICO, ÁTRIO SUL, LJ.7 <br>
+	                      				1070 - 067 LISBOA <br>
+	                      				Tel: 217270946<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABANKA
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTACAO DE METRO DO COLEGIO MILITAR,LJ-17 <br>
+	                      				1500 - 180 LISBOA <br>
+	                      				Tel: 217163451<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA AÇUCAR E CANELA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. DUQUE DE ÁVILA, 6 - A <br>
+	                      				1000 - 140 LISBOA <br>
+	                      				Tel: 213555445<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LEITARIA HOLANDESA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE S.MARCAL,68-70 <br>
+	                      				1200 - 421 LISBOA <br>
+	                      				Tel: 213426683<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA TERREIRO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PASSEIO DOS JACARANDÁS,LT-4.1701 C LJ-B <br>
+	                      				1990 - 374 MOSCAVIDE <br>
+	                      				Tel: 218958273<br>
+	                      				Fax: 218958273
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TERTÚLIARECORD - UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				ESTRADA DE BENFICA, 329-B <br>
+	                      				1500 - 075 LISBOA <br>
+	                      				Tel: 217781726<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA SANTOS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.MANUEL MARTINS DA HORA, 3-A <br>
+	                      				1750 - 290 LISBOA <br>
+	                      				Tel: 217570686<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										LIVRARIA TIRA LINHAS
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.GOMES FREIRE,167 <br>
+	                      				1150 - 176 LISBOA <br>
+	                      				Tel: 213544766<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CARNIDE LOUNGE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. JOSÉ FARINHA, 28 - A <br>
+	                      				1500 - 700 LISBOA <br>
+	                      				Tel: 217160168<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TURMA IMBATÍVEL UNIPESSOAL. LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.DA LIBERDADE,9 LJ-8 <br>
+	                      				1250 - 139 LISBOA <br>
+	                      				Tel: 213468188<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA U.C.P.
+	                    			</span> 
+	                    			<span class="text">
+	                    				CAMINHO DA PALMA DE CIMA, EDIF. JPII, PISO 0 <br>
+	                      				1649 - 023 LISBOA <br>
+	                      				Tel: 217214026<br>
+	                      				Fax: 217214029
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BOTECO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.RODRIGO DA FONSECA,182-A <br>
+	                      				1070 - 243 LISBOA <br>
+	                      				Tel: 213884261<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA VECAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO ALECRIM,75 <br>
+	                      				1200 - 016 LISBOA <br>
+	                      				Tel: 213420137<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										VENTURA &amp; LOPES,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AZINHAGA DAS GALINHEIRAS,J/S,LETRA E <br>
+	                      				1750 - 117 LISBOA <br>
+	                      				Tel: 217590904<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										IMPERIO DA SORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DA PRATA,46 <br>
+	                      				1100 - 419 LISBOA <br>
+	                      				Tel: 218878341<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAZAR PATRICIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.PEREIRA E SOUSA,8-B <br>
+	                      				1350 - 242 LISBOA <br>
+	                      				Tel: 213858432<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										DIVERS
+	                    			</span> 
+	                    			<span class="text">
+	                    				LOJA DIVERS-NAVE SUL AEROP.LISBOA-ZONA PUBLICA <br>
+	                      				1700 - 008 LISBOA <br>
+	                      				Tel: 218496724<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>
+                        

@@ -1,0 +1,65 @@
+SOBRAL DE MONTE AGRAÇO
+
+<ul class="salePointSearch3">
+
+	                    		<li> 
+	                    			<span class="title">
+										CAFE FERRADOR
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.N.SRA.DA PURIFICACAO * SAPATARIA <br>
+	                      				2590 - 430 SOBRAL DE MONTE AGRAÇO <br>
+	                      				Tel: 261786200<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										CAFE NEGRITO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.25 DE ABRIL,10 <br>
+	                      				2590 - 425 SOBRAL DE MONTE AGRAÇO <br>
+	                      				Tel: 261786118<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										PAPELARIA E TABACARIA O TEIMOSO,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.MARQUÊS POMBAL,34 <br>
+	                      				2590 - 041 SOBRAL DE MONTE AGRAÇO <br>
+	                      				Tel: 261952334<br>
+	                      				Fax: 261952334
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										PAPELARIA MONTAGRAÇO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. MARQUÊS DE POMBAL, 102 <br>
+	                      				2590 - 041 SOBRAL DE MONTE AGRAÇO <br>
+	                      				Tel: 261943253<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li> 
+	                    			<span class="title">
+										PAPELARIA TIMOTEO
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAÇA DOUTOR EUGÉNIO DIAS, 7 <br>
+	                      				2590 - 016 SOBRAL DE MONTE AGRAÇO <br>
+	                      				Tel: 261941499<br>
+	                      				
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>

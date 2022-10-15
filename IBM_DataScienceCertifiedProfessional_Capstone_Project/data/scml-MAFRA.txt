@@ -1,0 +1,401 @@
+MAFRA
+
+<ul class="salePointSearch3">
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFÉ CATARINO
+	                    			</span> 
+	                    			<span class="text">
+	                    				LARGO DO FONTANARIO,5 * ACHADA <br>
+	                      				2640 - 401 MAFRA <br>
+	                      				Tel: 261815449<br>
+	                      				Fax: 261819954
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										AUTOMAFRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.25 ABRIL, POSTO  ABASTECIMENTO COMB. GALP <br>
+	                      				2640 - 456 MAFRA <br>
+	                      				Tel: 261816000<br>
+	                      				Fax: 261816009
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										PÃO DA VILA CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. DA REPUBLICA,7 <br>
+	                      				2655 - 347 ERICEIRA <br>
+	                      				Tel: 261867305<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										BAGGA
+	                    			</span> 
+	                    			<span class="text">
+	                    				QTA. DA BACOREIRA, HIPERM. CONTINENTE, LJ.3 <br>
+	                      				2640 - 453 MAFRA <br>
+	                      				Tel: 261818408<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										RESTAURANTE MARISOL
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.S.JOAO, 7 * RIBAMAR <br>
+	                      				2640 - 036 SANTO ISIDORO MFR <br>
+	                      				Tel: 261862942<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CAFE CENTRAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. DA IGREJA, 2 <br>
+	                      				2640 - 232 ENCARNAÇÃO <br>
+	                      				Tel: 261855036<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										CYBER CFÉ ERICEIRA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.S. SEBASTIAO, 14, LJ. D-E <br>
+	                      				2655 - 210 ERICEIRA <br>
+	                      				Tel: 261867006<br>
+	                      				Fax: 219800680
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: list-item;"> 
+	                    			<span class="title">
+										GRIFOPRINT
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG.DA FEIRA,16-A <br>
+	                      				2665 - 228 MALVEIRA <br>
+	                      				Tel: 219863460<br>
+	                      				Fax: 219863460
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RAMINHOS COFFEE
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DO EMIGRANTE, 2, BL C, LJ C <br>
+	                      				2655 - 269 ERICEIRA <br>
+	                      				Tel: 261863398<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA BAMBI
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JOSE LUIS CRESPO,2-A <br>
+	                      				2655 - 347 ERICEIRA <br>
+	                      				Tel: 261866511<br>
+	                      				Fax: 261866511
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ A FONTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. NOSSA SENHORA LIVRAMENTO, 6 <br>
+	                      				2665 - 015 AZUEIRA <br>
+	                      				Tel: 261961757<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ ALVES
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 247, 43-A * BARRIL <br>
+	                      				2640 - 202 ENCARNAÇÃO <br>
+	                      				Tel: 261858415<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PASTELARIA POLO NORTE
+	                    			</span> 
+	                    			<span class="text">
+	                    				PRAÇA DA REPÚBLICA,15 <br>
+	                      				2640 - 525 MAFRA <br>
+	                      				Tel: 261811070<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE HAMBURGO
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. 9 DE JULHO,60 <br>
+	                      				2665 - 521 VENDA DO PINHEIRO <br>
+	                      				Tel: 219861079<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										MIRANDUM
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.CIDADE LEIMEN,14 <br>
+	                      				2640 - 470 MAFRA <br>
+	                      				Tel: 261814444<br>
+	                      				Fax: 261814444
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA RADICAL
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. 9 DE JULHO, 103, R/C DT. <br>
+	                      				2665 - 519 VENDA DO PINHEIRO <br>
+	                      				Tel: 219660104<br>
+	                      				Fax: 219660104
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PARODIA DE LETRAS-TABACARIA PAPELARIA UNIP.,LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N. 8 *LUGAR DA LAGOA, MALVEIRA SHOP. LJ.4 <br>
+	                      				2665 - 258 MALVEIRA <br>
+	                      				Tel: 219661788<br>
+	                      				Fax: 219661788
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA KAERU
+	                    			</span> 
+	                    			<span class="text">
+	                    				R. DR. MARIO MADEIRA, 19 A <br>
+	                      				2665 - 250 MALVEIRA <br>
+	                      				Tel: 219863651<br>
+	                      				Fax: 219863651
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFÉ RESTAURANTE VITÓRIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DE S.JOÃO, 23  * RIBAMAR <br>
+	                      				2640 - 036 SANTO ISIDORO MFR <br>
+	                      				Tel: 261863154<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										REDEFONE
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.8,LIMITES VENDA VALADOR, PINGO DOCE) <br>
+	                      				2665 - 258 MALVEIRA <br>
+	                      				Tel: 219863016<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										REDEPRESS
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.116 MODELO MAFRA,  LJ-3-A * SALGADOS <br>
+	                      				2640 - 577 MAFRA <br>
+	                      				Tel: 261815865<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA REDEPRESS
+	                    			</span> 
+	                    			<span class="text">
+	                    				P.DOCE MAFRA-CASAL EIRA VELHA, LT. GORCINHOS <br>
+	                      				2640 - 389 MAFRA <br>
+	                      				Tel: 261854117<br>
+	                      				Fax: 261854117
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA REFUGIO DO MAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				PR. NAVEGANTES, EDF. NAVEGANTES, 2, LJ. 5 <br>
+	                      				2655 - 320 ERICEIRA <br>
+	                      				Tel: 261867075<br>
+	                      				Fax: 261867075
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RELATOS &amp; VERSÕES, UNIPESSOAL, LDA.
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV. 1º MAIO, 11-E <br>
+	                      				2640 - 455 MAFRA <br>
+	                      				Tel: 261813976<br>
+	                      				Fax: 261400626
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										BAZAR DEL RUI
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DOS BOMB.VOLUNTARIOS,BL-A R/C DT. <br>
+	                      				2640 - 462 MAFRA <br>
+	                      				Tel: 261812125<br>
+	                      				Fax: 261813782
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										RESTAURANTE COZINHA SALOIA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV.9 DE JULHO, 104 <br>
+	                      				2665 - 517 VENDA DO PINHEIRO <br>
+	                      				Tel: 219861326<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GASPAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				LG. DE S. SEBASTIAO * SOBREIRO <br>
+	                      				2640 - 578 MAFRA <br>
+	                      				Tel: 261812759<br>
+	                      				Fax: 261812759
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA GASPAR
+	                    			</span> 
+	                    			<span class="text">
+	                    				E.N.,116, 22 <br>
+	                      				2640 - 578 MAFRA <br>
+	                      				Tel: 261812623<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABERNA O ROSSIO
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.JUNTA DE FREGUESIA,5 <br>
+	                      				2640 - 335 IGREJA NOVA MFR <br>
+	                      				Tel: 219670445<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										PAPELARIA VILLAGE MAGIQUE
+	                    			</span> 
+	                    			<span class="text">
+	                    				AVENIDA DE PORTUGAL,31 LJ-1 * POVOA DA GALEGA <br>
+	                      				2665 - 357 MILHARADO <br>
+	                      				Tel: 219855184<br>
+	                      				Fax: 219855184
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										CAFE JACKPOT
+	                    			</span> 
+	                    			<span class="text">
+	                    				R.DO M.F.A.,69 <br>
+	                      				2640 - 728 SÃO MIGUEL DE ALCAINÇA <br>
+	                      				Tel: 219663923<br>
+	                      				
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										TABACARIA O SINO
+	                    			</span> 
+	                    			<span class="text">
+	                    				TERREIRO D.JOAO V,28 <br>
+	                      				2640 - 492 MAFRA <br>
+	                      				Tel: 261815134<br>
+	                      				Fax: 261854992
+	                      			</span>
+	                      		</li>
+
+	                    		<li style="display: none;"> 
+	                    			<span class="title">
+										WORLDBOX, LDA
+	                    			</span> 
+	                    			<span class="text">
+	                    				AV ALMIRANTE GAGO COUTINHO, 7, LJ 7 <br>
+	                      				2640 - 487 MAFRA <br>
+	                      				Tel: 261853800<br>
+	                      				Fax: 261853800
+	                      			</span>
+	                      		</li>
+                    			
+                  			</ul>
